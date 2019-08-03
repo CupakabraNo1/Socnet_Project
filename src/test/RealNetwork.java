@@ -5,6 +5,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 import implementation.UndirectedAffinityGraph;
 
@@ -31,60 +33,50 @@ public class RealNetwork {
 	public static UndirectedAffinityGraph<String,String> wikipedia() {
 		UndirectedAffinityGraph<String,String> graph=new UndirectedAffinityGraph<>();
 		try {
-			File wiki=new File(WIKI);
-			BufferedReader reader=new BufferedReader(new FileReader(wiki));
+			BufferedReader reader=new BufferedReader(new FileReader(new File(WIKI)));
 			String line="";
 			int i=0;
+			Map<String,Boolean> map=new HashMap<String, Boolean>();
 			try {
 				line=reader.readLine();
 				while (line!=null) {
 					System.out.println(i++);
 
 					if(line.startsWith("SRC:")) {
-						String [] tokens=line.split(":");
-						String sorce="";
-						if(tokens.length > 1) {
-							sorce=tokens[1].trim();
-						}else {
-							sorce="";
-						}
-						if(!graph.getVertices().contains(sorce)) {
-							graph.addVertex(sorce);
-						}
+						String sorce=line.substring(4);
+						
 						line=reader.readLine();
-						tokens=line.split(":");
-						String target="";
-						if(tokens.length > 1) {
-							target=tokens[1].trim();
-						}else {
-							target="";
-						}
-						if(!graph.getVertices().contains(tokens[1].trim())) {
-							graph.addVertex(tokens[1].trim());
-						}
+						String target=line.substring(4);
+						
 						line=reader.readLine();
-						tokens=line.split(":");
-						boolean sign=false;
+						String s=line.substring(4).trim();
+						Boolean sign=null;
+						if(s.equals("1")) sign=true;
+						else if (s.equals("-1")) sign=false;
+						else continue;
 						
-						
-						//Koristi mapu umesto ovoga brze je//
-						
-						
-//						if("1".equals(tokens[1].trim())) {
-//							sign=true;
-//						}
-//						
-//						if(!graph.getNeighbours(sorce, true).contains(target) && !graph.getNeighbours(sorce, false).contains(target)) {
-//							graph.addEdge(sorce+" "+target, sign, sorce, target);
-//						}else {
-//							if(graph.getNeighbours(sorce, true).contains(target) && !sign) {
-//								graph.deleteEdge(sorce+" "+target);
-//								graph.addEdge(sorce+" "+target, false, sorce, target);
-//							}
-//						}
+						String key=sorce+" "+target;
+						String rev=target+" "+sorce;
+						if(map.containsKey(key) || map.containsKey(rev)) {
+							if(!sign) {
+								if(map.get(key)!=null) {
+									map.put(key, false);
+								}else {
+									map.put(rev, false);
+								}
+							}
+						}else {
+							map.put(key, sign);
+						}
 					}
 					line=reader.readLine();
-				} 
+				}
+				
+				map.entrySet().stream().distinct().forEach(x->{
+					String [] s=x.getKey().split(" ");
+					graph.addEdge(x.getKey(), x.getValue(), s[0], s[1]);
+				});
+				
 			}catch (IOException e) {
 				System.err.println("Error!");
 				e.printStackTrace();
@@ -93,7 +85,58 @@ public class RealNetwork {
 			System.err.println("File not found.");
 			e.printStackTrace();
 		}
-		return graph;
+		return graph;	
+	}
+	
+	public static UndirectedAffinityGraph<Integer, String> bitcoin(){
+		UndirectedAffinityGraph<Integer,String> graph=new UndirectedAffinityGraph<>();
 		
+		try {
+			BufferedReader reader=new BufferedReader(new FileReader(new File(BITCOIN)));
+			String line="";
+			Map<String,Boolean> map=new HashMap<String, Boolean>();
+			try {
+				line=reader.readLine();
+				while(line!=null) {
+					String [] tokens=line.split(",");
+					Integer sorce=Integer.parseInt(tokens[0].trim());
+					Integer target=Integer.parseInt(tokens[1].trim());
+					Integer s=Integer.parseInt(tokens[1].trim());
+					Boolean sign=null;
+					if(s<0) sign=false;
+					else if(s>0) sign=true;
+					else continue;
+					
+					String key=sorce+" "+target;
+					String rev=target+" "+sorce;
+					
+					if(map.containsKey(key) || map.containsKey(rev)) {
+						if(!sign) {
+							if(map.get(key)!=null) {
+								map.put(key, false);
+							}else {
+								map.put(rev, false);
+							}
+						}
+					}else {
+						map.put(key, sign);
+					}
+					line=reader.readLine();
+					
+				}
+				map.entrySet().stream().distinct().forEach(x->{
+					String [] s=x.getKey().split(" ");
+					graph.addEdge(x.getKey(), x.getValue(), Integer.parseInt(s[0]), Integer.parseInt(s[1]));
+				});
+			} catch (IOException e) {
+				System.err.println("Error!");
+				e.printStackTrace();
+			}
+			
+		} catch (FileNotFoundException e) {
+			System.err.println("File not found.");
+			e.printStackTrace();
+		}
+		return graph;
 	}
 }
