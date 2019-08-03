@@ -101,7 +101,7 @@ public class RealNetwork {
 					String [] tokens=line.split(",");
 					Integer sorce=Integer.parseInt(tokens[0].trim());
 					Integer target=Integer.parseInt(tokens[1].trim());
-					Integer s=Integer.parseInt(tokens[1].trim());
+					Integer s=Integer.parseInt(tokens[2].trim());
 					Boolean sign=null;
 					if(s<0) sign=false;
 					else if(s>0) sign=true;
