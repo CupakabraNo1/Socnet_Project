@@ -10,8 +10,11 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
+import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.graph.util.Pair;
+import implementation.Cluster;
 import implementation.UndirectedAffinityGraph;
 
 
@@ -122,19 +125,26 @@ public class Clustering<V,L> {
 				.collect(Collectors.toList());
 	}
 	
-	public void clusterNetwork(){
+	public UndirectedSparseGraph<Cluster<V, L>, String> clusterNetwork(){
+		UndirectedSparseGraph<Cluster<V,L>, String> network=new UndirectedSparseGraph<Cluster<V,L>, String>();
+		int br=0;
+		Set<Cluster<V, L>> clus=new HashSet<>();
+		for(UndirectedAffinityGraph<V, L> g:clusters) {
+			Cluster<V, L> cluster=new Cluster<>();
+			cluster.setName(br++);
+			cluster.setGraph(g);
+			clus.add(cluster);
+		}
 		
+		for(Cluster<V, L> s:clus) {
+			Set<V> nei=s.nodes().stream().flatMap(x->graph.getNeighbours(x, false).stream()).filter(y->!s.nodes().contains(y)).collect(Collectors.toSet());
+			for(Cluster<V,L> t:clus) {
+				for(V v:nei) {
+					if(t.nodes().contains(v)) network.addEdge(s.getName()+" "+t.getName(),s, t);
+				}
+			}
+		}
+		
+		return network;
 	}
-	
-	private List<L> findInterClusterEdges(){
-		return graph.getEdges().entrySet().stream()
-				.filter(x->!x.getValue())
-				.map(x->x.getKey())
-				.collect(Collectors.toList());
-	}
-	
-	private UndirectedAffinityGraph<V, L> findCluster(V v){
-		return clusters.stream().filter(x -> x.getVertices().contains(v)).collect(Collectors.toList()).get(0);
-	}
-	
 }
