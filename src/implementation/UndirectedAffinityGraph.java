@@ -12,6 +12,7 @@ import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.graph.util.Pair;
 
 public class UndirectedAffinityGraph<V,E>{
+	
 	public UndirectedSparseGraph<V, Link<E>> graph;
 	
 	Transformer<E, Link> linkTrans =
@@ -36,6 +37,7 @@ public class UndirectedAffinityGraph<V,E>{
 		link.setSign(b);
 		graph.addEdge(link, v1,v2);
 	}
+	
 	public void addEdge(E e, V v1, V v2) {
 		Link<E> link= linkTrans.transform(e);
 		graph.addEdge(link, v1,v2);

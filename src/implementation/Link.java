@@ -66,5 +66,4 @@ public class Link<E> {
 		return true;
 	}
 	
-	
 }

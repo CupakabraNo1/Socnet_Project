@@ -11,15 +11,19 @@ public class Cluster<V,E> {
 	public String getName() {
 		return name;
 	}
+	
 	public void setName(int num) {
 		this.name = "cluster "+num;
 	}
+	
 	public UndirectedAffinityGraph<V, E> getGraph() {
 		return graph;
 	}
+	
 	public void setGraph(UndirectedAffinityGraph<V, E> graph) {
 		this.graph = graph;
 	}
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -28,6 +32,7 @@ public class Cluster<V,E> {
 //		result = prime * result + ((name == null) ? 0 : name.hashCode());
 		return result;
 	}
+	
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -59,7 +64,5 @@ public class Cluster<V,E> {
 		sb.append("Cluster:"+name);
 		return sb.toString();
 	}
-	
-	
-	
+
 }

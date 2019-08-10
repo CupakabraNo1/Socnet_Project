@@ -58,7 +58,6 @@ public class Clustering<V,L> {
 		}
 	}
 
-	
 	private void components() {
 		visited=new HashSet<>();
 		components=new HashSet<Set<V>>();
@@ -147,4 +146,5 @@ public class Clustering<V,L> {
 		
 		return network;
 	}
+
 }
