@@ -1,0 +1,5488 @@
+Number of nodes: 1000
+Number of edges: 4736
+Percentage of positiv edges: 78.0 %
+Clusterable: YES
+Number of clusters: 150
+Number of links for removal: 0
+Number of coalitions: 150
+Number of anticoalitions: 0
+Graph contains giant component: NO
+Averega degree in graph: 9.47
+Average density in graph: 0.01
+Cluster network: 
+</graph>
+	<node>cluster 16</node>
+	<node>cluster 61</node>
+	<node>cluster 15</node>
+	<node>cluster 55</node>
+	<node>cluster 19</node>
+	<node>cluster 21</node>
+	<node>cluster 18</node>
+	<node>cluster 60</node>
+	<node>cluster 22</node>
+	<node>cluster 67</node>
+	<node>cluster 24</node>
+	<node>cluster 69</node>
+	<node>cluster 71</node>
+	<node>cluster 73</node>
+	<node>cluster 26</node>
+	<node>cluster 29</node>
+	<node>cluster 80</node>
+	<node>cluster 31</node>
+	<node>cluster 30</node>
+	<node>cluster 78</node>
+	<node>cluster 79</node>
+	<node>cluster 121</node>
+	<node>cluster 123</node>
+	<node>cluster 37</node>
+	<node>cluster 120</node>
+	<node>cluster 125</node>
+	<node>cluster 38</node>
+	<node>cluster 7</node>
+	<node>cluster 4</node>
+	<node>cluster 6</node>
+	<node>cluster 9</node>
+	<node>cluster 46</node>
+	<node>cluster 53</node>
+	<node>cluster 52</node>
+	<node>cluster 54</node>
+	<node>cluster 131</node>
+	<node>cluster 57</node>
+	<node>cluster 58</node>
+	<node>cluster 17</node>
+	<node>cluster 20</node>
+	<node>cluster 65</node>
+	<node>cluster 64</node>
+	<node>cluster 62</node>
+	<node>cluster 63</node>
+	<node>cluster 14</node>
+	<node>cluster 114</node>
+	<node>cluster 72</node>
+	<node>cluster 113</node>
+	<node>cluster 66</node>
+	<node>cluster 27</node>
+	<node>cluster 75</node>
+	<node>cluster 77</node>
+	<node>cluster 32</node>
+	<node>cluster 76</node>
+	<node>cluster 0</node>
+	<node>cluster 88</node>
+	<node>cluster 33</node>
+	<node>cluster 34</node>
+	<node>cluster 41</node>
+	<node>cluster 1</node>
+	<node>cluster 40</node>
+	<node>cluster 43</node>
+	<node>cluster 3</node>
+	<node>cluster 86</node>
+	<node>cluster 44</node>
+	<node>cluster 47</node>
+	<node>cluster 48</node>
+	<node>cluster 93</node>
+	<node>cluster 95</node>
+	<node>cluster 51</node>
+	<node>cluster 50</node>
+	<node>cluster 13</node>
+	<node>cluster 56</node>
+	<node>cluster 98</node>
+	<node>cluster 59</node>
+	<node>cluster 101</node>
+	<node>cluster 100</node>
+	<node>cluster 102</node>
+	<node>cluster 103</node>
+	<node>cluster 91</node>
+	<node>cluster 105</node>
+	<node>cluster 137</node>
+	<node>cluster 107</node>
+	<node>cluster 143</node>
+	<node>cluster 108</node>
+	<node>cluster 68</node>
+	<node>cluster 70</node>
+	<node>cluster 110</node>
+	<node>cluster 109</node>
+	<node>cluster 141</node>
+	<node>cluster 115</node>
+	<node>cluster 119</node>
+	<node>cluster 74</node>
+	<node>cluster 116</node>
+	<node>cluster 35</node>
+	<node>cluster 82</node>
+	<node>cluster 36</node>
+	<node>cluster 39</node>
+	<node>cluster 42</node>
+	<node>cluster 85</node>
+	<node>cluster 84</node>
+	<node>cluster 127</node>
+	<node>cluster 87</node>
+	<node>cluster 129</node>
+	<node>cluster 89</node>
+	<node>cluster 45</node>
+	<node>cluster 92</node>
+	<node>cluster 130</node>
+	<node>cluster 49</node>
+	<node>cluster 133</node>
+	<node>cluster 96</node>
+	<node>cluster 136</node>
+	<node>cluster 99</node>
+	<node>cluster 138</node>
+	<node>cluster 140</node>
+	<node>cluster 142</node>
+	<node>cluster 104</node>
+	<node>cluster 144</node>
+	<node>cluster 106</node>
+	<node>cluster 112</node>
+	<node>cluster 25</node>
+	<node>cluster 146</node>
+	<node>cluster 145</node>
+	<node>cluster 111</node>
+	<node>cluster 148</node>
+	<node>cluster 147</node>
+	<node>cluster 117</node>
+	<node>cluster 118</node>
+	<node>cluster 124</node>
+	<node>cluster 149</node>
+	<node>cluster 28</node>
+	<node>cluster 23</node>
+	<node>cluster 122</node>
+	<node>cluster 81</node>
+	<node>cluster 2</node>
+	<node>cluster 5</node>
+	<node>cluster 126</node>
+	<node>cluster 83</node>
+	<node>cluster 8</node>
+	<node>cluster 128</node>
+	<node>cluster 90</node>
+	<node>cluster 10</node>
+	<node>cluster 132</node>
+	<node>cluster 139</node>
+	<node>cluster 134</node>
+	<node>cluster 97</node>
+	<node>cluster 11</node>
+	<node>cluster 12</node>
+	<node>cluster 135</node>
+
+	<edge>cluster 52 cluster 117</edge>
+	<edge>cluster 123 cluster 95</edge>
+	<edge>cluster 29 cluster 97</edge>
+	<edge>cluster 102 cluster 110</edge>
+	<edge>cluster 108 cluster 118</edge>
+	<edge>cluster 39 cluster 12</edge>
+	<edge>cluster 60 cluster 23</edge>
+	<edge>cluster 144 cluster 112</edge>
+	<edge>cluster 116 cluster 92</edge>
+	<edge>cluster 105 cluster 68</edge>
+	<edge>cluster 80 cluster 20</edge>
+	<edge>cluster 4 cluster 122</edge>
+	<edge>cluster 38 cluster 72</edge>
+	<edge>cluster 139 cluster 11</edge>
+	<edge>cluster 43 cluster 13</edge>
+	<edge>cluster 68 cluster 74</edge>
+	<edge>cluster 101 cluster 42</edge>
+	<edge>cluster 7 cluster 130</edge>
+	<edge>cluster 40 cluster 13</edge>
+	<edge>cluster 110 cluster 135</edge>
+	<edge>cluster 24 cluster 35</edge>
+	<edge>cluster 53 cluster 129</edge>
+	<edge>cluster 91 cluster 127</edge>
+	<edge>cluster 19 cluster 111</edge>
+	<edge>cluster 113 cluster 28</edge>
+	<edge>cluster 55 cluster 83</edge>
+	<edge>cluster 19 cluster 114</edge>
+	<edge>cluster 121 cluster 32</edge>
+	<edge>cluster 65 cluster 126</edge>
+	<edge>cluster 16 cluster 115</edge>
+	<edge>cluster 18 cluster 115</edge>
+	<edge>cluster 1 cluster 44</edge>
+	<edge>cluster 96 cluster 25</edge>
+	<edge>cluster 145 cluster 81</edge>
+	<edge>cluster 3 cluster 108</edge>
+	<edge>cluster 48 cluster 118</edge>
+	<edge>cluster 37 cluster 27</edge>
+	<edge>cluster 6 cluster 10</edge>
+	<edge>cluster 58 cluster 64</edge>
+	<edge>cluster 22 cluster 59</edge>
+	<edge>cluster 9 cluster 35</edge>
+	<edge>cluster 123 cluster 131</edge>
+	<edge>cluster 120 cluster 36</edge>
+	<edge>cluster 88 cluster 97</edge>
+	<edge>cluster 122 cluster 139</edge>
+	<edge>cluster 71 cluster 23</edge>
+	<edge>cluster 86 cluster 8</edge>
+	<edge>cluster 28 cluster 128</edge>
+	<edge>cluster 79 cluster 104</edge>
+	<edge>cluster 17 cluster 107</edge>
+	<edge>cluster 79 cluster 81</edge>
+	<edge>cluster 131 cluster 119</edge>
+	<edge>cluster 58 cluster 90</edge>
+	<edge>cluster 57 cluster 107</edge>
+	<edge>cluster 142 cluster 134</edge>
+	<edge>cluster 22 cluster 6</edge>
+	<edge>cluster 38 cluster 11</edge>
+	<edge>cluster 75 cluster 1</edge>
+	<edge>cluster 103 cluster 147</edge>
+	<edge>cluster 63 cluster 146</edge>
+	<edge>cluster 30 cluster 51</edge>
+	<edge>cluster 59 cluster 84</edge>
+	<edge>cluster 105 cluster 141</edge>
+	<edge>cluster 33 cluster 102</edge>
+	<edge>cluster 43 cluster 144</edge>
+	<edge>cluster 109 cluster 10</edge>
+	<edge>cluster 80 cluster 146</edge>
+	<edge>cluster 87 cluster 145</edge>
+	<edge>cluster 47 cluster 136</edge>
+	<edge>cluster 17 cluster 14</edge>
+	<edge>cluster 26 cluster 91</edge>
+	<edge>cluster 119 cluster 90</edge>
+	<edge>cluster 86 cluster 141</edge>
+	<edge>cluster 56 cluster 99</edge>
+	<edge>cluster 61 cluster 31</edge>
+	<edge>cluster 75 cluster 100</edge>
+	<edge>cluster 40 cluster 140</edge>
+	<edge>cluster 106 cluster 132</edge>
+	<edge>cluster 30 cluster 100</edge>
+	<edge>cluster 24 cluster 82</edge>
+	<edge>cluster 52 cluster 36</edge>
+	<edge>cluster 27 cluster 83</edge>
+	<edge>cluster 41 cluster 89</edge>
+	<edge>cluster 39 cluster 124</edge>
+	<edge>cluster 20 cluster 56</edge>
+	<edge>cluster 101 cluster 87</edge>
+	<edge>cluster 85 cluster 132</edge>
+	<edge>cluster 54 cluster 5</edge>
+	<edge>cluster 69 cluster 104</edge>
+	<edge>cluster 62 cluster 45</edge>
+	<edge>cluster 50 cluster 70</edge>
+	<edge>cluster 73 cluster 125</edge>
+	<edge>cluster 16 cluster 41</edge>
+	<edge>cluster 34 cluster 92</edge>
+	<edge>cluster 84 cluster 129</edge>
+	<edge>cluster 124 cluster 128</edge>
+	<edge>cluster 77 cluster 126</edge>
+	<edge>cluster 29 cluster 65</edge>
+	<edge>cluster 61 cluster 98</edge>
+	<edge>cluster 66 cluster 74</edge>
+	<edge>cluster 55 cluster 37</edge>
+	<edge>cluster 63 cluster 44</edge>
+	<edge>cluster 53 cluster 8</edge>
+	<edge>cluster 0 cluster 48</edge>
+	<edge>cluster 78 cluster 117</edge>
+	<edge>cluster 82 cluster 127</edge>
+	<edge>cluster 71 cluster 14</edge>
+	<edge>cluster 46 cluster 72</edge>
+	<edge>cluster 26 cluster 9</edge>
+	<edge>cluster 93 cluster 137</edge>
+	<edge>cluster 21 cluster 114</edge>
+	<edge>cluster 93 cluster 42</edge>
+	<edge>cluster 70 cluster 138</edge>
+	<edge>cluster 60 cluster 112</edge>
+	<edge>cluster 3 cluster 148</edge>
+	<edge>cluster 15 cluster 49</edge>
+	<edge>cluster 54 cluster 133</edge>
+	<edge>cluster 64 cluster 2</edge>
+	<edge>cluster 66 cluster 33</edge>
+	<edge>cluster 77 cluster 135</edge>
+	<edge>cluster 137 cluster 5</edge>
+	<edge>cluster 67 cluster 0</edge>
+	<edge>cluster 67 cluster 2</edge>
+	<edge>cluster 120 cluster 89</edge>
+	<edge>cluster 62 cluster 113</edge>
+	<edge>cluster 73 cluster 149</edge>
+	<edge>cluster 31 cluster 149</edge>
+	<edge>cluster 57 cluster 50</edge>
+	<edge>cluster 85 cluster 45</edge>
+	<edge>cluster 95 cluster 148</edge>
+	<edge>cluster 125 cluster 103</edge>
+	<edge>cluster 7 cluster 76</edge>
+	<edge>cluster 121 cluster 99</edge>
+	<edge>cluster 88 cluster 106</edge>
+	<edge>cluster 116 cluster 140</edge>
+	<edge>cluster 76 cluster 49</edge>
+	<edge>cluster 111 cluster 12</edge>
+	<edge>cluster 21 cluster 109</edge>
+	<edge>cluster 4 cluster 133</edge>
+	<edge>cluster 34 cluster 143</edge>
+	<edge>cluster 15 cluster 134</edge>
+	<edge>cluster 98 cluster 142</edge>
+	<edge>cluster 78 cluster 138</edge>
+	<edge>cluster 18 cluster 46</edge>
+	<edge>cluster 69 cluster 32</edge>
+	<edge>cluster 51 cluster 143</edge>
+	<edge>cluster 130 cluster 147</edge>
+</graph>
+Links for removal: 
+
+Coalitions: 
+<graph> 
+	<node>585</node>
+
+</graph>
+<graph> 
+	<node>901</node>
+
+</graph>
+<graph> 
+	<node>859</node>
+
+</graph>
+<graph> 
+	<node>163</node>
+	<node>540</node>
+	<node>493</node>
+	<node>287</node>
+
+	<edge>493 540/+</edge>
+	<edge>163 493/+</edge>
+	<edge>540 287/+</edge>
+</graph>
+<graph> 
+	<node>904</node>
+
+</graph>
+<graph> 
+	<node>712</node>
+
+</graph>
+<graph> 
+	<node>147</node>
+
+</graph>
+<graph> 
+	<node>278</node>
+
+</graph>
+<graph> 
+	<node>347</node>
+
+</graph>
+<graph> 
+	<node>364</node>
+
+</graph>
+<graph> 
+	<node>192</node>
+
+</graph>
+<graph> 
+	<node>803</node>
+
+</graph>
+<graph> 
+	<node>425</node>
+
+</graph>
+<graph> 
+	<node>897</node>
+
+</graph>
+<graph> 
+	<node>200</node>
+
+</graph>
+<graph> 
+	<node>990</node>
+
+</graph>
+<graph> 
+	<node>88</node>
+
+</graph>
+<graph> 
+	<node>348</node>
+
+</graph>
+<graph> 
+	<node>865</node>
+
+</graph>
+<graph> 
+	<node>0</node>
+	<node>1</node>
+	<node>513</node>
+	<node>2</node>
+	<node>3</node>
+	<node>515</node>
+	<node>516</node>
+	<node>520</node>
+	<node>521</node>
+	<node>524</node>
+	<node>529</node>
+	<node>18</node>
+	<node>21</node>
+	<node>535</node>
+	<node>537</node>
+	<node>26</node>
+	<node>27</node>
+	<node>541</node>
+	<node>542</node>
+	<node>33</node>
+	<node>34</node>
+	<node>35</node>
+	<node>547</node>
+	<node>36</node>
+	<node>548</node>
+	<node>41</node>
+	<node>553</node>
+	<node>42</node>
+	<node>554</node>
+	<node>555</node>
+	<node>556</node>
+	<node>557</node>
+	<node>558</node>
+	<node>559</node>
+	<node>560</node>
+	<node>51</node>
+	<node>52</node>
+	<node>565</node>
+	<node>567</node>
+	<node>57</node>
+	<node>573</node>
+	<node>574</node>
+	<node>63</node>
+	<node>576</node>
+	<node>577</node>
+	<node>66</node>
+	<node>580</node>
+	<node>69</node>
+	<node>582</node>
+	<node>73</node>
+	<node>587</node>
+	<node>588</node>
+	<node>591</node>
+	<node>592</node>
+	<node>81</node>
+	<node>596</node>
+	<node>604</node>
+	<node>607</node>
+	<node>99</node>
+	<node>616</node>
+	<node>106</node>
+	<node>618</node>
+	<node>115</node>
+	<node>629</node>
+	<node>630</node>
+	<node>634</node>
+	<node>636</node>
+	<node>133</node>
+	<node>646</node>
+	<node>647</node>
+	<node>136</node>
+	<node>140</node>
+	<node>652</node>
+	<node>141</node>
+	<node>146</node>
+	<node>148</node>
+	<node>668</node>
+	<node>670</node>
+	<node>672</node>
+	<node>161</node>
+	<node>162</node>
+	<node>164</node>
+	<node>676</node>
+	<node>165</node>
+	<node>166</node>
+	<node>168</node>
+	<node>169</node>
+	<node>682</node>
+	<node>172</node>
+	<node>684</node>
+	<node>174</node>
+	<node>176</node>
+	<node>177</node>
+	<node>180</node>
+	<node>184</node>
+	<node>186</node>
+	<node>187</node>
+	<node>188</node>
+	<node>701</node>
+	<node>190</node>
+	<node>704</node>
+	<node>193</node>
+	<node>706</node>
+	<node>195</node>
+	<node>707</node>
+	<node>198</node>
+	<node>202</node>
+	<node>715</node>
+	<node>721</node>
+	<node>723</node>
+	<node>212</node>
+	<node>213</node>
+	<node>727</node>
+	<node>216</node>
+	<node>218</node>
+	<node>731</node>
+	<node>220</node>
+	<node>221</node>
+	<node>223</node>
+	<node>735</node>
+	<node>225</node>
+	<node>737</node>
+	<node>738</node>
+	<node>739</node>
+	<node>229</node>
+	<node>233</node>
+	<node>236</node>
+	<node>749</node>
+	<node>239</node>
+	<node>752</node>
+	<node>241</node>
+	<node>242</node>
+	<node>755</node>
+	<node>757</node>
+	<node>247</node>
+	<node>763</node>
+	<node>254</node>
+	<node>769</node>
+	<node>770</node>
+	<node>259</node>
+	<node>771</node>
+	<node>261</node>
+	<node>262</node>
+	<node>264</node>
+	<node>779</node>
+	<node>780</node>
+	<node>781</node>
+	<node>783</node>
+	<node>272</node>
+	<node>786</node>
+	<node>787</node>
+	<node>790</node>
+	<node>791</node>
+	<node>280</node>
+	<node>792</node>
+	<node>793</node>
+	<node>282</node>
+	<node>796</node>
+	<node>286</node>
+	<node>799</node>
+	<node>290</node>
+	<node>802</node>
+	<node>293</node>
+	<node>294</node>
+	<node>806</node>
+	<node>807</node>
+	<node>299</node>
+	<node>811</node>
+	<node>301</node>
+	<node>815</node>
+	<node>304</node>
+	<node>305</node>
+	<node>306</node>
+	<node>819</node>
+	<node>821</node>
+	<node>310</node>
+	<node>822</node>
+	<node>823</node>
+	<node>313</node>
+	<node>825</node>
+	<node>827</node>
+	<node>316</node>
+	<node>317</node>
+	<node>829</node>
+	<node>831</node>
+	<node>321</node>
+	<node>322</node>
+	<node>328</node>
+	<node>331</node>
+	<node>845</node>
+	<node>334</node>
+	<node>335</node>
+	<node>338</node>
+	<node>852</node>
+	<node>854</node>
+	<node>858</node>
+	<node>860</node>
+	<node>861</node>
+	<node>353</node>
+	<node>358</node>
+	<node>871</node>
+	<node>361</node>
+	<node>362</node>
+	<node>365</node>
+	<node>877</node>
+	<node>878</node>
+	<node>879</node>
+	<node>371</node>
+	<node>883</node>
+	<node>374</node>
+	<node>886</node>
+	<node>887</node>
+	<node>379</node>
+	<node>893</node>
+	<node>894</node>
+	<node>898</node>
+	<node>900</node>
+	<node>391</node>
+	<node>393</node>
+	<node>395</node>
+	<node>907</node>
+	<node>399</node>
+	<node>400</node>
+	<node>401</node>
+	<node>913</node>
+	<node>412</node>
+	<node>415</node>
+	<node>927</node>
+	<node>417</node>
+	<node>418</node>
+	<node>423</node>
+	<node>937</node>
+	<node>426</node>
+	<node>433</node>
+	<node>945</node>
+	<node>434</node>
+	<node>948</node>
+	<node>437</node>
+	<node>949</node>
+	<node>952</node>
+	<node>954</node>
+	<node>961</node>
+	<node>450</node>
+	<node>963</node>
+	<node>452</node>
+	<node>964</node>
+	<node>455</node>
+	<node>456</node>
+	<node>968</node>
+	<node>458</node>
+	<node>465</node>
+	<node>470</node>
+	<node>986</node>
+	<node>475</node>
+	<node>991</node>
+	<node>482</node>
+	<node>484</node>
+	<node>491</node>
+	<node>500</node>
+
+	<edge>739 2/+</edge>
+	<edge>470 221/+</edge>
+	<edge>786 752/+</edge>
+	<edge>827 470/+</edge>
+	<edge>913 358/+</edge>
+	<edge>282 854/+</edge>
+	<edge>148 825/+</edge>
+	<edge>793 133/+</edge>
+	<edge>400 588/+</edge>
+	<edge>596 434/+</edge>
+	<edge>304 190/+</edge>
+	<edge>735 220/+</edge>
+	<edge>299 176/+</edge>
+	<edge>172 799/+</edge>
+	<edge>362 415/+</edge>
+	<edge>482 450/+</edge>
+	<edge>554 475/+</edge>
+	<edge>787 41/+</edge>
+	<edge>871 218/+</edge>
+	<edge>537 475/+</edge>
+	<edge>236 515/+</edge>
+	<edge>417 636/+</edge>
+	<edge>952 636/+</edge>
+	<edge>792 811/+</edge>
+	<edge>757 415/+</edge>
+	<edge>331 591/+</edge>
+	<edge>36 254/+</edge>
+	<edge>177 704/+</edge>
+	<edge>166 3/+</edge>
+	<edge>783 769/+</edge>
+	<edge>682 952/+</edge>
+	<edge>213 166/+</edge>
+	<edge>737 952/+</edge>
+	<edge>176 57/+</edge>
+	<edge>582 704/+</edge>
+	<edge>580 2/+</edge>
+	<edge>293 202/+</edge>
+	<edge>823 371/+</edge>
+	<edge>21 780/+</edge>
+	<edge>115 604/+</edge>
+	<edge>560 861/+</edge>
+	<edge>647 334/+</edge>
+	<edge>33 576/+</edge>
+	<edge>328 304/+</edge>
+	<edge>807 379/+</edge>
+	<edge>41 241/+</edge>
+	<edge>757 763/+</edge>
+	<edge>475 27/+</edge>
+	<edge>755 73/+</edge>
+	<edge>233 393/+</edge>
+	<edge>783 193/+</edge>
+	<edge>727 202/+</edge>
+	<edge>34 799/+</edge>
+	<edge>334 738/+</edge>
+	<edge>752 331/+</edge>
+	<edge>557 176/+</edge>
+	<edge>63 894/+</edge>
+	<edge>174 254/+</edge>
+	<edge>587 213/+</edge>
+	<edge>290 36/+</edge>
+	<edge>555 3/+</edge>
+	<edge>262 607/+</edge>
+	<edge>168 0/+</edge>
+	<edge>239 51/+</edge>
+	<edge>218 770/+</edge>
+	<edge>450 458/+</edge>
+	<edge>878 216/+</edge>
+	<edge>829 500/+</edge>
+	<edge>879 986/+</edge>
+	<edge>831 948/+</edge>
+	<edge>0 423/+</edge>
+	<edge>790 148/+</edge>
+	<edge>0 338/+</edge>
+	<edge>146 792/+</edge>
+	<edge>164 731/+</edge>
+	<edge>272 672/+</edge>
+	<edge>223 458/+</edge>
+	<edge>264 57/+</edge>
+	<edge>176 721/+</edge>
+	<edge>949 236/+</edge>
+	<edge>516 57/+</edge>
+	<edge>739 560/+</edge>
+	<edge>560 883/+</edge>
+	<edge>755 188/+</edge>
+	<edge>668 565/+</edge>
+	<edge>262 739/+</edge>
+	<edge>1 647/+</edge>
+	<edge>264 328/+</edge>
+	<edge>136 280/+</edge>
+	<edge>216 262/+</edge>
+	<edge>790 434/+</edge>
+	<edge>596 781/+</edge>
+	<edge>634 806/+</edge>
+	<edge>353 306/+</edge>
+	<edge>529 560/+</edge>
+	<edge>937 241/+</edge>
+	<edge>554 362/+</edge>
+	<edge>580 21/+</edge>
+	<edge>557 198/+</edge>
+	<edge>452 749/+</edge>
+	<edge>792 879/+</edge>
+	<edge>212 186/+</edge>
+	<edge>475 1/+</edge>
+	<edge>793 395/+</edge>
+	<edge>559 735/+</edge>
+	<edge>822 945/+</edge>
+	<edge>491 567/+</edge>
+	<edge>317 737/+</edge>
+	<edge>949 322/+</edge>
+	<edge>582 482/+</edge>
+	<edge>331 136/+</edge>
+	<edge>676 560/+</edge>
+	<edge>715 475/+</edge>
+	<edge>646 574/+</edge>
+	<edge>465 807/+</edge>
+	<edge>796 845/+</edge>
+	<edge>115 827/+</edge>
+	<edge>799 986/+</edge>
+	<edge>491 893/+</edge>
+	<edge>1 293/+</edge>
+	<edge>195 707/+</edge>
+	<edge>770 577/+</edge>
+	<edge>36 827/+</edge>
+	<edge>146 682/+</edge>
+	<edge>225 592/+</edge>
+	<edge>770 771/+</edge>
+	<edge>458 520/+</edge>
+	<edge>513 148/+</edge>
+	<edge>261 290/+</edge>
+	<edge>81 963/+</edge>
+	<edge>560 796/+</edge>
+	<edge>647 136/+</edge>
+	<edge>220 799/+</edge>
+	<edge>802 629/+</edge>
+	<edge>184 417/+</edge>
+	<edge>399 822/+</edge>
+	<edge>187 556/+</edge>
+	<edge>893 802/+</edge>
+	<edge>548 723/+</edge>
+	<edge>852 254/+</edge>
+	<edge>247 301/+</edge>
+	<edge>218 556/+</edge>
+	<edge>317 715/+</edge>
+	<edge>547 701/+</edge>
+	<edge>792 986/+</edge>
+	<edge>51 845/+</edge>
+	<edge>73 261/+</edge>
+	<edge>963 684/+</edge>
+	<edge>738 162/+</edge>
+	<edge>33 353/+</edge>
+	<edge>187 313/+</edge>
+	<edge>861 365/+</edge>
+	<edge>715 259/+</edge>
+	<edge>177 706/+</edge>
+	<edge>141 362/+</edge>
+	<edge>783 190/+</edge>
+	<edge>280 322/+</edge>
+	<edge>927 854/+</edge>
+	<edge>883 555/+</edge>
+	<edge>616 739/+</edge>
+	<edge>3 362/+</edge>
+	<edge>727 886/+</edge>
+	<edge>301 294/+</edge>
+	<edge>580 66/+</edge>
+	<edge>554 361/+</edge>
+	<edge>573 898/+</edge>
+	<edge>676 169/+</edge>
+	<edge>417 877/+</edge>
+	<edge>825 316/+</edge>
+	<edge>707 634/+</edge>
+	<edge>949 676/+</edge>
+	<edge>331 573/+</edge>
+	<edge>963 770/+</edge>
+	<edge>69 607/+</edge>
+	<edge>704 991/+</edge>
+	<edge>588 672/+</edge>
+	<edge>893 779/+</edge>
+	<edge>401 391/+</edge>
+	<edge>529 580/+</edge>
+	<edge>290 587/+</edge>
+	<edge>484 706/+</edge>
+	<edge>304 66/+</edge>
+	<edge>180 537/+</edge>
+	<edge>399 34/+</edge>
+	<edge>792 524/+</edge>
+	<edge>223 233/+</edge>
+	<edge>541 723/+</edge>
+	<edge>465 239/+</edge>
+	<edge>630 616/+</edge>
+	<edge>630 858/+</edge>
+	<edge>636 894/+</edge>
+	<edge>21 547/+</edge>
+	<edge>282 786/+</edge>
+	<edge>264 169/+</edge>
+	<edge>991 293/+</edge>
+	<edge>706 630/+</edge>
+	<edge>399 272/+</edge>
+	<edge>900 239/+</edge>
+	<edge>280 542/+</edge>
+	<edge>247 524/+</edge>
+	<edge>845 852/+</edge>
+	<edge>727 755/+</edge>
+	<edge>769 574/+</edge>
+	<edge>261 161/+</edge>
+	<edge>879 652/+</edge>
+	<edge>437 791/+</edge>
+	<edge>937 991/+</edge>
+	<edge>636 786/+</edge>
+	<edge>618 961/+</edge>
+	<edge>878 831/+</edge>
+	<edge>991 845/+</edge>
+	<edge>861 954/+</edge>
+	<edge>169 963/+</edge>
+	<edge>33 35/+</edge>
+	<edge>556 520/+</edge>
+	<edge>136 1/+</edge>
+	<edge>948 755/+</edge>
+	<edge>465 871/+</edge>
+	<edge>52 165/+</edge>
+	<edge>894 187/+</edge>
+	<edge>202 559/+</edge>
+	<edge>63 450/+</edge>
+	<edge>434 176/+</edge>
+	<edge>73 374/+</edge>
+	<edge>604 417/+</edge>
+	<edge>452 379/+</edge>
+	<edge>177 548/+</edge>
+	<edge>629 706/+</edge>
+	<edge>321 198/+</edge>
+	<edge>423 629/+</edge>
+	<edge>316 223/+</edge>
+	<edge>81 437/+</edge>
+	<edge>168 819/+</edge>
+	<edge>254 670/+</edge>
+	<edge>556 630/+</edge>
+	<edge>854 52/+</edge>
+	<edge>555 588/+</edge>
+	<edge>36 954/+</edge>
+	<edge>565 591/+</edge>
+	<edge>81 521/+</edge>
+	<edge>852 780/+</edge>
+	<edge>793 261/+</edge>
+	<edge>779 886/+</edge>
+	<edge>763 168/+</edge>
+	<edge>294 334/+</edge>
+	<edge>831 220/+</edge>
+	<edge>395 304/+</edge>
+	<edge>306 592/+</edge>
+	<edge>34 802/+</edge>
+	<edge>582 701/+</edge>
+	<edge>400 871/+</edge>
+	<edge>819 548/+</edge>
+	<edge>21 879/+</edge>
+	<edge>652 280/+</edge>
+	<edge>193 949/+</edge>
+	<edge>961 879/+</edge>
+	<edge>670 2/+</edge>
+	<edge>174 458/+</edge>
+	<edge>964 299/+</edge>
+	<edge>393 412/+</edge>
+	<edge>735 968/+</edge>
+	<edge>310 779/+</edge>
+	<edge>470 334/+</edge>
+	<edge>415 871/+</edge>
+	<edge>825 757/+</edge>
+	<edge>894 937/+</edge>
+	<edge>401 900/+</edge>
+	<edge>986 878/+</edge>
+	<edge>783 616/+</edge>
+	<edge>858 913/+</edge>
+	<edge>242 634/+</edge>
+	<edge>704 752/+</edge>
+	<edge>73 358/+</edge>
+	<edge>106 779/+</edge>
+	<edge>780 535/+</edge>
+	<edge>353 749/+</edge>
+	<edge>877 520/+</edge>
+	<edge>900 437/+</edge>
+	<edge>738 580/+</edge>
+	<edge>871 968/+</edge>
+	<edge>42 177/+</edge>
+	<edge>945 555/+</edge>
+	<edge>520 587/+</edge>
+	<edge>721 334/+</edge>
+	<edge>261 141/+</edge>
+	<edge>604 945/+</edge>
+	<edge>704 668/+</edge>
+	<edge>557 949/+</edge>
+	<edge>418 193/+</edge>
+	<edge>415 630/+</edge>
+	<edge>365 557/+</edge>
+	<edge>334 781/+</edge>
+	<edge>907 676/+</edge>
+	<edge>259 554/+</edge>
+	<edge>141 321/+</edge>
+	<edge>106 558/+</edge>
+	<edge>293 737/+</edge>
+	<edge>3 541/+</edge>
+	<edge>164 423/+</edge>
+	<edge>66 861/+</edge>
+	<edge>860 799/+</edge>
+	<edge>34 184/+</edge>
+	<edge>731 81/+</edge>
+	<edge>769 991/+</edge>
+	<edge>515 542/+</edge>
+	<edge>961 2/+</edge>
+	<edge>433 769/+</edge>
+	<edge>57 261/+</edge>
+	<edge>802 755/+</edge>
+	<edge>763 491/+</edge>
+	<edge>184 434/+</edge>
+	<edge>646 883/+</edge>
+	<edge>822 521/+</edge>
+	<edge>802 646/+</edge>
+	<edge>799 213/+</edge>
+	<edge>877 433/+</edge>
+	<edge>898 723/+</edge>
+	<edge>787 535/+</edge>
+	<edge>236 792/+</edge>
+	<edge>161 331/+</edge>
+	<edge>573 587/+</edge>
+	<edge>362 212/+</edge>
+	<edge>573 236/+</edge>
+	<edge>165 802/+</edge>
+	<edge>434 482/+</edge>
+	<edge>338 400/+</edge>
+	<edge>701 541/+</edge>
+	<edge>338 799/+</edge>
+	<edge>954 69/+</edge>
+	<edge>161 225/+</edge>
+	<edge>706 36/+</edge>
+	<edge>735 963/+</edge>
+	<edge>529 727/+</edge>
+	<edge>948 301/+</edge>
+	<edge>587 845/+</edge>
+	<edge>781 986/+</edge>
+	<edge>379 433/+</edge>
+	<edge>140 670/+</edge>
+	<edge>634 877/+</edge>
+	<edge>328 482/+</edge>
+	<edge>141 400/+</edge>
+	<edge>557 401/+</edge>
+	<edge>672 33/+</edge>
+	<edge>852 216/+</edge>
+	<edge>136 555/+</edge>
+	<edge>886 749/+</edge>
+	<edge>400 33/+</edge>
+	<edge>567 69/+</edge>
+	<edge>220 484/+</edge>
+	<edge>652 949/+</edge>
+	<edge>374 299/+</edge>
+	<edge>900 877/+</edge>
+	<edge>927 310/+</edge>
+	<edge>684 515/+</edge>
+	<edge>791 168/+</edge>
+	<edge>821 162/+</edge>
+	<edge>456 26/+</edge>
+	<edge>450 391/+</edge>
+	<edge>860 588/+</edge>
+	<edge>521 27/+</edge>
+	<edge>482 537/+</edge>
+	<edge>146 858/+</edge>
+	<edge>41 516/+</edge>
+	<edge>299 3/+</edge>
+	<edge>316 264/+</edge>
+	<edge>735 193/+</edge>
+	<edge>553 26/+</edge>
+	<edge>450 815/+</edge>
+	<edge>2 887/+</edge>
+	<edge>548 770/+</edge>
+	<edge>811 556/+</edge>
+	<edge>948 456/+</edge>
+	<edge>148 576/+</edge>
+	<edge>852 630/+</edge>
+	<edge>66 391/+</edge>
+	<edge>591 521/+</edge>
+	<edge>455 236/+</edge>
+	<edge>305 202/+</edge>
+	<edge>334 358/+</edge>
+	<edge>353 186/+</edge>
+	<edge>458 165/+</edge>
+	<edge>328 242/+</edge>
+	<edge>858 35/+</edge>
+	<edge>433 858/+</edge>
+	<edge>365 900/+</edge>
+	<edge>986 755/+</edge>
+	<edge>825 133/+</edge>
+	<edge>417 682/+</edge>
+	<edge>727 174/+</edge>
+	<edge>580 162/+</edge>
+	<edge>811 557/+</edge>
+	<edge>537 845/+</edge>
+	<edge>952 63/+</edge>
+	<edge>361 735/+</edge>
+	<edge>559 829/+</edge>
+	<edge>913 174/+</edge>
+	<edge>162 535/+</edge>
+	<edge>968 781/+</edge>
+	<edge>541 338/+</edge>
+	<edge>670 51/+</edge>
+	<edge>362 907/+</edge>
+	<edge>27 218/+</edge>
+	<edge>701 521/+</edge>
+	<edge>672 704/+</edge>
+	<edge>749 321/+</edge>
+	<edge>682 115/+</edge>
+	<edge>682 793/+</edge>
+	<edge>682 684/+</edge>
+	<edge>262 560/+</edge>
+	<edge>188 162/+</edge>
+	<edge>262 21/+</edge>
+	<edge>57 52/+</edge>
+	<edge>133 412/+</edge>
+	<edge>362 900/+</edge>
+	<edge>770 811/+</edge>
+	<edge>723 293/+</edge>
+	<edge>0 282/+</edge>
+	<edge>241 541/+</edge>
+	<edge>458 187/+</edge>
+	<edge>371 242/+</edge>
+	<edge>338 647/+</edge>
+	<edge>165 247/+</edge>
+	<edge>310 783/+</edge>
+	<edge>763 573/+</edge>
+	<edge>141 537/+</edge>
+	<edge>582 437/+</edge>
+	<edge>180 140/+</edge>
+	<edge>819 18/+</edge>
+	<edge>198 202/+</edge>
+	<edge>948 415/+</edge>
+	<edge>647 33/+</edge>
+	<edge>886 190/+</edge>
+	<edge>556 567/+</edge>
+	<edge>556 301/+</edge>
+	<edge>616 247/+</edge>
+	<edge>484 806/+</edge>
+	<edge>212 456/+</edge>
+	<edge>187 73/+</edge>
+	<edge>27 672/+</edge>
+	<edge>304 33/+</edge>
+	<edge>542 878/+</edge>
+	<edge>316 707/+</edge>
+	<edge>379 787/+</edge>
+	<edge>802 465/+</edge>
+	<edge>299 779/+</edge>
+	<edge>412 537/+</edge>
+	<edge>861 290/+</edge>
+	<edge>218 395/+</edge>
+	<edge>607 565/+</edge>
+	<edge>831 99/+</edge>
+	<edge>220 592/+</edge>
+	<edge>395 136/+</edge>
+	<edge>148 229/+</edge>
+	<edge>986 423/+</edge>
+	<edge>221 763/+</edge>
+	<edge>34 169/+</edge>
+	<edge>515 907/+</edge>
+	<edge>301 684/+</edge>
+	<edge>187 827/+</edge>
+	<edge>401 450/+</edge>
+	<edge>629 426/+</edge>
+	<edge>35 401/+</edge>
+	<edge>883 165/+</edge>
+	<edge>334 338/+</edge>
+	<edge>618 18/+</edge>
+	<edge>99 948/+</edge>
+	<edge>806 305/+</edge>
+	<edge>558 35/+</edge>
+	<edge>573 807/+</edge>
+	<edge>553 69/+</edge>
+	<edge>241 301/+</edge>
+	<edge>374 161/+</edge>
+	<edge>218 261/+</edge>
+	<edge>186 305/+</edge>
+	<edge>887 362/+</edge>
+	<edge>547 684/+</edge>
+	<edge>802 684/+</edge>
+	<edge>115 796/+</edge>
+	<edge>558 193/+</edge>
+	<edge>792 450/+</edge>
+	<edge>964 452/+</edge>
+	<edge>819 529/+</edge>
+	<edge>799 362/+</edge>
+	<edge>172 174/+</edge>
+	<edge>286 770/+</edge>
+	<edge>293 264/+</edge>
+	<edge>821 715/+</edge>
+	<edge>574 229/+</edge>
+	<edge>358 36/+</edge>
+	<edge>883 272/+</edge>
+	<edge>164 670/+</edge>
+	<edge>547 310/+</edge>
+	<edge>786 186/+</edge>
+	<edge>27 541/+</edge>
+	<edge>290 792/+</edge>
+	<edge>755 306/+</edge>
+	<edge>304 169/+</edge>
+	<edge>752 823/+</edge>
+	<edge>821 184/+</edge>
+	<edge>607 630/+</edge>
+	<edge>294 282/+</edge>
+	<edge>701 634/+</edge>
+	<edge>317 146/+</edge>
+	<edge>162 310/+</edge>
+	<edge>900 618/+</edge>
+	<edge>535 393/+</edge>
+	<edge>306 786/+</edge>
+	<edge>374 604/+</edge>
+	<edge>184 73/+</edge>
+	<edge>491 361/+</edge>
+	<edge>140 787/+</edge>
+	<edge>591 701/+</edge>
+	<edge>634 106/+</edge>
+	<edge>755 670/+</edge>
+	<edge>535 948/+</edge>
+	<edge>618 582/+</edge>
+	<edge>558 482/+</edge>
+	<edge>954 328/+</edge>
+	<edge>33 395/+</edge>
+	<edge>547 771/+</edge>
+	<edge>33 286/+</edge>
+	<edge>236 937/+</edge>
+	<edge>401 213/+</edge>
+	<edge>576 607/+</edge>
+	<edge>455 937/+</edge>
+	<edge>806 964/+</edge>
+	<edge>548 220/+</edge>
+	<edge>793 796/+</edge>
+	<edge>811 822/+</edge>
+	<edge>415 294/+</edge>
+	<edge>845 242/+</edge>
+	<edge>737 63/+</edge>
+	<edge>560 821/+</edge>
+	<edge>328 247/+</edge>
+	<edge>362 618/+</edge>
+	<edge>165 646/+</edge>
+	<edge>99 591/+</edge>
+	<edge>607 894/+</edge>
+	<edge>36 574/+</edge>
+	<edge>2 225/+</edge>
+	<edge>521 177/+</edge>
+	<edge>162 465/+</edge>
+	<edge>482 553/+</edge>
+	<edge>42 646/+</edge>
+	<edge>577 426/+</edge>
+	<edge>577 886/+</edge>
+	<edge>596 169/+</edge>
+	<edge>783 752/+</edge>
+	<edge>172 793/+</edge>
+	<edge>811 952/+</edge>
+	<edge>3 286/+</edge>
+	<edge>721 704/+</edge>
+	<edge>168 558/+</edge>
+	<edge>239 365/+</edge>
+	<edge>790 286/+</edge>
+	<edge>426 887/+</edge>
+	<edge>304 164/+</edge>
+	<edge>35 647/+</edge>
+	<edge>886 898/+</edge>
+	<edge>400 399/+</edge>
+	<edge>986 335/+</edge>
+	<edge>796 516/+</edge>
+	<edge>450 854/+</edge>
+	<edge>73 877/+</edge>
+	<edge>787 706/+</edge>
+	<edge>280 26/+</edge>
+	<edge>280 176/+</edge>
+	<edge>737 41/+</edge>
+	<edge>294 811/+</edge>
+	<edge>749 802/+</edge>
+	<edge>771 520/+</edge>
+	<edge>676 286/+</edge>
+	<edge>371 883/+</edge>
+	<edge>557 757/+</edge>
+	<edge>949 317/+</edge>
+	<edge>604 236/+</edge>
+	<edge>592 148/+</edge>
+	<edge>668 715/+</edge>
+	<edge>515 707/+</edge>
+	<edge>225 893/+</edge>
+	<edge>190 146/+</edge>
+	<edge>770 374/+</edge>
+	<edge>806 172/+</edge>
+	<edge>861 556/+</edge>
+	<edge>379 749/+</edge>
+	<edge>162 790/+</edge>
+	<edge>106 241/+</edge>
+	<edge>202 36/+</edge>
+	<edge>286 731/+</edge>
+	<edge>305 115/+</edge>
+	<edge>140 783/+</edge>
+	<edge>537 887/+</edge>
+	<edge>213 757/+</edge>
+	<edge>548 927/+</edge>
+	<edge>823 455/+</edge>
+	<edge>513 187/+</edge>
+	<edge>133 529/+</edge>
+	<edge>51 21/+</edge>
+	<edge>878 379/+</edge>
+	<edge>852 727/+</edge>
+	<edge>954 524/+</edge>
+	<edge>321 887/+</edge>
+	<edge>306 961/+</edge>
+	<edge>887 827/+</edge>
+	<edge>500 735/+</edge>
+	<edge>334 629/+</edge>
+	<edge>559 894/+</edge>
+	<edge>198 513/+</edge>
+	<edge>241 548/+</edge>
+	<edge>57 898/+</edge>
+	<edge>731 636/+</edge>
+	<edge>195 573/+</edge>
+	<edge>787 133/+</edge>
+	<edge>247 596/+</edge>
+	<edge>36 790/+</edge>
+	<edge>707 793/+</edge>
+	<edge>854 515/+</edge>
+	<edge>187 233/+</edge>
+	<edge>338 313/+</edge>
+	<edge>188 513/+</edge>
+	<edge>723 42/+</edge>
+	<edge>755 212/+</edge>
+	<edge>670 239/+</edge>
+	<edge>821 755/+</edge>
+	<edge>395 0/+</edge>
+	<edge>216 738/+</edge>
+	<edge>555 418/+</edge>
+	<edge>791 787/+</edge>
+	<edge>636 927/+</edge>
+	<edge>290 395/+</edge>
+	<edge>52 771/+</edge>
+	<edge>223 401/+</edge>
+	<edge>133 878/+</edge>
+	<edge>455 272/+</edge>
+	<edge>963 264/+</edge>
+	<edge>437 195/+</edge>
+	<edge>353 452/+</edge>
+	<edge>567 557/+</edge>
+	<edge>401 433/+</edge>
+	<edge>164 937/+</edge>
+	<edge>254 282/+</edge>
+	<edge>827 580/+</edge>
+	<edge>450 749/+</edge>
+	<edge>81 825/+</edge>
+	<edge>63 701/+</edge>
+	<edge>3 172/+</edge>
+	<edge>537 513/+</edge>
+	<edge>771 548/+</edge>
+	<edge>737 331/+</edge>
+	<edge>894 887/+</edge>
+	<edge>860 166/+</edge>
+	<edge>860 299/+</edge>
+	<edge>294 964/+</edge>
+	<edge>887 161/+</edge>
+	<edge>565 769/+</edge>
+	<edge>35 735/+</edge>
+	<edge>465 907/+</edge>
+	<edge>322 827/+</edge>
+	<edge>140 529/+</edge>
+	<edge>353 883/+</edge>
+	<edge>21 63/+</edge>
+	<edge>321 757/+</edge>
+	<edge>426 604/+</edge>
+	<edge>877 34/+</edge>
+	<edge>790 115/+</edge>
+	<edge>567 871/+</edge>
+	<edge>225 141/+</edge>
+	<edge>676 225/+</edge>
+	<edge>313 604/+</edge>
+	<edge>290 886/+</edge>
+	<edge>555 400/+</edge>
+	<edge>18 858/+</edge>
+	<edge>146 322/+</edge>
+	<edge>791 668/+</edge>
+	<edge>913 321/+</edge>
+	<edge>886 379/+</edge>
+	<edge>99 542/+</edge>
+	<edge>236 854/+</edge>
+	<edge>524 491/+</edge>
+	<edge>168 290/+</edge>
+	<edge>524 164/+</edge>
+	<edge>418 825/+</edge>
+	<edge>854 558/+</edge>
+	<edge>731 819/+</edge>
+	<edge>335 136/+</edge>
+	<edge>395 646/+</edge>
+	<edge>221 198/+</edge>
+	<edge>500 254/+</edge>
+	<edge>604 164/+</edge>
+	<edge>879 18/+</edge>
+	<edge>52 99/+</edge>
+	<edge>596 796/+</edge>
+	<edge>964 721/+</edge>
+	<edge>769 547/+</edge>
+	<edge>52 172/+</edge>
+	<edge>310 815/+</edge>
+	<edge>636 180/+</edge>
+	<edge>437 763/+</edge>
+	<edge>202 106/+</edge>
+	<edge>313 99/+</edge>
+	<edge>180 0/+</edge>
+	<edge>829 886/+</edge>
+	<edge>779 945/+</edge>
+	<edge>879 513/+</edge>
+	<edge>927 821/+</edge>
+	<edge>26 852/+</edge>
+	<edge>34 763/+</edge>
+	<edge>3 682/+</edge>
+	<edge>365 520/+</edge>
+	<edge>458 860/+</edge>
+	<edge>482 484/+</edge>
+	<edge>537 465/+</edge>
+	<edge>559 547/+</edge>
+	<edge>893 195/+</edge>
+	<edge>542 455/+</edge>
+	<edge>790 791/+</edge>
+	<edge>771 963/+</edge>
+	<edge>565 823/+</edge>
+	<edge>322 34/+</edge>
+	<edge>216 188/+</edge>
+	<edge>395 559/+</edge>
+	<edge>858 898/+</edge>
+	<edge>254 262/+</edge>
+	<edge>515 41/+</edge>
+	<edge>322 361/+</edge>
+	<edge>727 542/+</edge>
+	<edge>66 652/+</edge>
+	<edge>434 515/+</edge>
+	<edge>42 781/+</edge>
+	<edge>721 417/+</edge>
+	<edge>652 796/+</edge>
+	<edge>437 676/+</edge>
+	<edge>819 374/+</edge>
+	<edge>433 792/+</edge>
+	<edge>213 900/+</edge>
+	<edge>541 188/+</edge>
+	<edge>516 582/+</edge>
+	<edge>558 213/+</edge>
+	<edge>229 353/+</edge>
+	<edge>516 69/+</edge>
+	<edge>607 721/+</edge>
+	<edge>166 790/+</edge>
+	<edge>684 484/+</edge>
+	<edge>524 42/+</edge>
+	<edge>520 927/+</edge>
+	<edge>188 676/+</edge>
+	<edge>42 780/+</edge>
+	<edge>2 907/+</edge>
+	<edge>559 723/+</edge>
+	<edge>555 36/+</edge>
+	<edge>952 426/+</edge>
+	<edge>815 140/+</edge>
+	<edge>229 790/+</edge>
+	<edge>807 106/+</edge>
+	<edge>860 721/+</edge>
+	<edge>738 2/+</edge>
+	<edge>861 682/+</edge>
+	<edge>500 141/+</edge>
+	<edge>898 470/+</edge>
+	<edge>184 537/+</edge>
+	<edge>780 616/+</edge>
+	<edge>286 174/+</edge>
+	<edge>541 162/+</edge>
+	<edge>535 548/+</edge>
+	<edge>786 894/+</edge>
+	<edge>81 516/+</edge>
+	<edge>567 321/+</edge>
+	<edge>580 221/+</edge>
+	<edge>706 399/+</edge>
+	<edge>456 133/+</edge>
+	<edge>195 141/+</edge>
+	<edge>807 18/+</edge>
+	<edge>310 811/+</edge>
+	<edge>565 141/+</edge>
+	<edge>618 791/+</edge>
+	<edge>707 757/+</edge>
+	<edge>547 954/+</edge>
+	<edge>815 165/+</edge>
+	<edge>218 763/+</edge>
+	<edge>242 57/+</edge>
+	<edge>73 18/+</edge>
+	<edge>27 0/+</edge>
+	<edge>2 596/+</edge>
+	<edge>212 949/+</edge>
+	<edge>898 166/+</edge>
+	<edge>371 559/+</edge>
+	<edge>66 259/+</edge>
+	<edge>652 860/+</edge>
+	<edge>945 259/+</edge>
+	<edge>358 961/+</edge>
+	<edge>202 42/+</edge>
+	<edge>520 900/+</edge>
+	<edge>831 821/+</edge>
+	<edge>482 791/+</edge>
+	<edge>893 35/+</edge>
+	<edge>399 968/+</edge>
+	<edge>417 731/+</edge>
+	<edge>174 136/+</edge>
+	<edge>616 727/+</edge>
+	<edge>242 604/+</edge>
+	<edge>169 738/+</edge>
+	<edge>317 195/+</edge>
+	<edge>418 807/+</edge>
+	<edge>845 229/+</edge>
+	<edge>165 769/+</edge>
+	<edge>365 672/+</edge>
+	<edge>176 559/+</edge>
+	<edge>576 616/+</edge>
+	<edge>51 723/+</edge>
+	<edge>968 187/+</edge>
+	<edge>574 140/+</edge>
+	<edge>949 313/+</edge>
+	<edge>807 301/+</edge>
+	<edge>177 646/+</edge>
+	<edge>259 500/+</edge>
+	<edge>542 166/+</edge>
+	<edge>968 860/+</edge>
+	<edge>577 133/+</edge>
+	<edge>883 831/+</edge>
+	<edge>66 306/+</edge>
+	<edge>500 455/+</edge>
+	<edge>948 769/+</edge>
+	<edge>190 305/+</edge>
+	<edge>306 913/+</edge>
+	<edge>684 229/+</edge>
+	<edge>521 991/+</edge>
+	<edge>576 322/+</edge>
+	<edge>225 735/+</edge>
+	<edge>241 188/+</edge>
+	<edge>400 426/+</edge>
+	<edge>193 607/+</edge>
+	<edge>26 198/+</edge>
+	<edge>322 452/+</edge>
+	<edge>588 223/+</edge>
+	<edge>316 588/+</edge>
+	<edge>991 172/+</edge>
+	<edge>676 559/+</edge>
+	<edge>21 317/+</edge>
+	<edge>165 399/+</edge>
+	<edge>749 557/+</edge>
+	<edge>26 391/+</edge>
+	<edge>115 591/+</edge>
+	<edge>470 216/+</edge>
+	<edge>576 783/+</edge>
+	<edge>176 771/+</edge>
+	<edge>763 21/+</edge>
+	<edge>704 412/+</edge>
+	<edge>115 927/+</edge>
+	<edge>221 484/+</edge>
+	<edge>174 553/+</edge>
+	<edge>796 791/+</edge>
+	<edge>393 555/+</edge>
+	<edge>845 317/+</edge>
+	<edge>391 727/+</edge>
+	<edge>731 554/+</edge>
+	<edge>781 706/+</edge>
+	<edge>282 400/+</edge>
+	<edge>827 41/+</edge>
+	<edge>706 317/+</edge>
+	<edge>328 294/+</edge>
+	<edge>412 871/+</edge>
+	<edge>26 172/+</edge>
+	<edge>456 33/+</edge>
+	<edge>786 236/+</edge>
+	<edge>554 948/+</edge>
+	<edge>636 335/+</edge>
+	<edge>630 739/+</edge>
+	<edge>701 27/+</edge>
+	<edge>470 783/+</edge>
+	<edge>529 3/+</edge>
+	<edge>301 596/+</edge>
+	<edge>272 668/+</edge>
+	<edge>945 239/+</edge>
+	<edge>393 556/+</edge>
+	<edge>723 371/+</edge>
+	<edge>723 262/+</edge>
+	<edge>1 893/+</edge>
+	<edge>963 879/+</edge>
+	<edge>280 229/+</edge>
+	<edge>51 456/+</edge>
+	<edge>452 259/+</edge>
+	<edge>596 535/+</edge>
+	<edge>823 739/+</edge>
+	<edge>63 554/+</edge>
+	<edge>18 636/+</edge>
+	<edge>520 3/+</edge>
+	<edge>513 21/+</edge>
+	<edge>42 299/+</edge>
+	<edge>423 524/+</edge>
+	<edge>811 907/+</edge>
+	<edge>452 806/+</edge>
+	<edge>763 177/+</edge>
+	<edge>426 186/+</edge>
+	<edge>668 576/+</edge>
+	<edge>313 491/+</edge>
+	<edge>259 412/+</edge>
+	<edge>148 793/+</edge>
+	<edge>106 852/+</edge>
+	<edge>374 146/+</edge>
+	<edge>146 786/+</edge>
+	<edge>322 456/+</edge>
+	<edge>604 293/+</edge>
+	<edge>878 290/+</edge>
+	<edge>264 573/+</edge>
+	<edge>229 316/+</edge>
+	<edge>900 316/+</edge>
+	<edge>647 164/+</edge>
+	<edge>233 188/+</edge>
+	<edge>715 393/+</edge>
+	<edge>198 484/+</edge>
+	<edge>652 629/+</edge>
+	<edge>186 322/+</edge>
+	<edge>779 787/+</edge>
+	<edge>306 582/+</edge>
+	<edge>682 961/+</edge>
+	<edge>166 335/+</edge>
+	<edge>823 802/+</edge>
+	<edge>757 513/+</edge>
+	<edge>166 202/+</edge>
+	<edge>335 731/+</edge>
+	<edge>221 331/+</edge>
+	<edge>646 567/+</edge>
+	<edge>169 317/+</edge>
+	<edge>316 365/+</edge>
+	<edge>63 334/+</edge>
+	<edge>877 555/+</edge>
+	<edge>796 399/+</edge>
+	<edge>893 854/+</edge>
+	<edge>69 63/+</edge>
+	<edge>576 304/+</edge>
+	<edge>52 282/+</edge>
+	<edge>887 310/+</edge>
+	<edge>898 954/+</edge>
+	<edge>458 779/+</edge>
+	<edge>331 829/+</edge>
+	<edge>513 400/+</edge>
+	<edge>684 861/+</edge>
+	<edge>825 529/+</edge>
+	<edge>166 576/+</edge>
+	<edge>771 592/+</edge>
+	<edge>313 186/+</edge>
+	<edge>177 516/+</edge>
+	<edge>220 280/+</edge>
+	<edge>335 647/+</edge>
+	<edge>749 752/+</edge>
+	<edge>721 26/+</edge>
+	<edge>99 190/+</edge>
+	<edge>465 553/+</edge>
+	<edge>907 66/+</edge>
+	<edge>542 937/+</edge>
+	<edge>871 607/+</edge>
+	<edge>188 580/+</edge>
+	<edge>254 577/+</edge>
+	<edge>484 715/+</edge>
+	<edge>954 806/+</edge>
+	<edge>220 858/+</edge>
+	<edge>630 829/+</edge>
+	<edge>195 877/+</edge>
+	<edge>822 475/+</edge>
+	<edge>180 282/+</edge>
+	<edge>961 576/+</edge>
+	<edge>18 793/+</edge>
+	<edge>968 99/+</edge>
+	<edge>629 961/+</edge>
+	<edge>701 335/+</edge>
+	<edge>524 412/+</edge>
+	<edge>769 286/+</edge>
+	<edge>791 264/+</edge>
+	<edge>858 807/+</edge>
+	<edge>393 634/+</edge>
+	<edge>188 264/+</edge>
+	<edge>212 247/+</edge>
+	<edge>233 565/+</edge>
+	<edge>305 652/+</edge>
+	<edge>136 216/+</edge>
+	<edge>35 213/+</edge>
+	<edge>433 294/+</edge>
+	<edge>262 358/+</edge>
+	<edge>806 557/+</edge>
+	<edge>786 177/+</edge>
+	<edge>365 825/+</edge>
+	<edge>752 418/+</edge>
+	<edge>141 787/+</edge>
+	<edge>168 148/+</edge>
+	<edge>913 739/+</edge>
+	<edge>0 829/+</edge>
+	<edge>799 223/+</edge>
+	<edge>553 652/+</edge>
+	<edge>313 225/+</edge>
+	<edge>216 433/+</edge>
+	<edge>213 304/+</edge>
+	<edge>513 945/+</edge>
+	<edge>945 524/+</edge>
+	<edge>780 434/+</edge>
+	<edge>216 239/+</edge>
+	<edge>1 596/+</edge>
+	<edge>335 180/+</edge>
+	<edge>190 574/+</edge>
+	<edge>299 218/+</edge>
+	<edge>361 280/+</edge>
+	<edge>565 577/+</edge>
+	<edge>415 852/+</edge>
+	<edge>886 823/+</edge>
+	<edge>556 221/+</edge>
+	<edge>913 825/+</edge>
+	<edge>964 374/+</edge>
+	<edge>961 554/+</edge>
+	<edge>986 500/+</edge>
+	<edge>954 35/+</edge>
+	<edge>415 418/+</edge>
+	<edge>247 27/+</edge>
+	<edge>18 379/+</edge>
+	<edge>264 164/+</edge>
+	<edge>937 51/+</edge>
+	<edge>877 306/+</edge>
+	<edge>735 954/+</edge>
+	<edge>541 676/+</edge>
+	<edge>560 707/+</edge>
+	<edge>412 964/+</edge>
+	<edge>787 233/+</edge>
+	<edge>715 823/+</edge>
+	<edge>133 426/+</edge>
+	<edge>456 652/+</edge>
+	<edge>242 313/+</edge>
+	<edge>829 168/+</edge>
+	<edge>588 491/+</edge>
+	<edge>738 752/+</edge>
+	<edge>186 63/+</edge>
+	<edge>140 792/+</edge>
+	<edge>202 811/+</edge>
+	<edge>259 41/+</edge>
+	<edge>452 328/+</edge>
+	<edge>491 831/+</edge>
+	<edge>412 721/+</edge>
+	<edge>991 558/+</edge>
+	<edge>455 574/+</edge>
+	<edge>418 991/+</edge>
+	<edge>815 963/+</edge>
+	<edge>484 241/+</edge>
+	<edge>630 516/+</edge>
+	<edge>69 81/+</edge>
+	<edge>607 771/+</edge>
+	<edge>952 819/+</edge>
+	<edge>26 361/+</edge>
+	<edge>574 458/+</edge>
+	<edge>553 415/+</edge>
+	<edge>491 393/+</edge>
+	<edge>164 465/+</edge>
+	<edge>229 831/+</edge>
+	<edge>1 335/+</edge>
+	<edge>769 399/+</edge>
+	<edge>779 465/+</edge>
+	<edge>592 948/+</edge>
+	<edge>542 647/+</edge>
+	<edge>99 829/+</edge>
+	<edge>418 861/+</edge>
+	<edge>338 417/+</edge>
+	<edge>721 470/+</edge>
+	<edge>907 1/+</edge>
+	<edge>106 456/+</edge>
+	<edge>521 184/+</edge>
+	<edge>374 66/+</edge>
+	<edge>239 727/+</edge>
+	<edge>321 455/+</edge>
+	<edge>358 146/+</edge>
+	<edge>41 529/+</edge>
+	<edge>668 482/+</edge>
+	<edge>305 500/+</edge>
+	<edge>515 450/+</edge>
+	<edge>282 592/+</edge>
+	<edge>133 401/+</edge>
+	<edge>587 852/+</edge>
+	<edge>963 821/+</edge>
+	<edge>180 815/+</edge>
+	<edge>434 682/+</edge>
+	<edge>646 737/+</edge>
+	<edge>592 262/+</edge>
+	<edge>27 115/+</edge>
+	<edge>887 353/+</edge>
+	<edge>968 577/+</edge>
+	<edge>261 52/+</edge>
+	<edge>757 913/+</edge>
+	<edge>169 587/+</edge>
+	<edge>172 42/+</edge>
+	<edge>582 731/+</edge>
+	<edge>213 565/+</edge>
+	<edge>161 328/+</edge>
+	<edge>752 391/+</edge>
+	<edge>927 146/+</edge>
+	<edge>707 807/+</edge>
+	<edge>672 491/+</edge>
+	<edge>423 106/+</edge>
+	<edge>233 212/+</edge>
+	<edge>426 233/+</edge>
+	<edge>781 738/+</edge>
+	<edge>379 423/+</edge>
+	<edge>57 821/+</edge>
+	<edge>426 148/+</edge>
+	<edge>434 225/+</edge>
+	<edge>553 57/+</edge>
+	<edge>286 212/+</edge>
+	<edge>212 338/+</edge>
+	<edge>796 588/+</edge>
+	<edge>771 310/+</edge>
+	<edge>907 180/+</edge>
+	<edge>739 618/+</edge>
+	<edge>399 770/+</edge>
+	<edge>221 338/+</edge>
+	<edge>2 418/+</edge>
+	<edge>535 166/+</edge>
+	<edge>781 822/+</edge>
+	<edge>668 395/+</edge>
+	<edge>379 313/+</edge>
+	<edge>757 187/+</edge>
+	<edge>198 781/+</edge>
+	<edge>162 216/+</edge>
+	<edge>520 218/+</edge>
+	<edge>371 218/+</edge>
+	<edge>475 968/+</edge>
+	<edge>567 879/+</edge>
+	<edge>807 371/+</edge>
+	<edge>371 66/+</edge>
+	<edge>169 670/+</edge>
+	<edge>704 272/+</edge>
+	<edge>822 140/+</edge>
+	<edge>475 195/+</edge>
+	<edge>223 964/+</edge>
+	<edge>305 365/+</edge>
+	<edge>176 823/+</edge>
+	<edge>927 470/+</edge>
+	<edge>587 437/+</edge>
+	<edge>241 860/+</edge>
+	<edge>791 115/+</edge>
+	<edge>272 26/+</edge>
+	<edge>823 221/+</edge>
+	<edge>815 455/+</edge>
+	<edge>672 913/+</edge>
+	<edge>574 259/+</edge>
+	<edge>437 34/+</edge>
+	<edge>301 986/+</edge>
+	<edge>433 1/+</edge>
+	<edge>738 180/+</edge>
+	<edge>361 898/+</edge>
+	<edge>161 305/+</edge>
+	<edge>591 293/+</edge>
+	<edge>591 184/+</edge>
+	<edge>516 358/+</edge>
+	<edge>358 328/+</edge>
+	<edge>186 952/+</edge>
+	<edge>634 553/+</edge>
+	<edge>937 272/+</edge>
+	<edge>894 893/+</edge>
+	<edge>781 553/+</edge>
+	<edge>423 452/+</edge>
+	<edge>871 560/+</edge>
+	<edge>239 596/+</edge>
+	<edge>456 475/+</edge>
+	<edge>524 1/+</edge>
+	<edge>301 878/+</edge>
+	<edge>715 515/+</edge>
+	<edge>195 786/+</edge>
+	<edge>573 261/+</edge>
+	<edge>554 567/+</edge>
+	<edge>646 822/+</edge>
+	<edge>18 371/+</edge>
+	<edge>577 547/+</edge>
+	<edge>161 417/+</edge>
+	<edge>629 434/+</edge>
+	<edge>391 565/+</edge>
+	<edge>629 567/+</edge>
+	<edge>737 458/+</edge>
+	<edge>827 573/+</edge>
+	<edge>854 280/+</edge>
+	<edge>770 780/+</edge>
+	<edge>361 304/+</edge>
+	<edge>361 437/+</edge>
+	<edge>670 558/+</edge>
+	<edge>558 254/+</edge>
+	<edge>670 401/+</edge>
+	<edge>57 554/+</edge>
+	<edge>51 704/+</edge>
+	<edge>294 737/+</edge>
+	<edge>484 861/+</edge>
+	<edge>331 542/+</edge>
+	<edge>907 184/+</edge>
+	<edge>647 668/+</edge>
+	<edge>577 306/+</edge>
+	<edge>229 81/+</edge>
+	<edge>829 738/+</edge>
+	<edge>500 815/+</edge>
+	<edge>780 452/+</edge>
+	<edge>293 582/+</edge>
+	<edge>991 247/+</edge>
+	<edge>317 27/+</edge>
+	<edge>588 180/+</edge>
+	<edge>391 106/+</edge>
+	<edge>335 806/+</edge>
+	<edge>706 819/+</edge>
+	<edge>592 353/+</edge>
+	<edge>952 968/+</edge>
+	<edge>136 99/+</edge>
+	<edge>831 69/+</edge>
+	<edge>752 819/+</edge>
+	<edge>548 299/+</edge>
+	<edge>535 822/+</edge>
+	<edge>964 316/+</edge>
+	<edge>293 233/+</edge>
+	<edge>827 220/+</edge>
+	<edge>69 780/+</edge>
+	<edge>937 73/+</edge>
+	<edge>193 860/+</edge>
+	<edge>894 521/+</edge>
+	<edge>806 715/+</edge>
+	<edge>236 701/+</edge>
+	<edge>587 893/+</edge>
+	<edge>225 577/+</edge>
+	<edge>723 415/+</edge>
+	<edge>423 168/+</edge>
+	<edge>391 52/+</edge>
+	<edge>470 629/+</edge>
+	<edge>739 242/+</edge>
+	<edge>592 221/+</edge>
+	<edge>521 168/+</edge>
+	<edge>272 618/+</edge>
+	<edge>898 212/+</edge>
+	<edge>259 177/+</edge>
+	<edge>883 242/+</edge>
+	<edge>475 198/+</edge>
+	<edge>780 361/+</edge>
+	<edge>223 634/+</edge>
+	<edge>35 878/+</edge>
+	<edge>239 374/+</edge>
+	<edge>779 949/+</edge>
+	<edge>961 223/+</edge>
+	<edge>412 618/+</edge>
+	<edge>707 672/+</edge>
+	<edge>529 535/+</edge>
+	<edge>588 161/+</edge>
+	<edge>799 195/+</edge>
+	<edge>591 294/+</edge>
+	<edge>819 165/+</edge>
+	<edge>193 316/+</edge>
+	<edge>858 541/+</edge>
+	<edge>321 52/+</edge>
+	<edge>190 331/+</edge>
+	<edge>739 591/+</edge>
+	<edge>616 470/+</edge>
+	<edge>879 952/+</edge>
+	<edge>455 393/+</edge>
+	<edge>233 305/+</edge>
+	<edge>247 365/+</edge>
+	<edge>186 737/+</edge>
+	<edge>310 220/+</edge>
+	<edge>198 547/+</edge>
+	<edge>854 964/+</edge>
+	<edge>254 161/+</edge>
+	<edge>69 587/+</edge>
+	<edge>618 815/+</edge>
+	<edge>41 927/+</edge>
+	<edge>172 582/+</edge>
+	<edge>516 223/+</edge>
+	<edge>282 174/+</edge>
+	<edge>393 241/+</edge>
+	<edge>174 176/+</edge>
+	<edge>684 707/+</edge>
+	<edge>148 193/+</edge>
+	<edge>190 790/+</edge>
+	<edge>672 42/+</edge>
+	<edge>616 580/+</edge>
+	<edge>945 371/+</edge>
+	<edge>871 433/+</edge>
+	<edge>793 51/+</edge>
+	<edge>391 73/+</edge>
+	<edge>634 353/+</edge>
+	<edge>299 616/+</edge>
+</graph>
+<graph> 
+	<node>531</node>
+
+</graph>
+<graph> 
+	<node>509</node>
+
+</graph>
+<graph> 
+	<node>632</node>
+
+</graph>
+<graph> 
+	<node>674</node>
+
+</graph>
+<graph> 
+	<node>183</node>
+
+</graph>
+<graph> 
+	<node>645</node>
+
+</graph>
+<graph> 
+	<node>189</node>
+
+</graph>
+<graph> 
+	<node>830</node>
+
+</graph>
+<graph> 
+	<node>149</node>
+
+</graph>
+<graph> 
+	<node>320</node>
+
+</graph>
+<graph> 
+	<node>4</node>
+
+</graph>
+<graph> 
+	<node>896</node>
+
+</graph>
+<graph> 
+	<node>256</node>
+	<node>449</node>
+	<node>518</node>
+	<node>710</node>
+	<node>71</node>
+	<node>327</node>
+	<node>969</node>
+	<node>970</node>
+	<node>843</node>
+	<node>460</node>
+	<node>270</node>
+	<node>208</node>
+	<node>464</node>
+	<node>850</node>
+	<node>20</node>
+	<node>84</node>
+	<node>341</node>
+	<node>150</node>
+	<node>982</node>
+	<node>153</node>
+	<node>30</node>
+	<node>414</node>
+	<node>734</node>
+	<node>545</node>
+	<node>98</node>
+	<node>354</node>
+	<node>227</node>
+	<node>996</node>
+	<node>741</node>
+	<node>422</node>
+	<node>486</node>
+	<node>809</node>
+	<node>235</node>
+	<node>363</node>
+	<node>748</node>
+	<node>621</node>
+	<node>113</node>
+	<node>497</node>
+	<node>689</node>
+	<node>244</node>
+	<node>117</node>
+	<node>245</node>
+	<node>55</node>
+	<node>761</node>
+	<node>889</node>
+	<node>380</node>
+	<node>382</node>
+	<node>959</node>
+
+	<edge>382 55/+</edge>
+	<edge>414 354/+</edge>
+	<edge>20 208/+</edge>
+	<edge>464 227/+</edge>
+	<edge>113 761/+</edge>
+	<edge>982 256/+</edge>
+	<edge>621 256/+</edge>
+	<edge>341 363/+</edge>
+	<edge>55 497/+</edge>
+	<edge>486 270/+</edge>
+	<edge>748 959/+</edge>
+	<edge>969 518/+</edge>
+	<edge>422 84/+</edge>
+	<edge>710 809/+</edge>
+	<edge>809 741/+</edge>
+	<edge>970 621/+</edge>
+	<edge>464 380/+</edge>
+	<edge>959 969/+</edge>
+	<edge>621 850/+</edge>
+	<edge>497 98/+</edge>
+	<edge>414 422/+</edge>
+	<edge>245 464/+</edge>
+	<edge>761 422/+</edge>
+	<edge>245 153/+</edge>
+	<edge>256 363/+</edge>
+	<edge>20 748/+</edge>
+	<edge>422 244/+</edge>
+	<edge>208 959/+</edge>
+	<edge>235 970/+</edge>
+	<edge>227 71/+</edge>
+	<edge>71 710/+</edge>
+	<edge>71 996/+</edge>
+	<edge>354 153/+</edge>
+	<edge>734 414/+</edge>
+	<edge>363 748/+</edge>
+	<edge>354 545/+</edge>
+	<edge>84 55/+</edge>
+	<edge>970 113/+</edge>
+	<edge>84 341/+</edge>
+	<edge>460 689/+</edge>
+	<edge>982 150/+</edge>
+	<edge>741 449/+</edge>
+	<edge>117 843/+</edge>
+	<edge>150 843/+</edge>
+	<edge>30 982/+</edge>
+	<edge>996 117/+</edge>
+	<edge>153 982/+</edge>
+	<edge>113 98/+</edge>
+	<edge>449 460/+</edge>
+	<edge>380 850/+</edge>
+	<edge>380 486/+</edge>
+	<edge>341 761/+</edge>
+	<edge>486 244/+</edge>
+	<edge>270 449/+</edge>
+	<edge>761 150/+</edge>
+	<edge>497 969/+</edge>
+	<edge>449 30/+</edge>
+	<edge>689 71/+</edge>
+	<edge>850 382/+</edge>
+	<edge>256 414/+</edge>
+	<edge>227 354/+</edge>
+	<edge>235 996/+</edge>
+	<edge>153 20/+</edge>
+	<edge>734 30/+</edge>
+	<edge>843 245/+</edge>
+	<edge>889 327/+</edge>
+	<edge>382 20/+</edge>
+	<edge>748 809/+</edge>
+	<edge>150 545/+</edge>
+	<edge>545 464/+</edge>
+	<edge>117 486/+</edge>
+	<edge>30 270/+</edge>
+	<edge>996 734/+</edge>
+	<edge>55 741/+</edge>
+	<edge>843 689/+</edge>
+	<edge>327 970/+</edge>
+	<edge>969 327/+</edge>
+	<edge>208 117/+</edge>
+	<edge>809 497/+</edge>
+	<edge>244 227/+</edge>
+	<edge>710 235/+</edge>
+	<edge>959 889/+</edge>
+	<edge>327 208/+</edge>
+	<edge>98 889/+</edge>
+	<edge>518 113/+</edge>
+	<edge>689 621/+</edge>
+	<edge>889 245/+</edge>
+	<edge>741 734/+</edge>
+	<edge>363 710/+</edge>
+	<edge>270 84/+</edge>
+	<edge>98 518/+</edge>
+	<edge>518 460/+</edge>
+	<edge>244 235/+</edge>
+</graph>
+<graph> 
+	<node>130</node>
+
+</graph>
+<graph> 
+	<node>267</node>
+
+</graph>
+<graph> 
+	<node>191</node>
+
+</graph>
+<graph> 
+	<node>46</node>
+
+</graph>
+<graph> 
+	<node>185</node>
+
+</graph>
+<graph> 
+	<node>598</node>
+
+</graph>
+<graph> 
+	<node>637</node>
+
+</graph>
+<graph> 
+	<node>197</node>
+
+</graph>
+<graph> 
+	<node>260</node>
+	<node>70</node>
+	<node>134</node>
+	<node>839</node>
+	<node>522</node>
+	<node>842</node>
+	<node>911</node>
+	<node>275</node>
+	<node>853</node>
+	<node>346</node>
+	<node>863</node>
+	<node>928</node>
+	<node>995</node>
+	<node>550</node>
+	<node>105</node>
+	<node>489</node>
+	<node>234</node>
+	<node>108</node>
+	<node>45</node>
+	<node>110</node>
+	<node>622</node>
+	<node>182</node>
+	<node>631</node>
+	<node>314</node>
+	<node>698</node>
+	<node>762</node>
+	<node>253</node>
+	<node>381</node>
+	<node>702</node>
+
+	<edge>622 762/+</edge>
+	<edge>253 108/+</edge>
+	<edge>550 853/+</edge>
+	<edge>234 134/+</edge>
+	<edge>698 314/+</edge>
+	<edge>182 45/+</edge>
+	<edge>911 45/+</edge>
+	<edge>253 839/+</edge>
+	<edge>853 108/+</edge>
+	<edge>762 253/+</edge>
+	<edge>995 853/+</edge>
+	<edge>863 105/+</edge>
+	<edge>70 346/+</edge>
+	<edge>928 105/+</edge>
+	<edge>928 698/+</edge>
+	<edge>702 622/+</edge>
+	<edge>842 182/+</edge>
+	<edge>381 853/+</edge>
+	<edge>842 550/+</edge>
+	<edge>105 260/+</edge>
+	<edge>698 381/+</edge>
+	<edge>346 863/+</edge>
+	<edge>702 45/+</edge>
+	<edge>911 234/+</edge>
+	<edge>234 105/+</edge>
+	<edge>45 631/+</edge>
+	<edge>522 234/+</edge>
+	<edge>108 70/+</edge>
+	<edge>762 698/+</edge>
+	<edge>839 702/+</edge>
+	<edge>260 702/+</edge>
+	<edge>489 522/+</edge>
+	<edge>134 381/+</edge>
+	<edge>134 260/+</edge>
+	<edge>70 995/+</edge>
+	<edge>70 911/+</edge>
+	<edge>762 911/+</edge>
+	<edge>622 275/+</edge>
+	<edge>622 550/+</edge>
+	<edge>275 45/+</edge>
+	<edge>842 702/+</edge>
+	<edge>275 698/+</edge>
+	<edge>346 134/+</edge>
+	<edge>842 346/+</edge>
+	<edge>253 275/+</edge>
+	<edge>110 842/+</edge>
+	<edge>70 110/+</edge>
+	<edge>762 839/+</edge>
+	<edge>702 911/+</edge>
+	<edge>314 911/+</edge>
+	<edge>911 995/+</edge>
+	<edge>522 260/+</edge>
+	<edge>108 489/+</edge>
+	<edge>45 253/+</edge>
+	<edge>863 853/+</edge>
+	<edge>105 522/+</edge>
+	<edge>314 839/+</edge>
+	<edge>863 134/+</edge>
+	<edge>928 314/+</edge>
+	<edge>995 182/+</edge>
+	<edge>234 275/+</edge>
+	<edge>314 108/+</edge>
+	<edge>522 863/+</edge>
+	<edge>622 253/+</edge>
+	<edge>631 70/+</edge>
+	<edge>995 489/+</edge>
+	<edge>995 631/+</edge>
+	<edge>275 842/+</edge>
+	<edge>108 45/+</edge>
+	<edge>105 995/+</edge>
+	<edge>275 911/+</edge>
+	<edge>134 182/+</edge>
+	<edge>702 70/+</edge>
+	<edge>381 234/+</edge>
+	<edge>314 234/+</edge>
+	<edge>110 346/+</edge>
+	<edge>260 108/+</edge>
+	<edge>698 995/+</edge>
+	<edge>346 762/+</edge>
+	<edge>110 928/+</edge>
+	<edge>108 863/+</edge>
+	<edge>45 134/+</edge>
+	<edge>182 489/+</edge>
+	<edge>182 275/+</edge>
+	<edge>762 234/+</edge>
+	<edge>928 182/+</edge>
+	<edge>314 631/+</edge>
+	<edge>839 70/+</edge>
+	<edge>839 108/+</edge>
+	<edge>622 110/+</edge>
+	<edge>698 853/+</edge>
+	<edge>863 928/+</edge>
+	<edge>853 489/+</edge>
+	<edge>522 550/+</edge>
+	<edge>550 928/+</edge>
+	<edge>108 842/+</edge>
+	<edge>182 698/+</edge>
+	<edge>253 110/+</edge>
+	<edge>839 381/+</edge>
+	<edge>550 253/+</edge>
+	<edge>70 550/+</edge>
+	<edge>381 863/+</edge>
+	<edge>381 346/+</edge>
+	<edge>631 134/+</edge>
+	<edge>260 622/+</edge>
+	<edge>550 105/+</edge>
+	<edge>45 839/+</edge>
+	<edge>911 260/+</edge>
+	<edge>134 622/+</edge>
+	<edge>346 489/+</edge>
+	<edge>631 839/+</edge>
+	<edge>853 928/+</edge>
+	<edge>698 622/+</edge>
+	<edge>45 381/+</edge>
+	<edge>631 842/+</edge>
+	<edge>863 631/+</edge>
+	<edge>489 762/+</edge>
+	<edge>234 842/+</edge>
+	<edge>702 522/+</edge>
+	<edge>489 314/+</edge>
+	<edge>842 381/+</edge>
+	<edge>234 260/+</edge>
+	<edge>110 275/+</edge>
+	<edge>928 702/+</edge>
+	<edge>839 110/+</edge>
+</graph>
+<graph> 
+	<node>612</node>
+
+</graph>
+<graph> 
+	<node>527</node>
+
+</graph>
+<graph> 
+	<node>413</node>
+
+</graph>
+<graph> 
+	<node>330</node>
+
+</graph>
+<graph> 
+	<node>623</node>
+
+</graph>
+<graph> 
+	<node>478</node>
+
+</graph>
+<graph> 
+	<node>461</node>
+
+</graph>
+<graph> 
+	<node>824</node>
+
+</graph>
+<graph> 
+	<node>908</node>
+
+</graph>
+<graph> 
+	<node>951</node>
+
+</graph>
+<graph> 
+	<node>8</node>
+
+</graph>
+<graph> 
+	<node>750</node>
+
+</graph>
+<graph> 
+	<node>564</node>
+
+</graph>
+<graph> 
+	<node>563</node>
+
+</graph>
+<graph> 
+	<node>875</node>
+
+</graph>
+<graph> 
+	<node>569</node>
+
+</graph>
+<graph> 
+	<node>691</node>
+
+</graph>
+<graph> 
+	<node>72</node>
+
+</graph>
+<graph> 
+	<node>39</node>
+
+</graph>
+<graph> 
+	<node>230</node>
+
+</graph>
+<graph> 
+	<node>498</node>
+
+</graph>
+<graph> 
+	<node>266</node>
+
+</graph>
+<graph> 
+	<node>804</node>
+
+</graph>
+<graph> 
+	<node>49</node>
+
+</graph>
+<graph> 
+	<node>9</node>
+	<node>492</node>
+	<node>109</node>
+	<node>526</node>
+	<node>751</node>
+	<node>975</node>
+	<node>179</node>
+	<node>211</node>
+	<node>87</node>
+	<node>248</node>
+	<node>664</node>
+	<node>155</node>
+	<node>283</node>
+	<node>603</node>
+	<node>222</node>
+
+	<edge>109 9/+</edge>
+	<edge>155 222/+</edge>
+	<edge>155 492/+</edge>
+	<edge>9 664/+</edge>
+	<edge>664 526/+</edge>
+	<edge>179 211/+</edge>
+	<edge>751 248/+</edge>
+	<edge>109 211/+</edge>
+	<edge>283 179/+</edge>
+	<edge>664 211/+</edge>
+	<edge>87 975/+</edge>
+	<edge>87 9/+</edge>
+	<edge>9 211/+</edge>
+	<edge>526 283/+</edge>
+	<edge>155 751/+</edge>
+	<edge>155 87/+</edge>
+	<edge>248 222/+</edge>
+	<edge>211 975/+</edge>
+	<edge>492 664/+</edge>
+	<edge>975 179/+</edge>
+	<edge>975 664/+</edge>
+	<edge>248 492/+</edge>
+	<edge>109 751/+</edge>
+	<edge>664 109/+</edge>
+	<edge>211 248/+</edge>
+	<edge>179 109/+</edge>
+	<edge>603 155/+</edge>
+	<edge>603 179/+</edge>
+	<edge>283 603/+</edge>
+	<edge>155 526/+</edge>
+	<edge>9 248/+</edge>
+	<edge>492 87/+</edge>
+	<edge>975 526/+</edge>
+	<edge>87 751/+</edge>
+	<edge>283 751/+</edge>
+	<edge>283 492/+</edge>
+	<edge>222 9/+</edge>
+	<edge>283 109/+</edge>
+	<edge>603 109/+</edge>
+	<edge>492 9/+</edge>
+	<edge>603 9/+</edge>
+	<edge>751 603/+</edge>
+	<edge>751 526/+</edge>
+	<edge>109 87/+</edge>
+	<edge>211 222/+</edge>
+	<edge>526 603/+</edge>
+	<edge>975 492/+</edge>
+	<edge>222 751/+</edge>
+	<edge>87 526/+</edge>
+	<edge>248 664/+</edge>
+	<edge>222 283/+</edge>
+	<edge>664 179/+</edge>
+	<edge>211 492/+</edge>
+</graph>
+<graph> 
+	<node>332</node>
+
+</graph>
+<graph> 
+	<node>514</node>
+	<node>519</node>
+	<node>775</node>
+	<node>10</node>
+	<node>784</node>
+	<node>530</node>
+	<node>279</node>
+	<node>284</node>
+	<node>544</node>
+	<node>801</node>
+	<node>546</node>
+	<node>292</node>
+	<node>549</node>
+	<node>295</node>
+	<node>551</node>
+	<node>40</node>
+	<node>552</node>
+	<node>810</node>
+	<node>43</node>
+	<node>308</node>
+	<node>56</node>
+	<node>568</node>
+	<node>58</node>
+	<node>826</node>
+	<node>62</node>
+	<node>834</node>
+	<node>67</node>
+	<node>581</node>
+	<node>326</node>
+	<node>583</node>
+	<node>584</node>
+	<node>841</node>
+	<node>76</node>
+	<node>333</node>
+	<node>589</node>
+	<node>78</node>
+	<node>590</node>
+	<node>846</node>
+	<node>79</node>
+	<node>336</node>
+	<node>849</node>
+	<node>85</node>
+	<node>597</node>
+	<node>600</node>
+	<node>345</node>
+	<node>601</node>
+	<node>349</node>
+	<node>95</node>
+	<node>96</node>
+	<node>97</node>
+	<node>611</node>
+	<node>869</node>
+	<node>102</node>
+	<node>617</node>
+	<node>107</node>
+	<node>619</node>
+	<node>620</node>
+	<node>880</node>
+	<node>114</node>
+	<node>373</node>
+	<node>118</node>
+	<node>375</node>
+	<node>122</node>
+	<node>635</node>
+	<node>383</node>
+	<node>640</node>
+	<node>385</node>
+	<node>644</node>
+	<node>903</node>
+	<node>138</node>
+	<node>394</node>
+	<node>906</node>
+	<node>654</node>
+	<node>655</node>
+	<node>144</node>
+	<node>656</node>
+	<node>659</node>
+	<node>662</node>
+	<node>919</node>
+	<node>152</node>
+	<node>920</node>
+	<node>665</node>
+	<node>921</node>
+	<node>667</node>
+	<node>156</node>
+	<node>158</node>
+	<node>419</node>
+	<node>931</node>
+	<node>679</node>
+	<node>936</node>
+	<node>170</node>
+	<node>427</node>
+	<node>939</node>
+	<node>430</node>
+	<node>687</node>
+	<node>943</node>
+	<node>688</node>
+	<node>178</node>
+	<node>946</node>
+	<node>435</node>
+	<node>438</node>
+	<node>950</node>
+	<node>443</node>
+	<node>700</node>
+	<node>957</node>
+	<node>447</node>
+	<node>448</node>
+	<node>451</node>
+	<node>454</node>
+	<node>966</node>
+	<node>199</node>
+	<node>459</node>
+	<node>971</node>
+	<node>974</node>
+	<node>466</node>
+	<node>722</node>
+	<node>978</node>
+	<node>980</node>
+	<node>981</node>
+	<node>726</node>
+	<node>471</node>
+	<node>985</node>
+	<node>481</node>
+	<node>994</node>
+	<node>483</node>
+	<node>740</node>
+	<node>485</node>
+	<node>746</node>
+	<node>758</node>
+	<node>759</node>
+	<node>504</node>
+	<node>766</node>
+	<node>511</node>
+	<node>767</node>
+
+	<edge>994 619/+</edge>
+	<edge>58 435/+</edge>
+	<edge>726 903/+</edge>
+	<edge>589 726/+</edge>
+	<edge>138 775/+</edge>
+	<edge>946 662/+</edge>
+	<edge>308 700/+</edge>
+	<edge>679 122/+</edge>
+	<edge>454 435/+</edge>
+	<edge>801 635/+</edge>
+	<edge>644 971/+</edge>
+	<edge>620 841/+</edge>
+	<edge>85 849/+</edge>
+	<edge>581 514/+</edge>
+	<edge>336 688/+</edge>
+	<edge>427 590/+</edge>
+	<edge>740 451/+</edge>
+	<edge>471 568/+</edge>
+	<edge>451 514/+</edge>
+	<edge>454 994/+</edge>
+	<edge>611 438/+</edge>
+	<edge>438 170/+</edge>
+	<edge>611 656/+</edge>
+	<edge>118 504/+</edge>
+	<edge>514 985/+</edge>
+	<edge>759 373/+</edge>
+	<edge>419 485/+</edge>
+	<edge>590 869/+</edge>
+	<edge>345 438/+</edge>
+	<edge>662 292/+</edge>
+	<edge>152 56/+</edge>
+	<edge>700 767/+</edge>
+	<edge>144 966/+</edge>
+	<edge>600 617/+</edge>
+	<edge>919 394/+</edge>
+	<edge>552 950/+</edge>
+	<edge>199 583/+</edge>
+	<edge>659 118/+</edge>
+	<edge>438 846/+</edge>
+	<edge>659 78/+</edge>
+	<edge>662 834/+</edge>
+	<edge>920 826/+</edge>
+	<edge>679 583/+</edge>
+	<edge>584 775/+</edge>
+	<edge>617 471/+</edge>
+	<edge>79 767/+</edge>
+	<edge>589 849/+</edge>
+	<edge>156 758/+</edge>
+	<edge>810 617/+</edge>
+	<edge>514 546/+</edge>
+	<edge>96 981/+</edge>
+	<edge>635 775/+</edge>
+	<edge>385 333/+</edge>
+	<edge>656 427/+</edge>
+	<edge>385 430/+</edge>
+	<edge>546 551/+</edge>
+	<edge>448 156/+</edge>
+	<edge>981 79/+</edge>
+	<edge>568 170/+</edge>
+	<edge>971 333/+</edge>
+	<edge>385 79/+</edge>
+	<edge>846 504/+</edge>
+	<edge>295 152/+</edge>
+	<edge>443 746/+</edge>
+	<edge>546 138/+</edge>
+	<edge>688 138/+</edge>
+	<edge>459 58/+</edge>
+	<edge>551 118/+</edge>
+	<edge>880 511/+</edge>
+	<edge>511 834/+</edge>
+	<edge>601 485/+</edge>
+	<edge>76 659/+</edge>
+	<edge>144 504/+</edge>
+	<edge>583 122/+</edge>
+	<edge>122 665/+</edge>
+	<edge>383 700/+</edge>
+	<edge>279 597/+</edge>
+	<edge>950 597/+</edge>
+	<edge>568 931/+</edge>
+	<edge>333 419/+</edge>
+	<edge>333 758/+</edge>
+	<edge>62 67/+</edge>
+	<edge>97 504/+</edge>
+	<edge>504 466/+</edge>
+	<edge>114 544/+</edge>
+	<edge>549 373/+</edge>
+	<edge>504 551/+</edge>
+	<edge>767 920/+</edge>
+	<edge>485 375/+</edge>
+	<edge>10 667/+</edge>
+	<edge>611 841/+</edge>
+	<edge>279 939/+</edge>
+	<edge>308 801/+</edge>
+	<edge>620 97/+</edge>
+	<edge>620 85/+</edge>
+	<edge>700 601/+</edge>
+	<edge>740 906/+</edge>
+	<edge>726 158/+</edge>
+	<edge>834 667/+</edge>
+	<edge>644 349/+</edge>
+	<edge>138 308/+</edge>
+	<edge>597 644/+</edge>
+	<edge>435 67/+</edge>
+	<edge>936 375/+</edge>
+	<edge>530 40/+</edge>
+	<edge>974 122/+</edge>
+	<edge>617 333/+</edge>
+	<edge>451 679/+</edge>
+	<edge>590 974/+</edge>
+	<edge>451 655/+</edge>
+	<edge>869 483/+</edge>
+	<edge>144 849/+</edge>
+	<edge>846 810/+</edge>
+	<edge>430 601/+</edge>
+	<edge>644 568/+</edge>
+	<edge>849 644/+</edge>
+	<edge>810 295/+</edge>
+	<edge>284 373/+</edge>
+	<edge>514 40/+</edge>
+	<edge>549 375/+</edge>
+	<edge>58 659/+</edge>
+	<edge>170 178/+</edge>
+	<edge>199 78/+</edge>
+	<edge>906 943/+</edge>
+	<edge>519 966/+</edge>
+	<edge>170 481/+</edge>
+	<edge>62 76/+</edge>
+	<edge>394 345/+</edge>
+	<edge>481 920/+</edge>
+	<edge>466 62/+</edge>
+	<edge>581 746/+</edge>
+	<edge>85 617/+</edge>
+	<edge>931 950/+</edge>
+	<edge>654 617/+</edge>
+	<edge>746 178/+</edge>
+	<edge>919 939/+</edge>
+	<edge>946 96/+</edge>
+	<edge>466 667/+</edge>
+	<edge>957 481/+</edge>
+	<edge>667 385/+</edge>
+	<edge>519 810/+</edge>
+	<edge>530 640/+</edge>
+	<edge>79 655/+</edge>
+	<edge>640 722/+</edge>
+	<edge>600 946/+</edge>
+	<edge>589 178/+</edge>
+	<edge>40 957/+</edge>
+	<edge>759 138/+</edge>
+	<edge>921 279/+</edge>
+	<edge>158 980/+</edge>
+	<edge>284 980/+</edge>
+	<edge>810 95/+</edge>
+	<edge>552 284/+</edge>
+	<edge>957 551/+</edge>
+	<edge>383 640/+</edge>
+	<edge>178 662/+</edge>
+	<edge>679 784/+</edge>
+	<edge>583 688/+</edge>
+	<edge>759 589/+</edge>
+	<edge>659 549/+</edge>
+	<edge>152 826/+</edge>
+	<edge>102 957/+</edge>
+	<edge>687 966/+</edge>
+	<edge>481 514/+</edge>
+	<edge>170 722/+</edge>
+	<edge>199 459/+</edge>
+	<edge>981 801/+</edge>
+	<edge>841 903/+</edge>
+	<edge>620 801/+</edge>
+	<edge>801 443/+</edge>
+	<edge>617 284/+</edge>
+	<edge>394 483/+</edge>
+	<edge>97 939/+</edge>
+	<edge>514 921/+</edge>
+	<edge>985 655/+</edge>
+	<edge>654 56/+</edge>
+	<edge>485 451/+</edge>
+	<edge>345 931/+</edge>
+	<edge>427 102/+</edge>
+	<edge>326 454/+</edge>
+	<edge>665 284/+</edge>
+	<edge>447 471/+</edge>
+	<edge>114 619/+</edge>
+	<edge>56 308/+</edge>
+	<edge>978 980/+</edge>
+	<edge>114 700/+</edge>
+	<edge>667 801/+</edge>
+	<edge>549 383/+</edge>
+	<edge>767 170/+</edge>
+	<edge>345 978/+</edge>
+	<edge>552 97/+</edge>
+	<edge>530 590/+</edge>
+	<edge>846 936/+</edge>
+	<edge>67 519/+</edge>
+	<edge>118 326/+</edge>
+	<edge>950 665/+</edge>
+	<edge>971 511/+</edge>
+	<edge>568 679/+</edge>
+	<edge>97 383/+</edge>
+	<edge>96 114/+</edge>
+	<edge>349 447/+</edge>
+	<edge>349 326/+</edge>
+	<edge>67 943/+</edge>
+	<edge>920 76/+</edge>
+	<edge>102 170/+</edge>
+	<edge>551 635/+</edge>
+	<edge>931 869/+</edge>
+	<edge>471 966/+</edge>
+	<edge>740 946/+</edge>
+	<edge>375 985/+</edge>
+	<edge>79 946/+</edge>
+	<edge>427 584/+</edge>
+	<edge>419 589/+</edge>
+	<edge>118 448/+</edge>
+	<edge>375 611/+</edge>
+	<edge>373 511/+</edge>
+	<edge>97 394/+</edge>
+	<edge>775 601/+</edge>
+	<edge>601 448/+</edge>
+	<edge>903 846/+</edge>
+	<edge>122 292/+</edge>
+	<edge>980 138/+</edge>
+	<edge>980 102/+</edge>
+	<edge>903 810/+</edge>
+	<edge>971 985/+</edge>
+	<edge>834 114/+</edge>
+	<edge>78 107/+</edge>
+	<edge>726 784/+</edge>
+	<edge>43 443/+</edge>
+	<edge>726 687/+</edge>
+	<edge>655 375/+</edge>
+	<edge>107 156/+</edge>
+	<edge>611 640/+</edge>
+	<edge>295 438/+</edge>
+	<edge>906 85/+</edge>
+	<edge>662 78/+</edge>
+	<edge>943 722/+</edge>
+	<edge>869 589/+</edge>
+	<edge>435 740/+</edge>
+	<edge>590 295/+</edge>
+	<edge>383 427/+</edge>
+	<edge>483 679/+</edge>
+	<edge>56 655/+</edge>
+	<edge>430 326/+</edge>
+	<edge>766 102/+</edge>
+	<edge>308 483/+</edge>
+	<edge>78 687/+</edge>
+	<edge>40 939/+</edge>
+	<edge>435 981/+</edge>
+	<edge>722 841/+</edge>
+	<edge>138 466/+</edge>
+	<edge>849 880/+</edge>
+	<edge>451 759/+</edge>
+	<edge>667 700/+</edge>
+	<edge>601 656/+</edge>
+	<edge>740 519/+</edge>
+	<edge>659 841/+</edge>
+	<edge>654 971/+</edge>
+	<edge>419 597/+</edge>
+	<edge>345 659/+</edge>
+	<edge>448 759/+</edge>
+	<edge>373 419/+</edge>
+	<edge>76 43/+</edge>
+	<edge>584 514/+</edge>
+	<edge>375 654/+</edge>
+	<edge>519 97/+</edge>
+	<edge>295 97/+</edge>
+	<edge>662 869/+</edge>
+	<edge>974 383/+</edge>
+	<edge>584 974/+</edge>
+	<edge>96 336/+</edge>
+	<edge>581 568/+</edge>
+	<edge>635 144/+</edge>
+	<edge>466 869/+</edge>
+	<edge>981 600/+</edge>
+	<edge>834 454/+</edge>
+	<edge>775 40/+</edge>
+	<edge>546 921/+</edge>
+	<edge>466 199/+</edge>
+	<edge>67 471/+</edge>
+	<edge>443 466/+</edge>
+	<edge>85 662/+</edge>
+	<edge>95 943/+</edge>
+	<edge>284 79/+</edge>
+	<edge>443 430/+</edge>
+	<edge>279 659/+</edge>
+	<edge>544 551/+</edge>
+	<edge>454 152/+</edge>
+	<edge>419 746/+</edge>
+	<edge>920 530/+</edge>
+	<edge>784 544/+</edge>
+	<edge>939 454/+</edge>
+	<edge>199 419/+</edge>
+	<edge>178 549/+</edge>
+	<edge>459 880/+</edge>
+	<edge>601 427/+</edge>
+	<edge>546 920/+</edge>
+	<edge>921 759/+</edge>
+	<edge>767 688/+</edge>
+	<edge>943 144/+</edge>
+	<edge>326 971/+</edge>
+	<edge>158 978/+</edge>
+	<edge>766 279/+</edge>
+	<edge>966 611/+</edge>
+	<edge>759 766/+</edge>
+	<edge>766 485/+</edge>
+	<edge>107 62/+</edge>
+	<edge>62 931/+</edge>
+	<edge>551 43/+</edge>
+	<edge>292 971/+</edge>
+	<edge>656 144/+</edge>
+	<edge>597 78/+</edge>
+	<edge>138 199/+</edge>
+	<edge>640 385/+</edge>
+	<edge>40 640/+</edge>
+	<edge>869 601/+</edge>
+	<edge>448 766/+</edge>
+	<edge>903 654/+</edge>
+	<edge>519 662/+</edge>
+	<edge>178 76/+</edge>
+	<edge>40 447/+</edge>
+	<edge>107 784/+</edge>
+	<edge>957 974/+</edge>
+	<edge>481 447/+</edge>
+	<edge>471 385/+</edge>
+	<edge>931 178/+</edge>
+	<edge>654 459/+</edge>
+	<edge>635 394/+</edge>
+	<edge>373 519/+</edge>
+	<edge>333 451/+</edge>
+	<edge>687 549/+</edge>
+	<edge>758 584/+</edge>
+	<edge>56 568/+</edge>
+	<edge>943 903/+</edge>
+	<edge>375 336/+</edge>
+	<edge>552 483/+</edge>
+	<edge>292 775/+</edge>
+	<edge>655 950/+</edge>
+	<edge>152 385/+</edge>
+	<edge>880 96/+</edge>
+	<edge>158 284/+</edge>
+	<edge>96 583/+</edge>
+	<edge>448 740/+</edge>
+	<edge>102 67/+</edge>
+	<edge>746 981/+</edge>
+	<edge>122 373/+</edge>
+	<edge>383 345/+</edge>
+	<edge>985 906/+</edge>
+	<edge>921 644/+</edge>
+	<edge>483 846/+</edge>
+	<edge>978 834/+</edge>
+	<edge>581 102/+</edge>
+	<edge>336 931/+</edge>
+	<edge>544 919/+</edge>
+	<edge>76 552/+</edge>
+	<edge>43 10/+</edge>
+	<edge>427 611/+</edge>
+	<edge>903 679/+</edge>
+	<edge>308 552/+</edge>
+	<edge>483 95/+</edge>
+	<edge>841 62/+</edge>
+	<edge>544 485/+</edge>
+	<edge>447 544/+</edge>
+	<edge>921 766/+</edge>
+	<edge>43 58/+</edge>
+	<edge>758 687/+</edge>
+	<edge>920 466/+</edge>
+	<edge>665 345/+</edge>
+	<edge>447 665/+</edge>
+	<edge>936 611/+</edge>
+	<edge>849 581/+</edge>
+	<edge>597 10/+</edge>
+	<edge>722 530/+</edge>
+	<edge>459 114/+</edge>
+	<edge>10 936/+</edge>
+	<edge>966 308/+</edge>
+	<edge>655 726/+</edge>
+	<edge>600 687/+</edge>
+	<edge>943 921/+</edge>
+	<edge>600 10/+</edge>
+	<edge>58 122/+</edge>
+	<edge>758 880/+</edge>
+	<edge>326 552/+</edge>
+	<edge>801 936/+</edge>
+	<edge>619 581/+</edge>
+	<edge>78 767/+</edge>
+	<edge>687 435/+</edge>
+	<edge>590 597/+</edge>
+	<edge>78 985/+</edge>
+	<edge>826 56/+</edge>
+	<edge>504 978/+</edge>
+	<edge>333 903/+</edge>
+	<edge>504 722/+</edge>
+	<edge>656 583/+</edge>
+	<edge>722 349/+</edge>
+	<edge>826 544/+</edge>
+	<edge>722 107/+</edge>
+	<edge>511 349/+</edge>
+	<edge>56 76/+</edge>
+	<edge>447 58/+</edge>
+	<edge>810 447/+</edge>
+	<edge>156 581/+</edge>
+	<edge>102 158/+</edge>
+	<edge>767 85/+</edge>
+	<edge>978 946/+</edge>
+	<edge>978 849/+</edge>
+	<edge>349 95/+</edge>
+	<edge>170 584/+</edge>
+	<edge>826 511/+</edge>
+	<edge>980 308/+</edge>
+	<edge>114 443/+</edge>
+	<edge>688 620/+</edge>
+	<edge>849 419/+</edge>
+	<edge>758 644/+</edge>
+	<edge>156 590/+</edge>
+	<edge>62 435/+</edge>
+	<edge>985 590/+</edge>
+	<edge>107 746/+</edge>
+	<edge>746 766/+</edge>
+	<edge>336 56/+</edge>
+	<edge>974 114/+</edge>
+	<edge>158 546/+</edge>
+	<edge>906 994/+</edge>
+	<edge>619 530/+</edge>
+	<edge>568 383/+</edge>
+	<edge>950 826/+</edge>
+	<edge>784 95/+</edge>
+	<edge>481 919/+</edge>
+	<edge>284 199/+</edge>
+	<edge>549 654/+</edge>
+	<edge>667 118/+</edge>
+	<edge>617 552/+</edge>
+	<edge>946 620/+</edge>
+	<edge>640 454/+</edge>
+	<edge>640 333/+</edge>
+	<edge>435 906/+</edge>
+	<edge>655 688/+</edge>
+	<edge>994 85/+</edge>
+	<edge>939 549/+</edge>
+	<edge>966 654/+</edge>
+	<edge>841 107/+</edge>
+	<edge>775 919/+</edge>
+	<edge>438 156/+</edge>
+	<edge>485 974/+</edge>
+	<edge>438 144/+</edge>
+	<edge>919 67/+</edge>
+	<edge>326 978/+</edge>
+	<edge>766 957/+</edge>
+	<edge>79 530/+</edge>
+	<edge>551 158/+</edge>
+	<edge>95 635/+</edge>
+	<edge>385 156/+</edge>
+	<edge>483 471/+</edge>
+	<edge>122 584/+</edge>
+	<edge>981 345/+</edge>
+	<edge>635 759/+</edge>
+	<edge>443 96/+</edge>
+	<edge>665 589/+</edge>
+	<edge>544 459/+</edge>
+	<edge>994 546/+</edge>
+	<edge>152 430/+</edge>
+	<edge>349 810/+</edge>
+	<edge>43 292/+</edge>
+	<edge>292 936/+</edge>
+	<edge>834 846/+</edge>
+	<edge>841 784/+</edge>
+	<edge>966 430/+</edge>
+	<edge>946 667/+</edge>
+	<edge>373 279/+</edge>
+	<edge>939 600/+</edge>
+	<edge>931 326/+</edge>
+	<edge>394 448/+</edge>
+	<edge>679 481/+</edge>
+	<edge>957 758/+</edge>
+	<edge>980 519/+</edge>
+	<edge>485 62/+</edge>
+	<edge>971 919/+</edge>
+	<edge>784 619/+</edge>
+	<edge>801 96/+</edge>
+	<edge>95 665/+</edge>
+	<edge>656 619/+</edge>
+	<edge>279 834/+</edge>
+	<edge>67 994/+</edge>
+	<edge>985 826/+</edge>
+	<edge>974 336/+</edge>
+	<edge>394 58/+</edge>
+	<edge>511 906/+</edge>
+	<edge>994 459/+</edge>
+	<edge>665 656/+</edge>
+	<edge>583 726/+</edge>
+	<edge>336 740/+</edge>
+	<edge>936 118/+</edge>
+	<edge>144 279/+</edge>
+	<edge>688 79/+</edge>
+	<edge>846 620/+</edge>
+	<edge>118 957/+</edge>
+	<edge>58 295/+</edge>
+	<edge>700 336/+</edge>
+	<edge>939 43/+</edge>
+	<edge>459 43/+</edge>
+	<edge>880 394/+</edge>
+	<edge>619 880/+</edge>
+	<edge>95 980/+</edge>
+	<edge>880 152/+</edge>
+	<edge>644 581/+</edge>
+	<edge>687 451/+</edge>
+	<edge>869 292/+</edge>
+	<edge>746 726/+</edge>
+	<edge>936 107/+</edge>
+	<edge>292 295/+</edge>
+	<edge>471 158/+</edge>
+	<edge>530 10/+</edge>
+	<edge>85 740/+</edge>
+	<edge>784 943/+</edge>
+	<edge>906 427/+</edge>
+	<edge>950 921/+</edge>
+	<edge>178 635/+</edge>
+</graph>
+<graph> 
+	<node>207</node>
+
+</graph>
+<graph> 
+	<node>641</node>
+
+</graph>
+<graph> 
+	<node>899</node>
+
+</graph>
+<graph> 
+	<node>157</node>
+
+</graph>
+<graph> 
+	<node>681</node>
+
+</graph>
+<graph> 
+	<node>881</node>
+
+</graph>
+<graph> 
+	<node>100</node>
+
+</graph>
+<graph> 
+	<node>686</node>
+
+</graph>
+<graph> 
+	<node>16</node>
+
+</graph>
+<graph> 
+	<node>941</node>
+
+</graph>
+<graph> 
+	<node>638</node>
+
+</graph>
+<graph> 
+	<node>403</node>
+
+</graph>
+<graph> 
+	<node>237</node>
+
+</graph>
+<graph> 
+	<node>628</node>
+
+</graph>
+<graph> 
+	<node>357</node>
+
+</graph>
+<graph> 
+	<node>666</node>
+
+</graph>
+<graph> 
+	<node>360</node>
+
+</graph>
+<graph> 
+	<node>856</node>
+
+</graph>
+<graph> 
+	<node>777</node>
+
+</graph>
+<graph> 
+	<node>60</node>
+
+</graph>
+<graph> 
+	<node>28</node>
+
+</graph>
+<graph> 
+	<node>753</node>
+	<node>833</node>
+	<node>386</node>
+	<node>387</node>
+	<node>708</node>
+	<node>661</node>
+	<node>543</node>
+
+	<edge>661 753/+</edge>
+	<edge>386 753/+</edge>
+	<edge>708 833/+</edge>
+	<edge>387 661/+</edge>
+	<edge>661 386/+</edge>
+	<edge>833 387/+</edge>
+	<edge>386 833/+</edge>
+	<edge>753 833/+</edge>
+	<edge>543 387/+</edge>
+	<edge>543 661/+</edge>
+	<edge>543 386/+</edge>
+	<edge>387 708/+</edge>
+</graph>
+<graph> 
+	<node>699</node>
+
+</graph>
+<graph> 
+	<node>633</node>
+
+</graph>
+<graph> 
+	<node>402</node>
+	<node>882</node>
+	<node>940</node>
+
+	<edge>882 402/+</edge>
+	<edge>940 882/+</edge>
+	<edge>402 940/+</edge>
+</graph>
+<graph> 
+	<node>714</node>
+
+</graph>
+<graph> 
+	<node>389</node>
+	<node>711</node>
+	<node>840</node>
+	<node>137</node>
+	<node>203</node>
+	<node>205</node>
+	<node>653</node>
+	<node>785</node>
+	<node>82</node>
+	<node>979</node>
+	<node>277</node>
+	<node>22</node>
+	<node>536</node>
+	<node>728</node>
+	<node>410</node>
+	<node>602</node>
+	<node>794</node>
+	<node>800</node>
+	<node>420</node>
+	<node>101</node>
+	<node>744</node>
+	<node>872</node>
+	<node>873</node>
+	<node>44</node>
+	<node>495</node>
+	<node>696</node>
+	<node>315</node>
+	<node>444</node>
+	<node>255</node>
+
+	<edge>728 495/+</edge>
+	<edge>872 873/+</edge>
+	<edge>495 22/+</edge>
+	<edge>495 82/+</edge>
+	<edge>137 205/+</edge>
+	<edge>840 602/+</edge>
+	<edge>873 255/+</edge>
+	<edge>840 728/+</edge>
+	<edge>602 315/+</edge>
+	<edge>744 785/+</edge>
+	<edge>794 800/+</edge>
+	<edge>744 410/+</edge>
+	<edge>315 205/+</edge>
+	<edge>22 315/+</edge>
+	<edge>410 872/+</edge>
+	<edge>602 22/+</edge>
+	<edge>277 536/+</edge>
+	<edge>785 255/+</edge>
+	<edge>277 653/+</edge>
+	<edge>728 872/+</edge>
+	<edge>44 101/+</edge>
+	<edge>137 389/+</edge>
+	<edge>872 101/+</edge>
+	<edge>420 840/+</edge>
+	<edge>389 794/+</edge>
+	<edge>794 495/+</edge>
+	<edge>800 410/+</edge>
+	<edge>536 873/+</edge>
+	<edge>389 536/+</edge>
+	<edge>444 277/+</edge>
+	<edge>315 785/+</edge>
+	<edge>979 711/+</edge>
+	<edge>82 137/+</edge>
+	<edge>696 420/+</edge>
+	<edge>653 744/+</edge>
+	<edge>444 137/+</edge>
+	<edge>22 979/+</edge>
+	<edge>420 653/+</edge>
+	<edge>800 744/+</edge>
+	<edge>536 602/+</edge>
+	<edge>785 44/+</edge>
+	<edge>82 203/+</edge>
+	<edge>696 203/+</edge>
+	<edge>255 82/+</edge>
+	<edge>711 696/+</edge>
+	<edge>653 979/+</edge>
+	<edge>203 444/+</edge>
+	<edge>255 728/+</edge>
+	<edge>873 840/+</edge>
+	<edge>205 277/+</edge>
+	<edge>410 794/+</edge>
+	<edge>101 711/+</edge>
+	<edge>979 389/+</edge>
+	<edge>205 44/+</edge>
+</graph>
+<graph> 
+	<node>909</node>
+
+</graph>
+<graph> 
+	<node>895</node>
+
+</graph>
+<graph> 
+	<node>494</node>
+
+</graph>
+<graph> 
+	<node>128</node>
+	<node>258</node>
+	<node>388</node>
+	<node>6</node>
+	<node>265</node>
+	<node>650</node>
+	<node>139</node>
+	<node>651</node>
+	<node>12</node>
+	<node>142</node>
+	<node>143</node>
+	<node>273</node>
+	<node>657</node>
+	<node>533</node>
+	<node>23</node>
+	<node>24</node>
+	<node>281</node>
+	<node>538</node>
+	<node>922</node>
+	<node>539</node>
+	<node>923</node>
+	<node>29</node>
+	<node>669</node>
+	<node>797</node>
+	<node>288</node>
+	<node>289</node>
+	<node>291</node>
+	<node>675</node>
+	<node>932</node>
+	<node>935</node>
+	<node>680</node>
+	<node>808</node>
+	<node>814</node>
+	<node>431</node>
+	<node>432</node>
+	<node>816</node>
+	<node>561</node>
+	<node>690</node>
+	<node>818</node>
+	<node>311</node>
+	<node>445</node>
+	<node>446</node>
+	<node>703</node>
+	<node>65</node>
+	<node>578</node>
+	<node>68</node>
+	<node>201</node>
+	<node>972</node>
+	<node>973</node>
+	<node>467</node>
+	<node>724</node>
+	<node>344</node>
+	<node>89</node>
+	<node>219</node>
+	<node>987</node>
+	<node>92</node>
+	<node>988</node>
+	<node>605</node>
+	<node>608</node>
+	<node>226</node>
+	<node>610</node>
+	<node>742</node>
+	<node>615</node>
+	<node>743</node>
+	<node>104</node>
+	<node>488</node>
+	<node>490</node>
+	<node>367</node>
+	<node>499</node>
+	<node>246</node>
+	<node>888</node>
+	<node>377</node>
+	<node>507</node>
+
+	<edge>615 888/+</edge>
+	<edge>675 669/+</edge>
+	<edge>651 539/+</edge>
+	<edge>539 724/+</edge>
+	<edge>446 973/+</edge>
+	<edge>973 507/+</edge>
+	<edge>972 219/+</edge>
+	<edge>6 610/+</edge>
+	<edge>445 128/+</edge>
+	<edge>650 922/+</edge>
+	<edge>561 6/+</edge>
+	<edge>690 818/+</edge>
+	<edge>431 68/+</edge>
+	<edge>703 675/+</edge>
+	<edge>935 377/+</edge>
+	<edge>104 388/+</edge>
+	<edge>816 432/+</edge>
+	<edge>289 24/+</edge>
+	<edge>669 6/+</edge>
+	<edge>68 65/+</edge>
+	<edge>201 657/+</edge>
+	<edge>657 344/+</edge>
+	<edge>431 104/+</edge>
+	<edge>367 816/+</edge>
+	<edge>675 888/+</edge>
+	<edge>377 675/+</edge>
+	<edge>818 651/+</edge>
+	<edge>12 388/+</edge>
+	<edge>610 291/+</edge>
+	<edge>488 932/+</edge>
+	<edge>605 987/+</edge>
+	<edge>888 281/+</edge>
+	<edge>680 888/+</edge>
+	<edge>490 657/+</edge>
+	<edge>143 657/+</edge>
+	<edge>816 446/+</edge>
+	<edge>888 932/+</edge>
+	<edge>561 507/+</edge>
+	<edge>68 128/+</edge>
+	<edge>816 923/+</edge>
+	<edge>128 142/+</edge>
+	<edge>226 367/+</edge>
+	<edge>258 972/+</edge>
+	<edge>6 143/+</edge>
+	<edge>226 258/+</edge>
+	<edge>578 265/+</edge>
+	<edge>219 539/+</edge>
+	<edge>973 367/+</edge>
+	<edge>143 816/+</edge>
+	<edge>675 219/+</edge>
+	<edge>743 690/+</edge>
+	<edge>288 258/+</edge>
+	<edge>922 578/+</edge>
+	<edge>432 143/+</edge>
+	<edge>703 431/+</edge>
+	<edge>650 605/+</edge>
+	<edge>288 561/+</edge>
+	<edge>538 490/+</edge>
+	<edge>344 226/+</edge>
+	<edge>344 650/+</edge>
+	<edge>561 432/+</edge>
+	<edge>142 703/+</edge>
+	<edge>431 23/+</edge>
+	<edge>92 922/+</edge>
+	<edge>23 605/+</edge>
+	<edge>388 68/+</edge>
+	<edge>539 281/+</edge>
+	<edge>935 987/+</edge>
+	<edge>610 499/+</edge>
+	<edge>703 605/+</edge>
+	<edge>24 367/+</edge>
+	<edge>742 488/+</edge>
+	<edge>742 246/+</edge>
+	<edge>432 808/+</edge>
+	<edge>104 743/+</edge>
+	<edge>657 246/+</edge>
+	<edge>499 818/+</edge>
+	<edge>724 89/+</edge>
+	<edge>246 808/+</edge>
+	<edge>923 888/+</edge>
+	<edge>743 377/+</edge>
+	<edge>104 818/+</edge>
+	<edge>446 533/+</edge>
+	<edge>675 988/+</edge>
+	<edge>89 742/+</edge>
+	<edge>605 657/+</edge>
+	<edge>467 201/+</edge>
+	<edge>367 265/+</edge>
+	<edge>743 987/+</edge>
+	<edge>89 669/+</edge>
+	<edge>814 89/+</edge>
+	<edge>29 973/+</edge>
+	<edge>499 690/+</edge>
+	<edge>139 311/+</edge>
+	<edge>92 972/+</edge>
+	<edge>139 226/+</edge>
+	<edge>92 265/+</edge>
+	<edge>219 92/+</edge>
+	<edge>104 142/+</edge>
+	<edge>987 445/+</edge>
+	<edge>128 680/+</edge>
+	<edge>818 291/+</edge>
+	<edge>507 922/+</edge>
+	<edge>578 258/+</edge>
+	<edge>344 935/+</edge>
+	<edge>281 724/+</edge>
+	<edge>561 987/+</edge>
+	<edge>377 219/+</edge>
+	<edge>89 288/+</edge>
+	<edge>6 344/+</edge>
+	<edge>650 246/+</edge>
+	<edge>499 972/+</edge>
+	<edge>12 615/+</edge>
+	<edge>367 288/+</edge>
+	<edge>972 923/+</edge>
+	<edge>724 104/+</edge>
+	<edge>311 432/+</edge>
+	<edge>246 490/+</edge>
+	<edge>142 608/+</edge>
+	<edge>797 201/+</edge>
+	<edge>988 608/+</edge>
+	<edge>445 65/+</edge>
+	<edge>615 533/+</edge>
+	<edge>128 388/+</edge>
+	<edge>742 281/+</edge>
+	<edge>291 561/+</edge>
+	<edge>288 888/+</edge>
+	<edge>273 265/+</edge>
+	<edge>12 29/+</edge>
+	<edge>219 311/+</edge>
+	<edge>657 690/+</edge>
+	<edge>987 816/+</edge>
+	<edge>651 973/+</edge>
+	<edge>808 605/+</edge>
+	<edge>669 446/+</edge>
+	<edge>499 680/+</edge>
+	<edge>432 446/+</edge>
+	<edge>797 68/+</edge>
+	<edge>29 89/+</edge>
+	<edge>507 142/+</edge>
+	<edge>742 201/+</edge>
+	<edge>973 467/+</edge>
+	<edge>273 289/+</edge>
+	<edge>797 258/+</edge>
+	<edge>973 128/+</edge>
+	<edge>923 219/+</edge>
+	<edge>281 367/+</edge>
+	<edge>818 431/+</edge>
+	<edge>65 651/+</edge>
+	<edge>922 288/+</edge>
+	<edge>467 814/+</edge>
+	<edge>488 615/+</edge>
+	<edge>808 650/+</edge>
+	<edge>797 291/+</edge>
+	<edge>932 818/+</edge>
+	<edge>490 922/+</edge>
+	<edge>143 445/+</edge>
+	<edge>89 816/+</edge>
+	<edge>367 690/+</edge>
+	<edge>377 657/+</edge>
+	<edge>680 65/+</edge>
+	<edge>690 219/+</edge>
+	<edge>265 29/+</edge>
+	<edge>988 431/+</edge>
+	<edge>814 538/+</edge>
+	<edge>490 445/+</edge>
+	<edge>344 273/+</edge>
+	<edge>23 29/+</edge>
+	<edge>226 288/+</edge>
+	<edge>281 246/+</edge>
+	<edge>615 23/+</edge>
+	<edge>651 12/+</edge>
+	<edge>201 703/+</edge>
+	<edge>68 973/+</edge>
+	<edge>932 690/+</edge>
+	<edge>538 258/+</edge>
+	<edge>139 92/+</edge>
+	<edge>467 65/+</edge>
+	<edge>445 972/+</edge>
+	<edge>690 139/+</edge>
+	<edge>680 445/+</edge>
+	<edge>651 797/+</edge>
+	<edge>488 288/+</edge>
+	<edge>808 724/+</edge>
+	<edge>488 143/+</edge>
+	<edge>143 344/+</edge>
+	<edge>24 651/+</edge>
+	<edge>265 675/+</edge>
+	<edge>311 6/+</edge>
+	<edge>724 561/+</edge>
+	<edge>246 104/+</edge>
+	<edge>431 289/+</edge>
+	<edge>281 538/+</edge>
+	<edge>507 499/+</edge>
+	<edge>605 923/+</edge>
+	<edge>12 578/+</edge>
+	<edge>258 104/+</edge>
+	<edge>445 610/+</edge>
+	<edge>724 499/+</edge>
+	<edge>935 89/+</edge>
+	<edge>680 650/+</edge>
+	<edge>490 201/+</edge>
+	<edge>987 533/+</edge>
+	<edge>923 490/+</edge>
+	<edge>922 724/+</edge>
+	<edge>104 797/+</edge>
+	<edge>289 615/+</edge>
+	<edge>539 142/+</edge>
+	<edge>246 608/+</edge>
+	<edge>142 972/+</edge>
+	<edge>818 488/+</edge>
+	<edge>367 615/+</edge>
+	<edge>608 605/+</edge>
+	<edge>201 923/+</edge>
+	<edge>650 742/+</edge>
+	<edge>6 446/+</edge>
+	<edge>703 808/+</edge>
+	<edge>29 139/+</edge>
+	<edge>388 432/+</edge>
+	<edge>388 311/+</edge>
+	<edge>888 610/+</edge>
+	<edge>669 143/+</edge>
+	<edge>608 932/+</edge>
+	<edge>538 680/+</edge>
+	<edge>258 703/+</edge>
+	<edge>657 273/+</edge>
+	<edge>816 92/+</edge>
+	<edge>690 311/+</edge>
+	<edge>533 139/+</edge>
+	<edge>814 818/+</edge>
+	<edge>578 139/+</edge>
+	<edge>923 578/+</edge>
+	<edge>539 143/+</edge>
+	<edge>615 932/+</edge>
+	<edge>281 973/+</edge>
+	<edge>29 467/+</edge>
+	<edge>680 814/+</edge>
+	<edge>690 675/+</edge>
+	<edge>814 533/+</edge>
+	<edge>388 467/+</edge>
+	<edge>724 388/+</edge>
+	<edge>92 538/+</edge>
+	<edge>23 669/+</edge>
+	<edge>533 281/+</edge>
+	<edge>446 273/+</edge>
+	<edge>288 142/+</edge>
+	<edge>311 797/+</edge>
+	<edge>143 12/+</edge>
+	<edge>533 201/+</edge>
+	<edge>265 650/+</edge>
+	<edge>605 467/+</edge>
+	<edge>258 675/+</edge>
+	<edge>201 446/+</edge>
+	<edge>258 651/+</edge>
+	<edge>344 265/+</edge>
+	<edge>507 703/+</edge>
+	<edge>68 24/+</edge>
+	<edge>265 432/+</edge>
+	<edge>68 12/+</edge>
+	<edge>273 367/+</edge>
+	<edge>289 988/+</edge>
+	<edge>988 680/+</edge>
+	<edge>89 128/+</edge>
+	<edge>273 651/+</edge>
+	<edge>65 987/+</edge>
+	<edge>24 92/+</edge>
+	<edge>743 490/+</edge>
+	<edge>538 743/+</edge>
+	<edge>608 578/+</edge>
+	<edge>23 816/+</edge>
+	<edge>226 935/+</edge>
+	<edge>65 539/+</edge>
+	<edge>288 24/+</edge>
+	<edge>246 561/+</edge>
+	<edge>935 669/+</edge>
+	<edge>291 935/+</edge>
+	<edge>610 743/+</edge>
+	<edge>291 814/+</edge>
+	<edge>973 388/+</edge>
+	<edge>92 431/+</edge>
+	<edge>128 935/+</edge>
+	<edge>377 344/+</edge>
+	<edge>142 377/+</edge>
+	<edge>972 539/+</edge>
+	<edge>922 226/+</edge>
+	<edge>388 538/+</edge>
+	<edge>65 988/+</edge>
+	<edge>29 922/+</edge>
+	<edge>561 608/+</edge>
+	<edge>669 289/+</edge>
+	<edge>814 797/+</edge>
+	<edge>808 539/+</edge>
+	<edge>972 377/+</edge>
+	<edge>935 289/+</edge>
+	<edge>703 246/+</edge>
+	<edge>608 12/+</edge>
+	<edge>432 291/+</edge>
+	<edge>651 291/+</edge>
+	<edge>987 610/+</edge>
+	<edge>226 68/+</edge>
+	<edge>201 488/+</edge>
+	<edge>12 743/+</edge>
+	<edge>289 445/+</edge>
+	<edge>888 561/+</edge>
+	<edge>311 669/+</edge>
+	<edge>445 578/+</edge>
+	<edge>539 23/+</edge>
+	<edge>431 6/+</edge>
+	<edge>615 29/+</edge>
+	<edge>219 538/+</edge>
+	<edge>139 377/+</edge>
+	<edge>578 490/+</edge>
+	<edge>289 226/+</edge>
+	<edge>65 89/+</edge>
+	<edge>988 6/+</edge>
+	<edge>605 488/+</edge>
+	<edge>311 808/+</edge>
+	<edge>507 988/+</edge>
+	<edge>533 935/+</edge>
+	<edge>432 499/+</edge>
+	<edge>742 24/+</edge>
+	<edge>533 923/+</edge>
+	<edge>467 24/+</edge>
+	<edge>377 431/+</edge>
+	<edge>446 128/+</edge>
+	<edge>818 289/+</edge>
+	<edge>446 104/+</edge>
+	<edge>273 650/+</edge>
+	<edge>922 139/+</edge>
+	<edge>987 29/+</edge>
+	<edge>932 344/+</edge>
+	<edge>291 273/+</edge>
+	<edge>988 742/+</edge>
+	<edge>972 743/+</edge>
+	<edge>610 742/+</edge>
+	<edge>932 507/+</edge>
+	<edge>139 499/+</edge>
+	<edge>488 23/+</edge>
+	<edge>888 507/+</edge>
+	<edge>24 311/+</edge>
+	<edge>219 808/+</edge>
+	<edge>265 488/+</edge>
+	<edge>657 703/+</edge>
+	<edge>128 932/+</edge>
+</graph>
+<graph> 
+	<node>127</node>
+
+</graph>
+<graph> 
+	<node>214</node>
+
+</graph>
+<graph> 
+	<node>64</node>
+
+</graph>
+<graph> 
+	<node>300</node>
+
+</graph>
+<graph> 
+	<node>813</node>
+
+</graph>
+<graph> 
+	<node>851</node>
+
+</graph>
+<graph> 
+	<node>992</node>
+
+</graph>
+<graph> 
+	<node>496</node>
+
+</graph>
+<graph> 
+	<node>705</node>
+	<node>613</node>
+	<node>782</node>
+
+	<edge>705 613/+</edge>
+	<edge>705 782/+</edge>
+	<edge>782 613/+</edge>
+</graph>
+<graph> 
+	<node>238</node>
+
+</graph>
+<graph> 
+	<node>47</node>
+
+</graph>
+<graph> 
+	<node>476</node>
+
+</graph>
+<graph> 
+	<node>390</node>
+
+</graph>
+<graph> 
+	<node>406</node>
+
+</graph>
+<graph> 
+	<node>421</node>
+
+</graph>
+<graph> 
+	<node>930</node>
+
+</graph>
+<graph> 
+	<node>512</node>
+	<node>5</node>
+	<node>517</node>
+	<node>11</node>
+	<node>523</node>
+	<node>525</node>
+	<node>14</node>
+	<node>528</node>
+	<node>17</node>
+	<node>19</node>
+	<node>532</node>
+	<node>534</node>
+	<node>25</node>
+	<node>31</node>
+	<node>32</node>
+	<node>38</node>
+	<node>48</node>
+	<node>50</node>
+	<node>562</node>
+	<node>53</node>
+	<node>54</node>
+	<node>566</node>
+	<node>570</node>
+	<node>59</node>
+	<node>571</node>
+	<node>572</node>
+	<node>61</node>
+	<node>575</node>
+	<node>579</node>
+	<node>74</node>
+	<node>586</node>
+	<node>75</node>
+	<node>77</node>
+	<node>80</node>
+	<node>593</node>
+	<node>83</node>
+	<node>595</node>
+	<node>599</node>
+	<node>90</node>
+	<node>91</node>
+	<node>93</node>
+	<node>94</node>
+	<node>606</node>
+	<node>609</node>
+	<node>112</node>
+	<node>624</node>
+	<node>625</node>
+	<node>626</node>
+	<node>627</node>
+	<node>116</node>
+	<node>119</node>
+	<node>120</node>
+	<node>121</node>
+	<node>125</node>
+	<node>126</node>
+	<node>639</node>
+	<node>129</node>
+	<node>642</node>
+	<node>131</node>
+	<node>132</node>
+	<node>135</node>
+	<node>648</node>
+	<node>145</node>
+	<node>658</node>
+	<node>660</node>
+	<node>151</node>
+	<node>663</node>
+	<node>154</node>
+	<node>159</node>
+	<node>671</node>
+	<node>160</node>
+	<node>677</node>
+	<node>678</node>
+	<node>167</node>
+	<node>171</node>
+	<node>683</node>
+	<node>173</node>
+	<node>685</node>
+	<node>175</node>
+	<node>692</node>
+	<node>693</node>
+	<node>694</node>
+	<node>697</node>
+	<node>196</node>
+	<node>709</node>
+	<node>716</node>
+	<node>717</node>
+	<node>718</node>
+	<node>719</node>
+	<node>209</node>
+	<node>725</node>
+	<node>215</node>
+	<node>217</node>
+	<node>729</node>
+	<node>730</node>
+	<node>732</node>
+	<node>733</node>
+	<node>224</node>
+	<node>736</node>
+	<node>228</node>
+	<node>231</node>
+	<node>232</node>
+	<node>745</node>
+	<node>240</node>
+	<node>754</node>
+	<node>243</node>
+	<node>756</node>
+	<node>252</node>
+	<node>764</node>
+	<node>765</node>
+	<node>768</node>
+	<node>257</node>
+	<node>772</node>
+	<node>773</node>
+	<node>774</node>
+	<node>263</node>
+	<node>776</node>
+	<node>778</node>
+	<node>269</node>
+	<node>271</node>
+	<node>274</node>
+	<node>276</node>
+	<node>788</node>
+	<node>789</node>
+	<node>798</node>
+	<node>805</node>
+	<node>296</node>
+	<node>297</node>
+	<node>812</node>
+	<node>302</node>
+	<node>303</node>
+	<node>307</node>
+	<node>820</node>
+	<node>312</node>
+	<node>828</node>
+	<node>318</node>
+	<node>319</node>
+	<node>832</node>
+	<node>835</node>
+	<node>324</node>
+	<node>836</node>
+	<node>325</node>
+	<node>837</node>
+	<node>838</node>
+	<node>844</node>
+	<node>847</node>
+	<node>848</node>
+	<node>337</node>
+	<node>339</node>
+	<node>340</node>
+	<node>342</node>
+	<node>343</node>
+	<node>855</node>
+	<node>857</node>
+	<node>350</node>
+	<node>862</node>
+	<node>351</node>
+	<node>352</node>
+	<node>864</node>
+	<node>866</node>
+	<node>355</node>
+	<node>868</node>
+	<node>870</node>
+	<node>876</node>
+	<node>366</node>
+	<node>369</node>
+	<node>372</node>
+	<node>885</node>
+	<node>376</node>
+	<node>378</node>
+	<node>890</node>
+	<node>891</node>
+	<node>892</node>
+	<node>384</node>
+	<node>902</node>
+	<node>392</node>
+	<node>905</node>
+	<node>396</node>
+	<node>397</node>
+	<node>910</node>
+	<node>912</node>
+	<node>914</node>
+	<node>915</node>
+	<node>404</node>
+	<node>916</node>
+	<node>405</node>
+	<node>917</node>
+	<node>918</node>
+	<node>407</node>
+	<node>408</node>
+	<node>409</node>
+	<node>411</node>
+	<node>924</node>
+	<node>925</node>
+	<node>416</node>
+	<node>929</node>
+	<node>933</node>
+	<node>934</node>
+	<node>424</node>
+	<node>938</node>
+	<node>428</node>
+	<node>944</node>
+	<node>947</node>
+	<node>436</node>
+	<node>439</node>
+	<node>440</node>
+	<node>441</node>
+	<node>953</node>
+	<node>955</node>
+	<node>958</node>
+	<node>960</node>
+	<node>453</node>
+	<node>965</node>
+	<node>457</node>
+	<node>463</node>
+	<node>976</node>
+	<node>983</node>
+	<node>984</node>
+	<node>473</node>
+	<node>474</node>
+	<node>477</node>
+	<node>989</node>
+	<node>479</node>
+	<node>480</node>
+	<node>993</node>
+	<node>997</node>
+	<node>998</node>
+	<node>487</node>
+	<node>999</node>
+	<node>501</node>
+	<node>505</node>
+	<node>506</node>
+	<node>508</node>
+
+	<edge>372 902/+</edge>
+	<edge>693 892/+</edge>
+	<edge>933 340/+</edge>
+	<edge>50 683/+</edge>
+	<edge>463 319/+</edge>
+	<edge>74 595/+</edge>
+	<edge>302 918/+</edge>
+	<edge>593 864/+</edge>
+	<edge>271 719/+</edge>
+	<edge>624 820/+</edge>
+	<edge>694 501/+</edge>
+	<edge>892 209/+</edge>
+	<edge>112 396/+</edge>
+	<edge>397 159/+</edge>
+	<edge>890 240/+</edge>
+	<edge>378 48/+</edge>
+	<edge>768 487/+</edge>
+	<edge>276 685/+</edge>
+	<edge>953 151/+</edge>
+	<edge>240 764/+</edge>
+	<edge>798 678/+</edge>
+	<edge>648 756/+</edge>
+	<edge>480 405/+</edge>
+	<edge>351 93/+</edge>
+	<edge>512 252/+</edge>
+	<edge>934 325/+</edge>
+	<edge>215 307/+</edge>
+	<edge>709 902/+</edge>
+	<edge>215 416/+</edge>
+	<edge>17 778/+</edge>
+	<edge>989 847/+</edge>
+	<edge>173 517/+</edge>
+	<edge>428 116/+</edge>
+	<edge>252 798/+</edge>
+	<edge>378 439/+</edge>
+	<edge>855 14/+</edge>
+	<edge>678 944/+</edge>
+	<edge>209 112/+</edge>
+	<edge>958 324/+</edge>
+	<edge>916 366/+</edge>
+	<edge>648 844/+</edge>
+	<edge>847 151/+</edge>
+	<edge>48 351/+</edge>
+	<edge>694 523/+</edge>
+	<edge>768 570/+</edge>
+	<edge>154 243/+</edge>
+	<edge>934 302/+</edge>
+	<edge>989 717/+</edge>
+	<edge>642 297/+</edge>
+	<edge>778 319/+</edge>
+	<edge>836 125/+</edge>
+	<edge>562 938/+</edge>
+	<edge>925 54/+</edge>
+	<edge>595 474/+</edge>
+	<edge>121 441/+</edge>
+	<edge>639 228/+</edge>
+	<edge>837 302/+</edge>
+	<edge>525 571/+</edge>
+	<edge>606 642/+</edge>
+	<edge>866 119/+</edge>
+	<edge>693 215/+</edge>
+	<edge>416 479/+</edge>
+	<edge>339 17/+</edge>
+	<edge>789 126/+</edge>
+	<edge>876 933/+</edge>
+	<edge>257 54/+</edge>
+	<edge>933 916/+</edge>
+	<edge>376 167/+</edge>
+	<edge>355 173/+</edge>
+	<edge>864 154/+</edge>
+	<edge>571 145/+</edge>
+	<edge>844 718/+</edge>
+	<edge>505 439/+</edge>
+	<edge>411 352/+</edge>
+	<edge>916 477/+</edge>
+	<edge>324 428/+</edge>
+	<edge>90 240/+</edge>
+	<edge>764 75/+</edge>
+	<edge>350 409/+</edge>
+	<edge>692 718/+</edge>
+	<edge>798 984/+</edge>
+	<edge>506 525/+</edge>
+	<edge>209 119/+</edge>
+	<edge>297 369/+</edge>
+	<edge>14 307/+</edge>
+	<edge>474 692/+</edge>
+	<edge>409 151/+</edge>
+	<edge>890 269/+</edge>
+	<edge>868 916/+</edge>
+	<edge>215 639/+</edge>
+	<edge>764 276/+</edge>
+	<edge>953 835/+</edge>
+	<edge>998 958/+</edge>
+	<edge>240 324/+</edge>
+	<edge>173 848/+</edge>
+	<edge>534 862/+</edge>
+	<edge>436 11/+</edge>
+	<edge>228 297/+</edge>
+	<edge>579 436/+</edge>
+	<edge>319 307/+</edge>
+	<edge>868 276/+</edge>
+	<edge>231 303/+</edge>
+	<edge>131 733/+</edge>
+	<edge>392 274/+</edge>
+	<edge>505 90/+</edge>
+	<edge>501 579/+</edge>
+	<edge>352 121/+</edge>
+	<edge>754 648/+</edge>
+	<edge>132 915/+</edge>
+	<edge>599 337/+</edge>
+	<edge>639 318/+</edge>
+	<edge>508 532/+</edge>
+	<edge>405 934/+</edge>
+	<edge>624 17/+</edge>
+	<edge>733 171/+</edge>
+	<edge>938 730/+</edge>
+	<edge>678 175/+</edge>
+	<edge>151 439/+</edge>
+	<edge>32 269/+</edge>
+	<edge>263 232/+</edge>
+	<edge>83 424/+</edge>
+	<edge>788 693/+</edge>
+	<edge>754 756/+</edge>
+	<edge>855 838/+</edge>
+	<edge>94 606/+</edge>
+	<edge>91 905/+</edge>
+	<edge>228 717/+</edge>
+	<edge>224 528/+</edge>
+	<edge>745 405/+</edge>
+	<edge>355 944/+</edge>
+	<edge>912 929/+</edge>
+	<edge>340 441/+</edge>
+	<edge>997 31/+</edge>
+	<edge>835 828/+</edge>
+	<edge>120 5/+</edge>
+	<edge>38 832/+</edge>
+	<edge>671 396/+</edge>
+	<edge>428 534/+</edge>
+	<edge>828 126/+</edge>
+	<edge>517 352/+</edge>
+	<edge>50 17/+</edge>
+	<edge>411 506/+</edge>
+	<edge>351 733/+</edge>
+	<edge>274 709/+</edge>
+	<edge>835 625/+</edge>
+	<edge>917 745/+</edge>
+	<edge>944 131/+</edge>
+	<edge>126 477/+</edge>
+	<edge>355 989/+</edge>
+	<edge>960 890/+</edge>
+	<edge>77 627/+</edge>
+	<edge>217 947/+</edge>
+	<edge>25 571/+</edge>
+	<edge>91 228/+</edge>
+	<edge>350 772/+</edge>
+	<edge>252 733/+</edge>
+	<edge>671 463/+</edge>
+	<edge>303 121/+</edge>
+	<edge>660 120/+</edge>
+	<edge>506 480/+</edge>
+	<edge>571 764/+</edge>
+	<edge>307 407/+</edge>
+	<edge>593 772/+</edge>
+	<edge>570 694/+</edge>
+	<edge>891 372/+</edge>
+	<edge>805 729/+</edge>
+	<edge>378 196/+</edge>
+	<edge>999 915/+</edge>
+	<edge>917 768/+</edge>
+	<edge>866 378/+</edge>
+	<edge>119 505/+</edge>
+	<edge>369 83/+</edge>
+	<edge>25 463/+</edge>
+	<edge>93 19/+</edge>
+	<edge>517 132/+</edge>
+	<edge>993 25/+</edge>
+	<edge>196 350/+</edge>
+	<edge>642 407/+</edge>
+	<edge>231 805/+</edge>
+	<edge>917 501/+</edge>
+	<edge>523 324/+</edge>
+	<edge>404 132/+</edge>
+	<edge>562 736/+</edge>
+	<edge>709 812/+</edge>
+	<edge>428 999/+</edge>
+	<edge>257 677/+</edge>
+	<edge>528 325/+</edge>
+	<edge>586 38/+</edge>
+	<edge>864 397/+</edge>
+	<edge>232 217/+</edge>
+	<edge>938 14/+</edge>
+	<edge>274 376/+</edge>
+	<edge>848 944/+</edge>
+	<edge>570 232/+</edge>
+	<edge>424 912/+</edge>
+	<edge>624 428/+</edge>
+	<edge>129 404/+</edge>
+	<edge>457 145/+</edge>
+	<edge>405 774/+</edge>
+	<edge>14 902/+</edge>
+	<edge>778 934/+</edge>
+	<edge>586 998/+</edge>
+	<edge>487 376/+</edge>
+	<edge>167 835/+</edge>
+	<edge>508 732/+</edge>
+	<edge>351 955/+</edge>
+	<edge>416 805/+</edge>
+	<edge>692 5/+</edge>
+	<edge>606 730/+</edge>
+	<edge>924 145/+</edge>
+	<edge>953 960/+</edge>
+	<edge>658 232/+</edge>
+	<edge>938 910/+</edge>
+	<edge>175 717/+</edge>
+	<edge>59 848/+</edge>
+	<edge>575 77/+</edge>
+	<edge>725 729/+</edge>
+	<edge>257 768/+</edge>
+	<edge>75 593/+</edge>
+	<edge>599 998/+</edge>
+	<edge>905 404/+</edge>
+	<edge>121 116/+</edge>
+	<edge>754 685/+</edge>
+	<edge>983 523/+</edge>
+	<edge>910 416/+</edge>
+	<edge>116 677/+</edge>
+	<edge>19 296/+</edge>
+	<edge>339 119/+</edge>
+	<edge>319 697/+</edge>
+	<edge>112 5/+</edge>
+	<edge>885 512/+</edge>
+	<edge>732 855/+</edge>
+	<edge>575 571/+</edge>
+	<edge>135 132/+</edge>
+	<edge>934 252/+</edge>
+	<edge>384 917/+</edge>
+	<edge>160 392/+</edge>
+	<edge>848 480/+</edge>
+	<edge>773 606/+</edge>
+	<edge>730 409/+</edge>
+	<edge>171 352/+</edge>
+	<edge>325 50/+</edge>
+	<edge>5 570/+</edge>
+	<edge>407 325/+</edge>
+	<edge>269 773/+</edge>
+	<edge>75 74/+</edge>
+	<edge>369 474/+</edge>
+	<edge>145 154/+</edge>
+	<edge>745 717/+</edge>
+	<edge>885 862/+</edge>
+	<edge>626 307/+</edge>
+	<edge>424 91/+</edge>
+	<edge>408 944/+</edge>
+	<edge>593 159/+</edge>
+	<edge>677 508/+</edge>
+	<edge>572 196/+</edge>
+	<edge>11 997/+</edge>
+	<edge>440 890/+</edge>
+	<edge>910 789/+</edge>
+	<edge>83 440/+</edge>
+	<edge>175 848/+</edge>
+	<edge>77 59/+</edge>
+	<edge>828 77/+</edge>
+	<edge>820 976/+</edge>
+	<edge>407 566/+</edge>
+	<edge>562 716/+</edge>
+	<edge>59 955/+</edge>
+	<edge>868 910/+</edge>
+	<edge>855 75/+</edge>
+	<edge>325 999/+</edge>
+	<edge>232 439/+</edge>
+	<edge>167 505/+</edge>
+	<edge>217 965/+</edge>
+	<edge>525 575/+</edge>
+	<edge>479 938/+</edge>
+	<edge>376 609/+</edge>
+	<edge>525 660/+</edge>
+	<edge>532 902/+</edge>
+	<edge>77 271/+</edge>
+	<edge>11 77/+</edge>
+	<edge>154 862/+</edge>
+	<edge>319 325/+</edge>
+	<edge>870 678/+</edge>
+	<edge>436 392/+</edge>
+	<edge>112 836/+</edge>
+	<edge>844 209/+</edge>
+	<edge>90 870/+</edge>
+	<edge>595 91/+</edge>
+	<edge>19 38/+</edge>
+	<edge>217 756/+</edge>
+	<edge>276 160/+</edge>
+	<edge>5 685/+</edge>
+	<edge>730 116/+</edge>
+	<edge>171 844/+</edge>
+	<edge>116 416/+</edge>
+	<edge>648 231/+</edge>
+	<edge>378 593/+</edge>
+	<edge>732 716/+</edge>
+	<edge>61 339/+</edge>
+	<edge>366 48/+</edge>
+	<edge>876 479/+</edge>
+	<edge>776 778/+</edge>
+	<edge>870 625/+</edge>
+	<edge>131 120/+</edge>
+	<edge>91 733/+</edge>
+	<edge>934 392/+</edge>
+	<edge>523 342/+</edge>
+	<edge>160 167/+</edge>
+	<edge>243 736/+</edge>
+	<edge>54 91/+</edge>
+	<edge>263 209/+</edge>
+	<edge>154 94/+</edge>
+	<edge>453 505/+</edge>
+	<edge>890 318/+</edge>
+	<edge>376 876/+</edge>
+	<edge>835 579/+</edge>
+	<edge>154 953/+</edge>
+	<edge>74 626/+</edge>
+	<edge>953 773/+</edge>
+	<edge>805 243/+</edge>
+	<edge>625 778/+</edge>
+	<edge>404 925/+</edge>
+	<edge>820 658/+</edge>
+	<edge>844 512/+</edge>
+	<edge>312 929/+</edge>
+	<edge>342 487/+</edge>
+	<edge>989 663/+</edge>
+	<edge>339 528/+</edge>
+	<edge>733 378/+</edge>
+	<edge>160 719/+</edge>
+	<edge>324 718/+</edge>
+	<edge>59 135/+</edge>
+	<edge>663 765/+</edge>
+	<edge>953 885/+</edge>
+	<edge>566 953/+</edge>
+	<edge>765 297/+</edge>
+	<edge>692 776/+</edge>
+	<edge>160 274/+</edge>
+	<edge>125 733/+</edge>
+	<edge>892 352/+</edge>
+	<edge>48 319/+</edge>
+	<edge>772 997/+</edge>
+	<edge>725 890/+</edge>
+	<edge>905 915/+</edge>
+	<edge>232 366/+</edge>
+	<edge>440 411/+</edge>
+	<edge>848 318/+</edge>
+	<edge>416 606/+</edge>
+	<edge>683 870/+</edge>
+	<edge>252 958/+</edge>
+	<edge>716 384/+</edge>
+	<edge>32 997/+</edge>
+	<edge>409 312/+</edge>
+	<edge>572 91/+</edge>
+	<edge>48 318/+</edge>
+	<edge>685 74/+</edge>
+	<edge>625 663/+</edge>
+	<edge>774 571/+</edge>
+	<edge>269 121/+</edge>
+	<edge>774 595/+</edge>
+	<edge>243 624/+</edge>
+	<edge>778 562/+</edge>
+	<edge>999 864/+</edge>
+	<edge>905 847/+</edge>
+	<edge>866 835/+</edge>
+	<edge>832 965/+</edge>
+	<edge>196 263/+</edge>
+	<edge>257 663/+</edge>
+	<edge>505 131/+</edge>
+	<edge>998 479/+</edge>
+	<edge>404 372/+</edge>
+	<edge>54 914/+</edge>
+	<edge>736 167/+</edge>
+	<edge>625 228/+</edge>
+	<edge>17 175/+</edge>
+	<edge>477 411/+</edge>
+	<edge>271 479/+</edge>
+	<edge>725 145/+</edge>
+	<edge>215 11/+</edge>
+	<edge>764 983/+</edge>
+	<edge>998 129/+</edge>
+	<edge>683 671/+</edge>
+	<edge>93 80/+</edge>
+	<edge>405 586/+</edge>
+	<edge>918 93/+</edge>
+	<edge>774 50/+</edge>
+	<edge>658 798/+</edge>
+	<edge>61 732/+</edge>
+	<edge>998 892/+</edge>
+	<edge>924 891/+</edge>
+	<edge>685 929/+</edge>
+	<edge>683 126/+</edge>
+	<edge>836 835/+</edge>
+	<edge>125 934/+</edge>
+	<edge>312 159/+</edge>
+	<edge>772 976/+</edge>
+	<edge>302 171/+</edge>
+	<edge>129 263/+</edge>
+	<edge>129 154/+</edge>
+	<edge>745 231/+</edge>
+	<edge>772 93/+</edge>
+	<edge>159 392/+</edge>
+	<edge>151 120/+</edge>
+	<edge>506 915/+</edge>
+	<edge>693 171/+</edge>
+	<edge>512 697/+</edge>
+	<edge>534 132/+</edge>
+	<edge>960 53/+</edge>
+	<edge>820 302/+</edge>
+	<edge>337 671/+</edge>
+	<edge>812 639/+</edge>
+	<edge>397 993/+</edge>
+	<edge>773 407/+</edge>
+	<edge>215 340/+</edge>
+	<edge>776 663/+</edge>
+	<edge>411 501/+</edge>
+	<edge>525 765/+</edge>
+	<edge>307 910/+</edge>
+	<edge>944 129/+</edge>
+	<edge>269 231/+</edge>
+	<edge>772 868/+</edge>
+	<edge>439 119/+</edge>
+	<edge>671 534/+</edge>
+	<edge>960 905/+</edge>
+	<edge>50 171/+</edge>
+	<edge>929 914/+</edge>
+	<edge>337 125/+</edge>
+	<edge>730 862/+</edge>
+	<edge>606 173/+</edge>
+	<edge>835 798/+</edge>
+	<edge>756 914/+</edge>
+	<edge>789 75/+</edge>
+	<edge>570 599/+</edge>
+	<edge>765 167/+</edge>
+	<edge>717 754/+</edge>
+	<edge>303 528/+</edge>
+	<edge>658 534/+</edge>
+	<edge>639 263/+</edge>
+	<edge>512 129/+</edge>
+	<edge>404 838/+</edge>
+	<edge>94 697/+</edge>
+	<edge>944 697/+</edge>
+	<edge>342 351/+</edge>
+	<edge>812 725/+</edge>
+	<edge>271 965/+</edge>
+	<edge>772 736/+</edge>
+	<edge>474 765/+</edge>
+	<edge>857 252/+</edge>
+	<edge>318 337/+</edge>
+	<edge>717 570/+</edge>
+	<edge>719 257/+</edge>
+	<edge>572 586/+</edge>
+	<edge>126 506/+</edge>
+	<edge>151 998/+</edge>
+	<edge>732 918/+</edge>
+	<edge>765 231/+</edge>
+	<edge>914 812/+</edge>
+	<edge>736 626/+</edge>
+	<edge>915 473/+</edge>
+	<edge>80 343/+</edge>
+	<edge>575 983/+</edge>
+	<edge>343 891/+</edge>
+	<edge>627 91/+</edge>
+	<edge>719 343/+</edge>
+	<edge>586 693/+</edge>
+	<edge>408 453/+</edge>
+	<edge>586 257/+</edge>
+	<edge>151 864/+</edge>
+	<edge>832 729/+</edge>
+	<edge>405 271/+</edge>
+	<edge>351 428/+</edge>
+	<edge>828 754/+</edge>
+	<edge>736 627/+</edge>
+	<edge>175 209/+</edge>
+	<edge>915 167/+</edge>
+	<edge>694 958/+</edge>
+	<edge>54 276/+</edge>
+	<edge>80 479/+</edge>
+	<edge>93 523/+</edge>
+	<edge>918 436/+</edge>
+	<edge>5 885/+</edge>
+	<edge>717 572/+</edge>
+	<edge>505 857/+</edge>
+	<edge>866 768/+</edge>
+	<edge>774 505/+</edge>
+	<edge>532 745/+</edge>
+	<edge>848 685/+</edge>
+	<edge>562 126/+</edge>
+	<edge>296 532/+</edge>
+	<edge>112 463/+</edge>
+	<edge>719 32/+</edge>
+	<edge>276 776/+</edge>
+	<edge>59 228/+</edge>
+	<edge>440 528/+</edge>
+	<edge>798 369/+</edge>
+	<edge>754 154/+</edge>
+	<edge>126 837/+</edge>
+	<edge>487 75/+</edge>
+	<edge>441 324/+</edge>
+	<edge>25 998/+</edge>
+	<edge>572 75/+</edge>
+	<edge>508 372/+</edge>
+	<edge>11 477/+</edge>
+	<edge>965 276/+</edge>
+	<edge>75 625/+</edge>
+	<edge>836 788/+</edge>
+	<edge>59 798/+</edge>
+	<edge>473 836/+</edge>
+	<edge>914 93/+</edge>
+	<edge>599 917/+</edge>
+	<edge>862 832/+</edge>
+	<edge>171 404/+</edge>
+	<edge>768 416/+</edge>
+	<edge>477 965/+</edge>
+	<edge>847 938/+</edge>
+	<edge>366 765/+</edge>
+	<edge>929 868/+</edge>
+	<edge>820 80/+</edge>
+	<edge>683 960/+</edge>
+	<edge>593 820/+</edge>
+	<edge>409 866/+</edge>
+	<edge>626 376/+</edge>
+	<edge>453 350/+</edge>
+	<edge>355 351/+</edge>
+	<edge>765 83/+</edge>
+	<edge>997 48/+</edge>
+	<edge>83 832/+</edge>
+	<edge>862 857/+</edge>
+	<edge>132 487/+</edge>
+	<edge>366 788/+</edge>
+	<edge>709 121/+</edge>
+	<edge>847 719/+</edge>
+	<edge>342 838/+</edge>
+	<edge>732 17/+</edge>
+	<edge>132 112/+</edge>
+	<edge>243 663/+</edge>
+	<edge>835 441/+</edge>
+	<edge>609 532/+</edge>
+	<edge>93 876/+</edge>
+	<edge>838 61/+</edge>
+	<edge>805 441/+</edge>
+	<edge>312 947/+</edge>
+	<edge>868 575/+</edge>
+	<edge>94 473/+</edge>
+	<edge>844 736/+</edge>
+	<edge>733 512/+</edge>
+	<edge>154 384/+</edge>
+	<edge>74 38/+</edge>
+	<edge>303 411/+</edge>
+	<edge>441 369/+</edge>
+	<edge>325 135/+</edge>
+	<edge>231 17/+</edge>
+	<edge>160 892/+</edge>
+	<edge>151 25/+</edge>
+	<edge>474 566/+</edge>
+	<edge>774 196/+</edge>
+	<edge>677 562/+</edge>
+	<edge>902 717/+</edge>
+	<edge>171 976/+</edge>
+	<edge>501 112/+</edge>
+	<edge>232 916/+</edge>
+	<edge>677 477/+</edge>
+	<edge>296 885/+</edge>
+	<edge>119 683/+</edge>
+	<edge>343 671/+</edge>
+	<edge>463 709/+</edge>
+	<edge>408 891/+</edge>
+	<edge>209 918/+</edge>
+	<edge>627 678/+</edge>
+	<edge>609 312/+</edge>
+	<edge>125 730/+</edge>
+	<edge>663 768/+</edge>
+	<edge>960 835/+</edge>
+	<edge>697 257/+</edge>
+	<edge>119 296/+</edge>
+	<edge>627 862/+</edge>
+	<edge>532 933/+</edge>
+	<edge>337 626/+</edge>
+	<edge>914 525/+</edge>
+	<edge>648 745/+</edge>
+	<edge>263 905/+</edge>
+	<edge>175 575/+</edge>
+	<edge>94 25/+</edge>
+	<edge>25 870/+</edge>
+	<edge>38 59/+</edge>
+	<edge>397 232/+</edge>
+	<edge>566 692/+</edge>
+	<edge>984 774/+</edge>
+	<edge>639 678/+</edge>
+	<edge>31 736/+</edge>
+	<edge>947 745/+</edge>
+	<edge>947 94/+</edge>
+	<edge>528 351/+</edge>
+	<edge>599 453/+</edge>
+	<edge>965 53/+</edge>
+	<edge>61 53/+</edge>
+	<edge>243 562/+</edge>
+	<edge>5 958/+</edge>
+	<edge>508 342/+</edge>
+	<edge>90 719/+</edge>
+	<edge>626 355/+</edge>
+	<edge>340 693/+</edge>
+	<edge>94 48/+</edge>
+	<edge>955 764/+</edge>
+	<edge>252 677/+</edge>
+	<edge>38 866/+</edge>
+	<edge>912 915/+</edge>
+	<edge>697 457/+</edge>
+	<edge>369 31/+</edge>
+	<edge>228 506/+</edge>
+	<edge>660 440/+</edge>
+	<edge>352 440/+</edge>
+	<edge>599 369/+</edge>
+	<edge>717 11/+</edge>
+	<edge>718 917/+</edge>
+	<edge>129 215/+</edge>
+	<edge>480 984/+</edge>
+	<edge>891 125/+</edge>
+	<edge>745 788/+</edge>
+	<edge>828 773/+</edge>
+	<edge>730 93/+</edge>
+	<edge>378 999/+</edge>
+	<edge>717 828/+</edge>
+	<edge>376 396/+</edge>
+	<edge>228 832/+</edge>
+	<edge>609 94/+</edge>
+	<edge>31 407/+</edge>
+	<edge>732 683/+</edge>
+	<edge>453 474/+</edge>
+	<edge>121 562/+</edge>
+	<edge>372 271/+</edge>
+	<edge>745 436/+</edge>
+	<edge>718 14/+</edge>
+	<edge>663 805/+</edge>
+	<edge>534 303/+</edge>
+	<edge>918 844/+</edge>
+	<edge>257 820/+</edge>
+	<edge>473 905/+</edge>
+	<edge>976 624/+</edge>
+	<edge>125 269/+</edge>
+	<edge>318 593/+</edge>
+	<edge>428 217/+</edge>
+	<edge>788 159/+</edge>
+	<edge>820 709/+</edge>
+	<edge>159 532/+</edge>
+	<edge>593 303/+</edge>
+	<edge>678 384/+</edge>
+	<edge>663 938/+</edge>
+	<edge>685 997/+</edge>
+	<edge>366 725/+</edge>
+	<edge>788 14/+</edge>
+	<edge>324 501/+</edge>
+	<edge>129 217/+</edge>
+	<edge>773 570/+</edge>
+	<edge>958 773/+</edge>
+	<edge>325 947/+</edge>
+	<edge>694 844/+</edge>
+	<edge>159 119/+</edge>
+	<edge>439 812/+</edge>
+	<edge>116 463/+</edge>
+	<edge>862 776/+</edge>
+	<edge>32 340/+</edge>
+	<edge>532 625/+</edge>
+	<edge>416 441/+</edge>
+	<edge>303 355/+</edge>
+	<edge>61 593/+</edge>
+	<edge>296 355/+</edge>
+	<edge>5 914/+</edge>
+	<edge>17 411/+</edge>
+	<edge>864 805/+</edge>
+	<edge>135 31/+</edge>
+	<edge>694 409/+</edge>
+	<edge>120 955/+</edge>
+	<edge>999 48/+</edge>
+	<edge>372 718/+</edge>
+	<edge>392 837/+</edge>
+	<edge>135 868/+</edge>
+	<edge>53 372/+</edge>
+	<edge>167 885/+</edge>
+	<edge>719 215/+</edge>
+	<edge>902 94/+</edge>
+	<edge>318 112/+</edge>
+	<edge>609 90/+</edge>
+	<edge>479 855/+</edge>
+	<edge>876 11/+</edge>
+	<edge>473 378/+</edge>
+	<edge>307 566/+</edge>
+	<edge>14 866/+</edge>
+	<edge>805 428/+</edge>
+	<edge>709 32/+</edge>
+	<edge>512 837/+</edge>
+	<edge>132 902/+</edge>
+	<edge>271 857/+</edge>
+	<edge>730 397/+</edge>
+	<edge>405 836/+</edge>
+	<edge>685 756/+</edge>
+	<edge>838 953/+</edge>
+	<edge>479 989/+</edge>
+	<edge>534 876/+</edge>
+	<edge>523 626/+</edge>
+	<edge>457 424/+</edge>
+	<edge>14 405/+</edge>
+	<edge>965 38/+</edge>
+	<edge>997 924/+</edge>
+	<edge>231 132/+</edge>
+	<edge>729 658/+</edge>
+	<edge>912 890/+</edge>
+	<edge>31 993/+</edge>
+	<edge>343 725/+</edge>
+	<edge>984 408/+</edge>
+	<edge>914 891/+</edge>
+	<edge>319 595/+</edge>
+	<edge>890 77/+</edge>
+	<edge>983 774/+</edge>
+	<edge>692 508/+</edge>
+	<edge>917 866/+</edge>
+	<edge>441 925/+</edge>
+	<edge>812 512/+</edge>
+	<edge>976 716/+</edge>
+	<edge>837 409/+</edge>
+	<edge>75 343/+</edge>
+	<edge>428 307/+</edge>
+	<edge>890 697/+</edge>
+	<edge>778 175/+</edge>
+	<edge>566 457/+</edge>
+	<edge>411 955/+</edge>
+	<edge>756 397/+</edge>
+	<edge>269 302/+</edge>
+	<edge>319 378/+</edge>
+	<edge>297 53/+</edge>
+	<edge>642 989/+</edge>
+	<edge>480 566/+</edge>
+	<edge>876 240/+</edge>
+	<edge>983 77/+</edge>
+	<edge>337 80/+</edge>
+	<edge>119 517/+</edge>
+	<edge>693 350/+</edge>
+	<edge>424 709/+</edge>
+	<edge>217 609/+</edge>
+	<edge>984 953/+</edge>
+	<edge>93 925/+</edge>
+	<edge>75 477/+</edge>
+	<edge>955 586/+</edge>
+	<edge>918 296/+</edge>
+	<edge>131 671/+</edge>
+	<edge>135 933/+</edge>
+	<edge>243 917/+</edge>
+	<edge>625 112/+</edge>
+	<edge>487 257/+</edge>
+	<edge>145 934/+</edge>
+	<edge>408 625/+</edge>
+	<edge>570 243/+</edge>
+	<edge>90 953/+</edge>
+	<edge>232 579/+</edge>
+	<edge>716 116/+</edge>
+	<edge>302 579/+</edge>
+	<edge>997 480/+</edge>
+	<edge>53 228/+</edge>
+	<edge>352 339/+</edge>
+	<edge>11 965/+</edge>
+	<edge>350 19/+</edge>
+	<edge>934 61/+</edge>
+	<edge>910 866/+</edge>
+	<edge>902 224/+</edge>
+	<edge>439 660/+</edge>
+	<edge>487 693/+</edge>
+	<edge>697 501/+</edge>
+	<edge>297 997/+</edge>
+	<edge>61 59/+</edge>
+	<edge>627 160/+</edge>
+	<edge>307 857/+</edge>
+	<edge>384 159/+</edge>
+	<edge>976 912/+</edge>
+	<edge>303 240/+</edge>
+	<edge>453 870/+</edge>
+	<edge>836 480/+</edge>
+	<edge>396 976/+</edge>
+	<edge>479 837/+</edge>
+	<edge>862 572/+</edge>
+	<edge>372 340/+</edge>
+	<edge>716 599/+</edge>
+	<edge>677 910/+</edge>
+	<edge>224 754/+</edge>
+	<edge>658 772/+</edge>
+	<edge>733 609/+</edge>
+	<edge>857 876/+</edge>
+	<edge>595 175/+</edge>
+	<edge>660 151/+</edge>
+	<edge>376 32/+</edge>
+	<edge>477 343/+</edge>
+	<edge>173 243/+</edge>
+	<edge>626 624/+</edge>
+	<edge>697 508/+</edge>
+	<edge>424 593/+</edge>
+	<edge>716 776/+</edge>
+	<edge>993 339/+</edge>
+	<edge>116 424/+</edge>
+	<edge>355 319/+</edge>
+	<edge>274 61/+</edge>
+	<edge>276 342/+</edge>
+	<edge>925 648/+</edge>
+	<edge>947 343/+</edge>
+	<edge>528 424/+</edge>
+	<edge>53 74/+</edge>
+	<edge>441 836/+</edge>
+	<edge>436 848/+</edge>
+	<edge>350 789/+</edge>
+	<edge>916 925/+</edge>
+	<edge>424 376/+</edge>
+	<edge>626 405/+</edge>
+	<edge>240 732/+</edge>
+	<edge>474 924/+</edge>
+	<edge>848 914/+</edge>
+	<edge>719 658/+</edge>
+	<edge>579 627/+</edge>
+	<edge>864 125/+</edge>
+	<edge>74 960/+</edge>
+	<edge>318 397/+</edge>
+	<edge>302 798/+</edge>
+	<edge>579 820/+</edge>
+	<edge>788 947/+</edge>
+	<edge>789 532/+</edge>
+	<edge>765 844/+</edge>
+	<edge>307 745/+</edge>
+	<edge>436 716/+</edge>
+	<edge>325 855/+</edge>
+	<edge>121 892/+</edge>
+	<edge>274 125/+</edge>
+	<edge>805 50/+</edge>
+	<edge>838 296/+</edge>
+	<edge>864 366/+</edge>
+	<edge>776 473/+</edge>
+	<edge>876 263/+</edge>
+	<edge>457 463/+</edge>
+	<edge>566 876/+</edge>
+	<edge>838 912/+</edge>
+	<edge>463 983/+</edge>
+	<edge>463 523/+</edge>
+	<edge>439 135/+</edge>
+	<edge>48 678/+</edge>
+	<edge>718 342/+</edge>
+	<edge>342 892/+</edge>
+	<edge>112 25/+</edge>
+	<edge>196 54/+</edge>
+	<edge>832 302/+</edge>
+	<edge>17 90/+</edge>
+	<edge>31 318/+</edge>
+	<edge>312 993/+</edge>
+	<edge>924 352/+</edge>
+	<edge>798 609/+</edge>
+	<edge>789 312/+</edge>
+	<edge>397 586/+</edge>
+	<edge>933 855/+</edge>
+	<edge>725 912/+</edge>
+	<edge>145 5/+</edge>
+	<edge>575 918/+</edge>
+	<edge>83 257/+</edge>
+	<edge>411 534/+</edge>
+	<edge>340 989/+</edge>
+	<edge>671 303/+</edge>
+	<edge>90 579/+</edge>
+	<edge>343 25/+</edge>
+	<edge>340 83/+</edge>
+	<edge>733 231/+</edge>
+	<edge>571 626/+</edge>
+	<edge>440 993/+</edge>
+	<edge>595 405/+</edge>
+	<edge>929 836/+</edge>
+	<edge>480 145/+</edge>
+	<edge>167 151/+</edge>
+	<edge>25 838/+</edge>
+	<edge>947 121/+</edge>
+	<edge>915 772/+</edge>
+	<edge>958 725/+</edge>
+	<edge>477 209/+</edge>
+	<edge>902 929/+</edge>
+	<edge>683 993/+</edge>
+	<edge>159 252/+</edge>
+	<edge>131 709/+</edge>
+	<edge>523 135/+</edge>
+	<edge>984 61/+</edge>
+	<edge>663 512/+</edge>
+	<edge>891 857/+</edge>
+	<edge>384 436/+</edge>
+	<edge>627 19/+</edge>
+	<edge>891 506/+</edge>
+	<edge>528 732/+</edge>
+	<edge>925 639/+</edge>
+	<edge>463 232/+</edge>
+	<edge>912 303/+</edge>
+	<edge>487 297/+</edge>
+	<edge>718 864/+</edge>
+	<edge>343 428/+</edge>
+	<edge>525 80/+</edge>
+	<edge>474 868/+</edge>
+	<edge>396 31/+</edge>
+	<edge>624 224/+</edge>
+	<edge>269 599/+</edge>
+	<edge>812 38/+</edge>
+	<edge>32 984/+</edge>
+	<edge>77 754/+</edge>
+	<edge>457 19/+</edge>
+	<edge>764 408/+</edge>
+	<edge>773 508/+</edge>
+	<edge>912 83/+</edge>
+	<edge>918 572/+</edge>
+	<edge>342 694/+</edge>
+	<edge>369 120/+</edge>
+	<edge>408 925/+</edge>
+	<edge>606 74/+</edge>
+	<edge>998 337/+</edge>
+	<edge>586 312/+</edge>
+	<edge>125 32/+</edge>
+	<edge>196 848/+</edge>
+	<edge>855 453/+</edge>
+	<edge>862 828/+</edge>
+	<edge>915 355/+</edge>
+	<edge>868 525/+</edge>
+	<edge>274 773/+</edge>
+	<edge>993 694/+</edge>
+	<edge>570 891/+</edge>
+	<edge>870 196/+</edge>
+	<edge>658 217/+</edge>
+	<edge>171 83/+</edge>
+	<edge>340 812/+</edge>
+	<edge>729 339/+</edge>
+	<edge>38 683/+</edge>
+	<edge>231 912/+</edge>
+	<edge>77 998/+</edge>
+	<edge>501 938/+</edge>
+	<edge>126 473/+</edge>
+	<edge>933 789/+</edge>
+	<edge>575 828/+</edge>
+	<edge>436 789/+</edge>
+	<edge>844 325/+</edge>
+	<edge>776 411/+</edge>
+	<edge>754 918/+</edge>
+	<edge>407 756/+</edge>
+	<edge>477 774/+</edge>
+	<edge>224 340/+</edge>
+	<edge>910 606/+</edge>
+	<edge>339 648/+</edge>
+	<edge>119 984/+</edge>
+	<edge>159 296/+</edge>
+	<edge>709 772/+</edge>
+	<edge>836 160/+</edge>
+	<edge>409 677/+</edge>
+	<edge>324 929/+</edge>
+	<edge>508 160/+</edge>
+	<edge>397 960/+</edge>
+	<edge>528 627/+</edge>
+	<edge>828 855/+</edge>
+	<edge>989 366/+</edge>
+	<edge>944 312/+</edge>
+	<edge>958 392/+</edge>
+	<edge>523 575/+</edge>
+	<edge>263 59/+</edge>
+	<edge>678 677/+</edge>
+	<edge>718 642/+</edge>
+	<edge>798 376/+</edge>
+	<edge>993 692/+</edge>
+	<edge>145 639/+</edge>
+	<edge>74 173/+</edge>
+	<edge>121 416/+</edge>
+	<edge>296 196/+</edge>
+	<edge>776 324/+</edge>
+	<edge>892 805/+</edge>
+	<edge>120 269/+</edge>
+	<edge>692 457/+</edge>
+	<edge>91 525/+</edge>
+	<edge>173 116/+</edge>
+	<edge>384 586/+</edge>
+	<edge>384 453/+</edge>
+	<edge>579 350/+</edge>
+	<edge>768 847/+</edge>
+	<edge>324 396/+</edge>
+	<edge>209 94/+</edge>
+	<edge>837 508/+</edge>
+	<edge>885 453/+</edge>
+	<edge>693 627/+</edge>
+	<edge>976 916/+</edge>
+	<edge>50 847/+</edge>
+	<edge>440 754/+</edge>
+	<edge>837 944/+</edge>
+	<edge>916 725/+</edge>
+	<edge>517 61/+</edge>
+	<edge>885 126/+</edge>
+	<edge>832 408/+</edge>
+	<edge>473 517/+</edge>
+	<edge>642 765/+</edge>
+	<edge>409 764/+</edge>
+	<edge>857 989/+</edge>
+	<edge>999 505/+</edge>
+	<edge>407 999/+</edge>
+	<edge>392 778/+</edge>
+	<edge>716 80/+</edge>
+	<edge>916 215/+</edge>
+	<edge>506 774/+</edge>
+	<edge>929 658/+</edge>
+	<edge>571 828/+</edge>
+	<edge>993 933/+</edge>
+	<edge>729 350/+</edge>
+	<edge>958 131/+</edge>
+	<edge>296 457/+</edge>
+	<edge>866 624/+</edge>
+	<edge>838 788/+</edge>
+	<edge>263 32/+</edge>
+	<edge>989 658/+</edge>
+	<edge>736 832/+</edge>
+	<edge>392 730/+</edge>
+	<edge>855 274/+</edge>
+	<edge>14 424/+</edge>
+	<edge>439 19/+</edge>
+	<edge>885 366/+</edge>
+	<edge>209 131/+</edge>
+	<edge>38 838/+</edge>
+	<edge>648 173/+</edge>
+	<edge>857 396/+</edge>
+	<edge>80 440/+</edge>
+	<edge>19 890/+</edge>
+	<edge>572 224/+</edge>
+	<edge>351 53/+</edge>
+	<edge>396 570/+</edge>
+	<edge>837 355/+</edge>
+	<edge>905 572/+</edge>
+	<edge>479 31/+</edge>
+	<edge>173 642/+</edge>
+	<edge>870 729/+</edge>
+	<edge>404 517/+</edge>
+	<edge>660 778/+</edge>
+	<edge>579 351/+</edge>
+	<edge>145 566/+</edge>
+	<edge>457 319/+</edge>
+	<edge>736 506/+</edge>
+	<edge>532 648/+</edge>
+	<edge>318 129/+</edge>
+	<edge>756 960/+</edge>
+	<edge>453 958/+</edge>
+	<edge>441 337/+</edge>
+	<edge>983 271/+</edge>
+	<edge>938 487/+</edge>
+	<edge>955 171/+</edge>
+	<edge>764 719/+</edge>
+	<edge>606 369/+</edge>
+	<edge>960 408/+</edge>
+	<edge>297 917/+</edge>
+	<edge>997 642/+</edge>
+	<edge>609 54/+</edge>
+	<edge>512 409/+</edge>
+	<edge>252 243/+</edge>
+	<edge>915 572/+</edge>
+	<edge>352 297/+</edge>
+	<edge>271 732/+</edge>
+	<edge>685 562/+</edge>
+	<edge>480 160/+</edge>
+	<edge>517 983/+</edge>
+	<edge>678 983/+</edge>
+	<edge>999 984/+</edge>
+	<edge>917 252/+</edge>
+	<edge>31 924/+</edge>
+	<edge>788 685/+</edge>
+	<edge>925 924/+</edge>
+	<edge>976 870/+</edge>
+	<edge>302 271/+</edge>
+	<edge>773 523/+</edge>
+	<edge>534 694/+</edge>
+	<edge>642 692/+</edge>
+	<edge>116 274/+</edge>
+	<edge>639 457/+</edge>
+	<edge>566 397/+</edge>
+	<edge>857 175/+</edge>
+	<edge>11 263/+</edge>
+	<edge>196 955/+</edge>
+	<edge>983 120/+</edge>
+	<edge>965 50/+</edge>
+	<edge>396 660/+</edge>
+	<edge>53 820/+</edge>
+	<edge>847 480/+</edge>
+	<edge>167 224/+</edge>
+	<edge>350 154/+</edge>
+	<edge>697 599/+</edge>
+	<edge>297 384/+</edge>
+	<edge>955 729/+</edge>
+	<edge>505 933/+</edge>
+	<edge>224 716/+</edge>
+	<edge>224 910/+</edge>
+	<edge>240 473/+</edge>
+	<edge>756 528/+</edge>
+	<edge>892 624/+</edge>
+	<edge>729 595/+</edge>
+	<edge>17 976/+</edge>
+	<edge>339 11/+</edge>
+	<edge>19 764/+</edge>
+	<edge>54 595/+</edge>
+	<edge>944 885/+</edge>
+	<edge>19 788/+</edge>
+	<edge>135 436/+</edge>
+	<edge>947 847/+</edge>
+	<edge>624 571/+</edge>
+	<edge>366 642/+</edge>
+	<edge>677 660/+</edge>
+	<edge>729 135/+</edge>
+	<edge>924 407/+</edge>
+	<edge>501 474/+</edge>
+	<edge>870 372/+</edge>
+	<edge>789 173/+</edge>
+	<edge>175 129/+</edge>
+	<edge>32 217/+</edge>
+	<edge>832 609/+</edge>
+	<edge>228 864/+</edge>
+	<edge>768 776/+</edge>
+	<edge>54 269/+</edge>
+	<edge>847 240/+</edge>
+	<edge>80 339/+</edge>
+	<edge>217 694/+</edge>
+	<edge>83 517/+</edge>
+	<edge>407 718/+</edge>
+	<edge>506 224/+</edge>
+	<edge>812 384/+</edge>
+	<edge>501 693/+</edge>
+	<edge>924 648/+</edge>
+	<edge>933 692/+</edge>
+	<edge>756 639/+</edge>
+	<edge>984 337/+</edge>
+	<edge>120 50/+</edge>
+	<edge>276 525/+</edge>
+	<edge>562 90/+</edge>
+	<edge>625 14/+</edge>
+	<edge>126 274/+</edge>
+	<edge>965 947/+</edge>
+	<edge>938 74/+</edge>
+</graph>
+<graph> 
+	<node>817</node>
+
+</graph>
+<graph> 
+	<node>594</node>
+
+</graph>
+<graph> 
+	<node>370</node>
+
+</graph>
+<graph> 
+	<node>713</node>
+
+</graph>
+<graph> 
+	<node>747</node>
+
+</graph>
+<graph> 
+	<node>429</node>
+
+</graph>
+<graph> 
+	<node>86</node>
+
+</graph>
+<graph> 
+	<node>323</node>
+
+</graph>
+<graph> 
+	<node>298</node>
+
+</graph>
+<graph> 
+	<node>867</node>
+
+</graph>
+<graph> 
+	<node>249</node>
+
+</graph>
+<graph> 
+	<node>7</node>
+
+</graph>
+<graph> 
+	<node>956</node>
+
+</graph>
+<graph> 
+	<node>194</node>
+	<node>643</node>
+	<node>967</node>
+	<node>649</node>
+	<node>204</node>
+	<node>398</node>
+	<node>462</node>
+	<node>15</node>
+	<node>468</node>
+	<node>469</node>
+	<node>795</node>
+	<node>285</node>
+	<node>926</node>
+	<node>673</node>
+	<node>356</node>
+	<node>614</node>
+	<node>359</node>
+	<node>942</node>
+	<node>111</node>
+	<node>368</node>
+	<node>181</node>
+	<node>309</node>
+	<node>760</node>
+	<node>250</node>
+	<node>442</node>
+	<node>251</node>
+
+	<edge>359 673/+</edge>
+	<edge>462 15/+</edge>
+	<edge>398 285/+</edge>
+	<edge>111 356/+</edge>
+	<edge>356 942/+</edge>
+	<edge>942 643/+</edge>
+	<edge>673 356/+</edge>
+	<edge>111 251/+</edge>
+	<edge>285 181/+</edge>
+	<edge>194 468/+</edge>
+	<edge>442 251/+</edge>
+	<edge>204 469/+</edge>
+	<edge>194 398/+</edge>
+	<edge>643 368/+</edge>
+	<edge>468 649/+</edge>
+	<edge>15 643/+</edge>
+	<edge>356 442/+</edge>
+	<edge>15 926/+</edge>
+	<edge>468 462/+</edge>
+	<edge>760 926/+</edge>
+	<edge>462 967/+</edge>
+	<edge>649 204/+</edge>
+	<edge>15 181/+</edge>
+	<edge>673 967/+</edge>
+	<edge>643 359/+</edge>
+	<edge>442 398/+</edge>
+	<edge>181 673/+</edge>
+	<edge>926 359/+</edge>
+	<edge>462 251/+</edge>
+	<edge>15 204/+</edge>
+	<edge>368 760/+</edge>
+	<edge>468 942/+</edge>
+	<edge>251 649/+</edge>
+	<edge>468 251/+</edge>
+	<edge>359 795/+</edge>
+	<edge>614 359/+</edge>
+	<edge>967 468/+</edge>
+	<edge>967 795/+</edge>
+	<edge>462 250/+</edge>
+	<edge>614 795/+</edge>
+	<edge>285 356/+</edge>
+	<edge>368 204/+</edge>
+	<edge>942 359/+</edge>
+	<edge>250 442/+</edge>
+	<edge>285 15/+</edge>
+	<edge>795 442/+</edge>
+	<edge>181 967/+</edge>
+	<edge>368 111/+</edge>
+	<edge>795 356/+</edge>
+	<edge>250 368/+</edge>
+	<edge>250 643/+</edge>
+	<edge>309 760/+</edge>
+	<edge>643 462/+</edge>
+	<edge>469 468/+</edge>
+	<edge>795 926/+</edge>
+	<edge>795 942/+</edge>
+	<edge>760 462/+</edge>
+	<edge>442 760/+</edge>
+	<edge>368 398/+</edge>
+	<edge>614 111/+</edge>
+	<edge>204 926/+</edge>
+	<edge>926 649/+</edge>
+	<edge>251 926/+</edge>
+	<edge>442 468/+</edge>
+	<edge>359 204/+</edge>
+	<edge>649 194/+</edge>
+	<edge>204 250/+</edge>
+	<edge>673 462/+</edge>
+	<edge>643 309/+</edge>
+	<edge>309 469/+</edge>
+	<edge>942 111/+</edge>
+	<edge>181 614/+</edge>
+	<edge>942 462/+</edge>
+	<edge>795 181/+</edge>
+	<edge>462 309/+</edge>
+	<edge>204 614/+</edge>
+	<edge>111 649/+</edge>
+	<edge>967 194/+</edge>
+	<edge>614 368/+</edge>
+	<edge>285 309/+</edge>
+	<edge>359 194/+</edge>
+	<edge>614 643/+</edge>
+	<edge>398 469/+</edge>
+	<edge>251 673/+</edge>
+	<edge>760 614/+</edge>
+	<edge>359 967/+</edge>
+	<edge>942 285/+</edge>
+	<edge>368 194/+</edge>
+	<edge>250 285/+</edge>
+	<edge>967 250/+</edge>
+	<edge>15 673/+</edge>
+	<edge>649 285/+</edge>
+	<edge>926 368/+</edge>
+	<edge>398 111/+</edge>
+	<edge>469 368/+</edge>
+	<edge>469 643/+</edge>
+	<edge>111 204/+</edge>
+	<edge>469 942/+</edge>
+	<edge>285 469/+</edge>
+	<edge>251 795/+</edge>
+	<edge>926 181/+</edge>
+	<edge>649 15/+</edge>
+	<edge>194 469/+</edge>
+	<edge>967 15/+</edge>
+	<edge>468 795/+</edge>
+</graph>
+<graph> 
+	<node>103</node>
+
+</graph>
+<graph> 
+	<node>123</node>
+
+</graph>
+<graph> 
+	<node>124</node>
+
+</graph>
+<graph> 
+	<node>502</node>
+
+</graph>
+<graph> 
+	<node>210</node>
+
+</graph>
+<graph> 
+	<node>874</node>
+
+</graph>
+<graph> 
+	<node>206</node>
+
+</graph>
+<graph> 
+	<node>13</node>
+
+</graph>
+<graph> 
+	<node>268</node>
+
+</graph>
+<graph> 
+	<node>510</node>
+
+</graph>
+<graph> 
+	<node>884</node>
+
+</graph>
+<graph> 
+	<node>720</node>
+
+</graph>
+<graph> 
+	<node>329</node>
+
+</graph>
+<graph> 
+	<node>37</node>
+
+</graph>
+<graph> 
+	<node>695</node>
+
+</graph>
+<graph> 
+	<node>472</node>
+
+</graph>
+<graph> 
+	<node>977</node>
+
+</graph>
+<graph> 
+	<node>503</node>
+
+</graph>
+<graph> 
+	<node>962</node>
+
+</graph>
+
+Anticoalitions: 
+
+
+Time: 2 seconds
+

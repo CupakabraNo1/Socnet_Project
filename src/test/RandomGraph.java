@@ -43,8 +43,8 @@ public class RandomGraph{
 	}
 	
 	private void generateGraphEdges() {
+		
 		//clusters
-		System.out.println("Groups");
 		List<Integer> nodes=graph.getVertices().stream().collect(Collectors.toList());
 		Collections.shuffle(nodes);
 		Set<Set<Integer>> groups=new HashSet<>();
@@ -58,21 +58,13 @@ public class RandomGraph{
 			groups.add(g);
 		}
 		groups.add(nodes.stream().collect(Collectors.toSet()));
-		System.out.println(groups.size());
-		int k=1;
-		for(Set<Integer> s:groups) {
-			System.out.println(k++ +"--->"+s.size());
-		}
-		System.out.println("Groups end");
 		
 		//+edges
-		System.out.println("+");
 		groups.stream().forEach(x->makePlus(x));	
-		System.out.println("+ ok");
 		numOfPlus=graph.getEdges().size();
 		
 		//-edges
-		System.out.println("-");
+		
 		List<List<Integer>> l1=groups.stream().map(x->new ArrayList<>(x)).collect(Collectors.toList());
 		List<List<Integer>> l2=groups.stream().map(x->new ArrayList<>(x)).collect(Collectors.toList());
 		Collections.shuffle(l1);
@@ -85,30 +77,28 @@ public class RandomGraph{
 				makeMinus(c1,c2);
 			i++;
 		}
-		System.out.println("- ok");
 	}
 	
 	private void makeMinus(List<Integer> c1, List<Integer> c2) {
-		int m=random.nextInt(0, Math.min(c1.size(), c2.size())-1);
-		Collections.shuffle(c1);
-		Collections.shuffle(c2);
-		while(m>=0) {
-			Integer s=c1.get(m);
-			Integer t=c2.get(m);
-			graph.addEdge(s+" "+t, false, s, t);
-			m--;
+		int r=random.nextInt(1, 200);
+		System.out.println(r);
+		while(r>0) {
+			int m=random.nextInt(0, Math.min(c1.size(), c2.size())-1);
+			Collections.shuffle(c1);
+			Collections.shuffle(c2);
+			while(m>=0) {
+				Integer s=c1.get(m);
+				Integer t=c2.get(m);
+				graph.addEdge(s+" "+t, false, s, t);
+				m--;
+			}
+			r--;
 		}
 	}
 
 	private void makePlus(Set<Integer> cluster) {
 		LinkedList<Integer> list=new LinkedList<>(cluster);
-		Collections.shuffle(list);
-		for(int i=0; i<list.size()-1; i++) {
-			Integer s=list.get(i);
-			Integer t=list.get(i+1);
-			graph.addEdge(s+" "+t, true, s, t);
-		}
-		int r=random.nextInt(0, 3);
+		int r=random.nextInt(1, 5);
 		while(r>0) {
 			Collections.shuffle(list);
 			for(int i=0; i<list.size()-1; i++) {

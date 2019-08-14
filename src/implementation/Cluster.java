@@ -61,7 +61,7 @@ public class Cluster<V,E> {
 	@Override
 	public String toString() {
 		StringBuilder sb=new StringBuilder();
-		sb.append("Cluster:"+name);
+		sb.append(name);
 		return sb.toString();
 	}
 

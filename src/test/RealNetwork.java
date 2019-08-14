@@ -35,13 +35,10 @@ public class RealNetwork {
 		try {
 			BufferedReader reader=new BufferedReader(new FileReader(new File(WIKI)));
 			String line="";
-			int i=0;
 			Map<String,Boolean> map=new HashMap<String, Boolean>();
 			try {
 				line=reader.readLine();
 				while (line!=null) {
-					System.out.println(i++);
-
 					if(line.startsWith("SRC:")) {
 						String sorce=line.substring(4);
 						

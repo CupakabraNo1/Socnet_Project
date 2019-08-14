@@ -1,0 +1,45 @@
+Number of nodes: 5
+Number of edges: 5
+Percentage of positiv edges: 40.0 %
+Clusterable: YES
+Number of clusters: 3
+Number of links for removal: 0
+Number of coalitions: 3
+Number of anticoalitions: 0
+Graph contains giant component: NO
+Averega degree in graph: 2.00
+Average density in graph: 0.67
+Cluster network: 
+</graph>
+	<node>cluster 0</node>
+	<node>cluster 2</node>
+	<node>cluster 1</node>
+
+	<edge>cluster 0 cluster 1</edge>
+	<edge>cluster 0 cluster 2</edge>
+	<edge>cluster 2 cluster 1</edge>
+</graph>
+Links for removal: 
+
+Coalitions: 
+<graph> 
+	<node>3</node>
+	<node>4</node>
+
+	<edge>3 4/+</edge>
+</graph>
+<graph> 
+	<node>5</node>
+
+</graph>
+<graph> 
+	<node>1</node>
+	<node>2</node>
+
+	<edge>1 2/+</edge>
+</graph>
+
+Anticoalitions: 
+
+
+Time: 0 seconds

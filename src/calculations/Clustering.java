@@ -1,6 +1,11 @@
 package calculations;
 
+import java.text.DecimalFormat;
+import java.text.Format;
+import java.text.NumberFormat;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Formatter;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
@@ -18,19 +23,19 @@ import implementation.Cluster;
 import implementation.UndirectedAffinityGraph;
 
 
-public class Clustering<V,L> {
+public class Clustering<V,E> {
 	
-	private UndirectedAffinityGraph<V, L> graph;
+	private UndirectedAffinityGraph<V, E> graph;
 	private Set<V> visited;
-	private Set<UndirectedAffinityGraph<V, L>> clusters;
+	private Set<UndirectedAffinityGraph<V, E>> clusters;
 	private Set<Set<V>> components;
-	public List<L> list;
+	public List<E> list;
 	
-	public Clustering(UndirectedAffinityGraph<V, L> graph) {
+	public Clustering(UndirectedAffinityGraph<V, E> graph) {
 		this.graph=graph.clone();
 		clusters=new HashSet<>();
 		components=new HashSet<Set<V>>();
-		list=new LinkedList<L>();
+		list=new LinkedList<E>();
 		components();
 		clustering();
 	}
@@ -39,16 +44,16 @@ public class Clustering<V,L> {
 		return components;
 	}
 	
-	public Set<UndirectedAffinityGraph<V, L>> getClusters(){
+	public Set<UndirectedAffinityGraph<V, E>> getClusters(){
 		return clusters;
 	}
 	
 	private void clustering() {
 		for(Set<V> s:components) {
-			UndirectedAffinityGraph<V, L> cluster=new UndirectedAffinityGraph<>();
+			UndirectedAffinityGraph<V, E> cluster=new UndirectedAffinityGraph<>();
 			s.stream().forEach(x->cluster.addVertex(x));
-			Map<L, Boolean> map=graph.getEdges();
-			for(L l:map.keySet()) {
+			Map<E, Boolean> map=graph.getEdges();
+			for(E l:map.keySet()) {
 				Pair<V> pair=graph.getPair(l,map.get(l));
 				if(pair!=null && cluster.getVertices().contains(pair.getFirst()) && cluster.getVertices().contains(pair.getSecond())){
 					cluster.addEdge(l, map.get(l), pair.getFirst(), pair.getSecond());
@@ -88,17 +93,17 @@ public class Clustering<V,L> {
 	}
 	
 	public boolean isClusterable() {
-		for(UndirectedAffinityGraph<V, L> g:clusters) {
+		for(UndirectedAffinityGraph<V, E> g:clusters) {
 			 if(g.getEdges().values().stream().collect(Collectors.toList()).contains(false)) return false;
 		}
 		return true;
 	}
 	
-	public Map<Boolean, List<UndirectedAffinityGraph<V, L>>> coalitions(){
-		Map<Boolean, List<UndirectedAffinityGraph<V, L>>> map=new TreeMap<>();
-		List<UndirectedAffinityGraph<V, L>> t=new ArrayList<>();
-		List<UndirectedAffinityGraph<V, L>> f=new ArrayList<>();
-		for(UndirectedAffinityGraph<V, L> c:clusters) {
+	public Map<Boolean, List<UndirectedAffinityGraph<V, E>>> coalitions(){
+		Map<Boolean, List<UndirectedAffinityGraph<V, E>>> map=new TreeMap<>();
+		List<UndirectedAffinityGraph<V, E>> t=new ArrayList<>();
+		List<UndirectedAffinityGraph<V, E>> f=new ArrayList<>();
+		for(UndirectedAffinityGraph<V, E> c:clusters) {
 			if(coalition(c)) {
 				t.add(c);
 			}else {
@@ -114,7 +119,7 @@ public class Clustering<V,L> {
 		return !cluster.getEdges().values().contains(false);
 	}
 	
-	public List<L> forRemoval(){
+	public List<E> forRemoval(){
 		return clusters.stream()
 				.flatMap(x->x.getEdges()
 						.entrySet()
@@ -124,20 +129,21 @@ public class Clustering<V,L> {
 				.collect(Collectors.toList());
 	}
 	
-	public UndirectedSparseGraph<Cluster<V, L>, String> clusterNetwork(){
-		UndirectedSparseGraph<Cluster<V,L>, String> network=new UndirectedSparseGraph<Cluster<V,L>, String>();
+	public UndirectedSparseGraph<Cluster<V, E>, String> clusterNetwork(){
+		UndirectedSparseGraph<Cluster<V,E>, String> network=new UndirectedSparseGraph<Cluster<V,E>, String>();
 		int br=0;
-		Set<Cluster<V, L>> clus=new HashSet<>();
-		for(UndirectedAffinityGraph<V, L> g:clusters) {
-			Cluster<V, L> cluster=new Cluster<>();
+		Set<Cluster<V, E>> clus=new HashSet<>();
+		for(UndirectedAffinityGraph<V, E> g:clusters) {
+			Cluster<V, E> cluster=new Cluster<>();
 			cluster.setName(br++);
 			cluster.setGraph(g);
 			clus.add(cluster);
 		}
 		
-		for(Cluster<V, L> s:clus) {
-			Set<V> nei=s.nodes().stream().flatMap(x->graph.getNeighbours(x, false).stream()).filter(y->!s.nodes().contains(y)).collect(Collectors.toSet());
-			for(Cluster<V,L> t:clus) {
+		for(Cluster<V, E> s:clus) {
+			Set<V> nei=s.nodes().stream().flatMap(x->graph.getNeighbours(x, false).stream()).
+					filter(y->!s.nodes().contains(y)).collect(Collectors.toSet());
+			for(Cluster<V,E> t:clus) {
 				for(V v:nei) {
 					if(t.nodes().contains(v)) network.addEdge(s.getName()+" "+t.getName(),s, t);
 				}
@@ -146,5 +152,83 @@ public class Clustering<V,L> {
 		
 		return network;
 	}
+	
+	public int numberOfNodes() {
+		return graph.getVertices().size();
+	}
+	
+	public int numberOfEdges() {
+		return graph.getEdges().entrySet().size();
+	}
+	
+	public String percenteOfPositive() {
+		double numOfNodes=graph.getEdges().size()*1.0;
+		NumberFormat formatter = new DecimalFormat("#0.00");
+		return formatter.format((graph.getEdges().entrySet().stream().filter(x->x.getValue()).count()*100)/numOfNodes);
+	}
+	
+	public int numberOfClusters() {
+		return clusters.size();
+	}
+	
+	public String formatRemoval() {
+		StringBuilder sb=new StringBuilder();
+		List<E> fr=forRemoval();
+		for (int i = 0; i < fr.size(); i++) {
+			if(i==fr.size()-1) sb.append(fr.get(i));
+			else sb.append(fr.get(i)+", ");
+			if(i%2==1) sb.append("\n");	
+		}
+		return sb.toString();
+	}
+	
+	public int numberOfCoalitions() {
+		return (int)coalitions().entrySet().stream().filter(x->x.getKey()).flatMap(x->x.getValue().stream()).count();
+	}
+	
+	public int numberOfAnticoalitions() {
+		return (int)coalitions().entrySet().stream().filter(x->!x.getKey()).flatMap(x->x.getValue().stream()).count();
+	}
+	
+	public String formatCoalitions() {
+		StringBuilder sb=new StringBuilder();
+		Map<Boolean, List<UndirectedAffinityGraph<V, E>>> coal=coalitions();
+		sb.append("Coalitions: \n");
+		coal.get(true).stream().forEach(x->sb.append(x+"\n"));
+		sb.append("\nAnticoalitions: \n");
+		coal.get(false).stream().forEach(x->sb.append(x+"\n"));
+		return sb.append("\n").toString();
+	}
+	public double averageDegree() {
+		return graph.getVertices().stream().mapToInt(x->graph.getDegree(x)).average().getAsDouble();
+	}
+	
+	public boolean existenceOfGiant() {
+		double efp=(graph.getVertices().size()*85)/100;
+		return clusters.stream().filter(x->x.getVertices().size()>=efp).collect(Collectors.toList()).size()>0;
+	}
+	
+	public double averageDensityOfClusters() {
+		return clusters.stream().mapToDouble(x->density(x)).average().getAsDouble();
+	}
+	
+	private double density(UndirectedAffinityGraph<V, E> clust) {
+		int max=(clust.getVertices().size()*(clust.getVertices().size()-1))/2;
+		if(max==0) return 0;
+		return clust.getEdges().size()/max;
+	}
+	
+	public String formatClusterNetwork() {
+		StringBuffer sb=new StringBuffer();
+		sb.append("</graph>\n");
+		UndirectedSparseGraph<Cluster<V,E>, String> cn=clusterNetwork();
+		cn.getVertices().stream().forEach(x->sb.append("\t<node>"+x+"</node>\n"));
+		sb.append("\n");
+		cn.getEdges().stream().forEach(x->sb.append("\t<edge>"+x+"</edge>\n"));
+		sb.append("</graph>");
+		return sb.toString();
+	}
+	
+	
 
 }
