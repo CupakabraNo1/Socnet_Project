@@ -3,10 +3,6 @@
 This is a program made for analysis of signed networks. 
 It includes test examples (real or random made social networks).
 
-##Project status
-
-Project completed.
-
 ## Installation
 
 Download the zip folder containing project and then import it in your JDE (preferable Eclipse).
@@ -22,3 +18,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 No license
+
+#Project status
+
+Project completed.
