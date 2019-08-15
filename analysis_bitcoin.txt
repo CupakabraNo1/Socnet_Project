@@ -1,14 +1,29 @@
+Welcome to program for analysis of social network.
+Please choose option number:
+1 - small network analysis
+2 - random network analysis
+3 - real network analysis
+4 - back
+3
+
+Chose network you want to analyse
+1 - Bitcoin Alpha trust weighted signed network
+2 - Wikipedia Requests for Adminship
+1
+This may take a while...
 Number of nodes: 3783
 Number of edges: 14124
-Percentage of positiv edges: 90.08 %
+Percentage of positive edges: 90.09 %
 Clusterable: NO
 Number of clusters: 122
 Number of links for removal: 1213
 Number of coalitions: 121
 Number of anticoalitions: 1
+Averega degree in coalitions: 0.05
+Averega degree in anticoalitions: 7.62
+Average density in coalitions: 0.04
+Average density in anticoalitions: 0.00
 Graph contains giant component: YES
-Averega degree in graph: 7.47
-Average density in graph: 0.04
 Cluster network: 
 </graph>
 	<node>cluster 12</node>
@@ -18948,4 +18963,5 @@ Anticoalitions:
 </graph>
 
 
-Time: 22 seconds
+Time: 26 seconds
+

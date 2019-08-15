@@ -1,11 +1,8 @@
 package calculations;
 
 import java.text.DecimalFormat;
-import java.text.Format;
 import java.text.NumberFormat;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Formatter;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
@@ -15,7 +12,6 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import edu.uci.ics.jung.graph.UndirectedSparseGraph;
 import edu.uci.ics.jung.graph.util.Pair;
@@ -30,12 +26,14 @@ public class Clustering<V,E> {
 	private Set<UndirectedAffinityGraph<V, E>> clusters;
 	private Set<Set<V>> components;
 	public List<E> list;
+	Map<Boolean, List<UndirectedAffinityGraph<V, E>>> map;
 	
 	public Clustering(UndirectedAffinityGraph<V, E> graph) {
 		this.graph=graph.clone();
 		clusters=new HashSet<>();
 		components=new HashSet<Set<V>>();
 		list=new LinkedList<E>();
+		map=new TreeMap<>();
 		components();
 		clustering();
 	}
@@ -100,7 +98,7 @@ public class Clustering<V,E> {
 	}
 	
 	public Map<Boolean, List<UndirectedAffinityGraph<V, E>>> coalitions(){
-		Map<Boolean, List<UndirectedAffinityGraph<V, E>>> map=new TreeMap<>();
+		Map<Boolean,List<UndirectedAffinityGraph<V, E>>> map=new TreeMap<>();
 		List<UndirectedAffinityGraph<V, E>> t=new ArrayList<>();
 		List<UndirectedAffinityGraph<V, E>> f=new ArrayList<>();
 		for(UndirectedAffinityGraph<V, E> c:clusters) {
@@ -112,6 +110,7 @@ public class Clustering<V,E> {
 		}
 		map.put(true, t);
 		map.put(false, f);
+		this.map=map;
 		return map;
 	}
 	
@@ -183,11 +182,11 @@ public class Clustering<V,E> {
 	}
 	
 	public int numberOfCoalitions() {
-		return (int)coalitions().entrySet().stream().filter(x->x.getKey()).flatMap(x->x.getValue().stream()).count();
+		return coalitions().get(true).size();
 	}
 	
 	public int numberOfAnticoalitions() {
-		return (int)coalitions().entrySet().stream().filter(x->!x.getKey()).flatMap(x->x.getValue().stream()).count();
+		return (int)map.get(false).size();
 	}
 	
 	public String formatCoalitions() {
@@ -199,8 +198,17 @@ public class Clustering<V,E> {
 		coal.get(false).stream().forEach(x->sb.append(x+"\n"));
 		return sb.append("\n").toString();
 	}
-	public double averageDegree() {
-		return graph.getVertices().stream().mapToInt(x->graph.getDegree(x)).average().getAsDouble();
+	
+	public double averageDegreeInCoalition() {
+		return map.get(true).stream().mapToDouble(x->averageDegree(x)).average().orElse(0);
+	}
+	
+	public double averageDegreeInAnticoalition() {
+		return map.get(false).stream().mapToDouble(x->averageDegree(x)).average().orElse(0);
+	}
+	
+	public static<V,E> double averageDegree(UndirectedAffinityGraph<V, E> clus) {
+		return clus.getVertices().stream().mapToInt(x->clus.getDegree(x)).average().orElse(0.00);
 	}
 	
 	public boolean existenceOfGiant() {
@@ -208,11 +216,15 @@ public class Clustering<V,E> {
 		return clusters.stream().filter(x->x.getVertices().size()>=efp).collect(Collectors.toList()).size()>0;
 	}
 	
-	public double averageDensityOfClusters() {
-		return clusters.stream().mapToDouble(x->density(x)).average().getAsDouble();
+	public double averageDensityOfCoalitions() {
+		return map.get(true).stream().mapToDouble(x->density(x)).average().orElse(0.00);
 	}
 	
-	private double density(UndirectedAffinityGraph<V, E> clust) {
+	public double averageDensityOfAnticoalitions() {
+		return map.get(false).stream().mapToDouble(x->density(x)).average().orElse(0.00);
+	}
+	
+	private static<V,E> double density(UndirectedAffinityGraph<V, E> clust) {
 		int max=(clust.getVertices().size()*(clust.getVertices().size()-1))/2;
 		if(max==0) return 0;
 		return clust.getEdges().size()/max;

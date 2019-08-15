@@ -1,14 +1,24 @@
+Welcome to program for analysis of social network.
+Please choose option number: 
+1 - small network analysis
+2 - random network analysis
+3 - real network analysis
+4 - back
+1
+
 Number of nodes: 5
 Number of edges: 5
-Percentage of positiv edges: 40.0 %
+Percentage of positive edges: 40.00 %
 Clusterable: YES
 Number of clusters: 3
 Number of links for removal: 0
 Number of coalitions: 3
 Number of anticoalitions: 0
+Averega degree in coalitions: 0.67
+Averega degree in anticoalitions: 0.00
+Average density in coalitions: 0.67
+Average density in anticoalitions: 0.00
 Graph contains giant component: NO
-Averega degree in graph: 2.00
-Average density in graph: 0.67
 Cluster network: 
 </graph>
 	<node>cluster 0</node>

@@ -1,7 +1,6 @@
 package test;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -81,7 +80,6 @@ public class RandomGraph{
 	
 	private void makeMinus(List<Integer> c1, List<Integer> c2) {
 		int r=random.nextInt(1, 200);
-		System.out.println(r);
 		while(r>0) {
 			int m=random.nextInt(0, Math.min(c1.size(), c2.size())-1);
 			Collections.shuffle(c1);

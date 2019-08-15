@@ -13,7 +13,7 @@ public class SocialNetworkAnalysisProgram {
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome to program for analysis of social network.");
-		System.out.println("Pleas choose number of option: ");
+		System.out.println("Please choose option number: ");
 		System.out.println("1 - small network analysis");
 		System.out.println("2 - random network analysis");
 		System.out.println("3 - real network analysis");
@@ -88,7 +88,7 @@ public class SocialNetworkAnalysisProgram {
 			System.err.println("Bad format for number of clusters.");
 		}
 		if(numberOfNodes==0 || numberOfClusters==0 || numberOfClusters>numberOfNodes) {
-			System.err.println("You made a mistake during input./nNumber of nodes or clusters cant be 0\nand number of nodes must be greater than number of clusters");
+			System.err.println("You made a mistake during input.Number of nodes or clusters cant be 0\nand number of nodes must be greater than number of clusters");
 			return;
 		}else {
 			RandomGraph randomGraph=new RandomGraph(numberOfNodes, numberOfClusters);
@@ -109,16 +109,18 @@ public class SocialNetworkAnalysisProgram {
 		Clustering<V, E> calculations= new Clustering<V, E>(graph);
 		System.out.println("Number of nodes: " + calculations.numberOfNodes());
 		System.out.println("Number of edges: " + calculations.numberOfEdges());
-		System.out.println("Percentage of positiv edges: " + calculations.percenteOfPositive() + " %");
+		System.out.println("Percentage of positive edges: " + calculations.percenteOfPositive() + " %");
 		System.out.println("Clusterable: " + (calculations.isClusterable()? "YES":"NO"));
 		System.out.println("Number of clusters: " + calculations.numberOfClusters());
 		System.out.println("Number of links for removal: " +calculations.forRemoval().size());
 		System.out.println("Number of coalitions: " +calculations.numberOfCoalitions());
 		System.out.println("Number of anticoalitions: " +calculations.numberOfAnticoalitions());
+		System.out.println("Averege degree in coalitions: " + String.format("%.2f", calculations.averageDegreeInCoalition()));
+		System.out.println("Averege degree in anticoalitions: " + String.format("%.2f", calculations.averageDegreeInAnticoalition()));
+		System.out.println("Average density in coalitions: " + String.format("%.2f",calculations.averageDensityOfCoalitions()));
+		System.out.println("Average density in anticoalitions: " + String.format("%.2f",calculations.averageDensityOfAnticoalitions()));
+
 		System.out.println("Graph contains giant component: " + (calculations.existenceOfGiant()? "YES":"NO"));
-		System.out.println("Averega degree in graph: " + String.format("%.2f", calculations.averageDegree()));
-		System.out.println("Average density in graph: " + String.format("%.2f",calculations.averageDensityOfClusters()));
-		
 		System.out.println("Cluster network: \n" +calculations.formatClusterNetwork());
 		System.out.println("Links for removal: \n"+ calculations.formatRemoval());
 		System.out.println(calculations.formatCoalitions());
